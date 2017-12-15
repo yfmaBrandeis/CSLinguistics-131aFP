@@ -18,3 +18,17 @@ if __name__ == '__main__':
     for w in words:
         fout.write(str(w))
         fout.write('\n')
+
+    """
+    if len(scale) != 0:
+         currency_dict[(integer.decimal) + scale + symbol]
+    else:
+        if len(decimal) == 0:
+            currency_dict[integer + symbol]
+        else if len(decimal) == 1:
+            decimal append '0'
+        else if len(decimal) == 2:
+            currency_dict[integer + symbol + decimal + symbol]
+        else
+            currency_dict[(integer.decimal) + symbol]
+    """
