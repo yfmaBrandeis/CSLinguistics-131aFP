@@ -1,10 +1,11 @@
-from Collections import defaultdict
+from collections import defaultdict
+
 
 class CurrencyTable:
     def __init__(self):
         abbrevationDict = defaultdict(list())
         abbrevationDict["usd"] = (["u.s. dollar", "cent"], ["u.s. dollars", "cents"])
-        abbrevationDict["gbp"] = (["pound", "penny"] , ["pounds", "pence"])
+        abbrevationDict["gbp"] = (["pound", "penny"], ["pounds", "pence"])
         abbrevationDict["eur"] = (["euro", "cent"], ["euros", "cents"])
         abbrevationDict["yen"] = (["yen", "sen", "rin"], ["yens", "sens", "rins"])
         abbrevationDict["aud"] = (["australian dollar", "cent"], ["australian dollars", "cents"])
