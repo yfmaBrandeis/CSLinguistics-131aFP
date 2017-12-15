@@ -1,6 +1,7 @@
 from collections import defaultdict
 from num2words import num2words
 
+
 class Normalizer:
     def __init__(self):
         self.abbreviationDict = defaultdict(list)
@@ -66,6 +67,7 @@ class Normalizer:
         ex: 1234 "one thousand, two hundred and thirty-four"
     """
     def normalize_number(self, number):
+        # TODO(2): filter non-digit char and convert number to string
         digits = [char for char in number if char.isdigit()]
         digits.reverse()
         num = 0
@@ -82,6 +84,7 @@ class Normalizer:
         digits = [char for char in decimal if char.isdigit()]
         nums = ['zero', 'one', 'two', 'three', 'four', 'five', 'six', 'seven', 'eight', 'nine']
         return " ".join([nums[int(d)] for d in digits])
+
 
 if __name__ == '__main__':
     normalizer = Normalizer()
