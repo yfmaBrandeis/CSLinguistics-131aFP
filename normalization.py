@@ -1,7 +1,13 @@
 from collections import defaultdict
 from num2words import num2words
+################
 
+<<<<<<< Updated upstream
 
+=======
+#logic: with million and trillion ( different decimal format)
+################
+>>>>>>> Stashed changes
 class Normalizer:
     def __init__(self):
         self.abbreviationDict = defaultdict(list)
