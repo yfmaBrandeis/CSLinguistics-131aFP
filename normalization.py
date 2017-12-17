@@ -1,6 +1,5 @@
 from collections import defaultdict
-from num2words import num2words
-
+from num2word import num2word
 
 class Normalizer:
     def __init__(self):
@@ -25,19 +24,19 @@ class Normalizer:
         # append whole number
         whole_number = self.normalize_number(input[1])
         # check singular/plural and append currency
-        if whole_number == "one" or whole_number == "zero":
+        if whole_number == "one":
             res.extend([whole_number, self.get_currency(currency_token, True)])
         else:
             res.extend([whole_number, self.get_currency(currency_token, False)])
         if input[2] == '.':
             if len(input[3]) == 2:
                 cent_number = self.normalize_number(input[3])
-                if cent_number == 'one' or cent_number == "zero":
+                if cent_number == 'one':
                     res.extend(["and", cent_number, self.get_currency(currency_token, True, True)])
                 else:
                     res.extend(["and", cent_number, self.get_currency(currency_token, False, True)])
             else:
-                res[1:1] = ["point", self.normalize_decimal(input[3])]
+                res.extend(["point", self.normalize_decimal(input[3])])
         return " ".join(res)
 
     """get the currency's english word.
