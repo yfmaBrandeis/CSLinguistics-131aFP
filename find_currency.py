@@ -4,8 +4,13 @@ from normalization import Normalizer
 def regexfind():
     f = open('./test_data/blog.txt', 'r', encoding='utf8')
     raw = f.read()
+    # compose re from keys in normalizer's currency dictionaries
+    normalizer = Normalizer()
+    symbols = "|".join(normalizer.symbolDict.keys())
+    abbreviations =  "|".join(normalizer.abbreviationDict.keys())
+    re_currency = re.compile(r'((?i)%s|%s)\s?([\d\,\s]*\d)\.?(\d*)\s?((?i)million|billion|trillion)?' % (symbols, abbreviations))
     # divided into four groups: (currency symbol, integer, decimal, scale)
-    currency = re.findall(r'((?i)\$|USD)\s?([\d\,\s]*\d)\.?(\d*)\s?((?i)million|billion|trillion)?', raw)
+    currency = re.findall(re_currency, raw)
     return currency
 
 
