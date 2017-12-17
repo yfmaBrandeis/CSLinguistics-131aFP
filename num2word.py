@@ -54,7 +54,7 @@ if __name__ == '__main__':
     print(num2word('15'))
     print(num2word('65'))
     print(num2word('500'))
-    print(num2word('530'))
+    print(num2word('531'))
     print(num2word('1500'))
     print(num2word('100000'))
     print(num2word('110500'))

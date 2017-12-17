@@ -1,5 +1,6 @@
 from collections import defaultdict
-from num2words import num2words
+import num2word
+import re
 
 
 class Normalizer:
@@ -68,14 +69,8 @@ class Normalizer:
     """
     def normalize_number(self, number):
         # TODO(2): filter non-digit char and convert number to string
-        digits = [char for char in number if char.isdigit()]
-        digits.reverse()
-        num = 0
-        factor = 1
-        for d in digits:
-            num += int(d) * factor
-            factor *= 10
-        return num2words(num)
+        num = ''.join(re.findall(r'\d', number))
+        return num2word.num2word(num)
 
     """normalize the numbers after the decimal points into english words.
     ex: for 0.1234, the "1234" is passed as input and return "one two three four"
@@ -94,7 +89,8 @@ if __name__ == '__main__':
     # print(normalizer.get_currency("jpy", False))
     # print(normalizer.normalize_number('1234'))
     # print(normalizer.normalize_decimal('12345'))
-    print(normalizer.normalize_currency(('$', '1,000,000,000', '', '')))
-    print(normalizer.normalize_currency(('$', '1,000,000,000', '.', '00')))
-    print(normalizer.normalize_currency(('usd', '10', '.', '789')))
-    print(normalizer.normalize_currency(('jpy', '10', '.', '789')))
+    # print(normalizer.normalize_currency(('$', '1,000,000,000', '', '')))
+    # print(normalizer.normalize_currency(('$', '1,000,000,000', '.', '00')))
+    # print(normalizer.normalize_currency(('usd', '10', '.', '789')))
+    # print(normalizer.normalize_currency(('jpy', '10', '.', '789')))
+    print(normalizer.normalize_number('1234'))
