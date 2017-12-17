@@ -17,8 +17,12 @@ class Normalizer:
         self.abbreviationDict["hkd"] = (["hong kong dollar", "cent"], ["hong kong dollars", "cents"])
         self.symbolDict = defaultdict(list)
         self.symbolDict["$"] = (["dollar", "cent"], ["dollars", "cents"])
-
-        # symbolDict["￥"] = ["yen", "sen"]
+        self.symbolDict["£"] = (["pound", "penny"], ["pounds", "pennies"])
+        self.symbolDict["€"] = (["euro", "cent"], ["euros", "cents"])
+        self.symbolDict["¥"] = (["yen", "sen"], ["yens", "sens"])
+        self.symbolDict["fr"] = (["swiss franc", "rappen"], "swiss francs")
+        self.symbolDict["fr."] = (["swiss franc", "rappen"], "swiss francs")
+        self.symbolDict["kr"] = (["swedish krona", "ore"], ["swedish kronor", "ore"])
 
     """"normalize a tokenized currency input into english words"""
     def normalize_currency(self, input):
@@ -26,19 +30,19 @@ class Normalizer:
         # append whole number
         whole_number = self.normalize_number(input[1])
         # check singular/plural and append currency
-        if whole_number == "one" or whole_number == "zero":
+        if whole_number == "one":
             res.extend([whole_number, self.get_currency(currency_token, True)])
         else:
             res.extend([whole_number, self.get_currency(currency_token, False)])
         if input[2] == '.':
             if len(input[3]) == 2:
                 cent_number = self.normalize_number(input[3])
-                if cent_number == 'one' or cent_number == "zero":
+                if cent_number == 'one':
                     res.extend(["and", cent_number, self.get_currency(currency_token, True, True)])
                 else:
                     res.extend(["and", cent_number, self.get_currency(currency_token, False, True)])
             else:
-                res[1:1] = ["point", self.normalize_decimal(input[3])]
+                res.extend(["point", self.normalize_decimal(input[3])])
         return " ".join(res)
 
     """get the currency's english word.
@@ -70,7 +74,7 @@ class Normalizer:
     def normalize_number(self, number):
         # TODO(2): filter non-digit char and convert number to string
         num = ''.join(re.findall(r'\d', number))
-        return num2word.num2word(num)
+        return " ".join(num2word.num2word(num))
 
     """normalize the numbers after the decimal points into english words.
     ex: for 0.1234, the "1234" is passed as input and return "one two three four"
@@ -89,8 +93,11 @@ if __name__ == '__main__':
     # print(normalizer.get_currency("jpy", False))
     # print(normalizer.normalize_number('1234'))
     # print(normalizer.normalize_decimal('12345'))
-    # print(normalizer.normalize_currency(('$', '1,000,000,000', '', '')))
-    # print(normalizer.normalize_currency(('$', '1,000,000,000', '.', '00')))
-    # print(normalizer.normalize_currency(('usd', '10', '.', '789')))
-    # print(normalizer.normalize_currency(('jpy', '10', '.', '789')))
-    print(normalizer.normalize_number('1234'))
+    print(normalizer.normalize_currency(('$', '1,000,000,000', '', '')))
+    print(normalizer.normalize_currency(('$', '1,000,000,000', '.', '00')))
+    print(normalizer.normalize_currency(('usd', '10', '.', '789')))
+    print(normalizer.normalize_currency(('jpy', '10', '.', '789')))
+    print(normalizer.normalize_currency(('gbp', '1,000,000,000', '', '')))
+    print(normalizer.normalize_currency(('¥', '1,000,000,000', '.', '00')))
+    print(normalizer.normalize_currency(('usd', '10', '.', '789')))
+    print(normalizer.normalize_currency(('jpy', '10', '.', '789')))
