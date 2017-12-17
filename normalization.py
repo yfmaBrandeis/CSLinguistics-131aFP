@@ -1,8 +1,18 @@
 from collections import defaultdict
+<<<<<<< HEAD
 import num2word
 import re
+=======
+from num2words import num2words
+################
+>>>>>>> master
 
+<<<<<<< Updated upstream
 
+=======
+#logic: with million and trillion ( different decimal format)
+################
+>>>>>>> Stashed changes
 class Normalizer:
     def __init__(self):
         self.abbreviationDict = defaultdict(list)
