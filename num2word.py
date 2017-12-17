@@ -5,32 +5,26 @@
 
 
 def num2word(num):
-    if len(num) == 1:
-        if num == '0':
-            return []
-        else:
-            return [ones[int(num)]]
-    elif len(num) == 2:
-        if int(num[0]) == 0:
-            return num2word(num[1:])
-        elif int(num[0]) < 2:
-            return [ones[int(num)]]
-        else:
-            return [tens[int(num[0])], ones[int(num[1])]]
-    elif len(num) == 3:
-        if int(num[0]) == 0:
-            return num2word(num[1:])
-        else:
-            return [ones[int(num[0])], 'hundred'] + num2word(num[1:3])
+    if num == '':
+        return []
+    elif num[0] == '0':
+        return num2word(num[1:])
     else:
-        sc = (len(num)-1) // 3   # decide the index of scales list
-        mod = len(num) % 3       # handle if the length cannot be divided by 3
-        if mod != 0:
-            return num2word(num[:mod]) + [scales[sc]] + num2word(num[mod:])
-        elif num[:3] == '000':
-            return num2word(num[3:])
+        if len(num) == 1:
+            return [ones[int(num)]]
+        elif len(num) == 2:
+            if int(num[0]) < 2:
+                return [ones[int(num)]]
+            else:
+                return [tens[int(num[0])]] + num2word(num[1])
+        elif len(num) == 3:
+            return [ones[int(num[0])], 'hundred'] + num2word(num[1:3])
         else:
-            return num2word(num[:3]) + [scales[sc]] + num2word(num[3:])
+            # decide the scale
+            sc = (len(num)-1) // 3
+            # handle if the length cannot be divided by 3
+            group = 3 if len(num) % 3 == 0 else len(num) % 3
+            return num2word(num[:group]) + [scales[sc]] + num2word(num[group:])
 
 
 """convert digits of the input number(string type) to list of english words"""
@@ -52,13 +46,13 @@ digits = ['zero', 'one', 'two', 'three', 'four', 'five', 'six', 'seven',
 
 if __name__ == '__main__':
 
-    print(num2word('15'))
+    print(num2word('00'))
     print(num2word('65'))
     print(num2word('500'))
     print(num2word('531'))
     print(num2word('1500'))
     print(num2word('100000'))
-    print(num2word('110500'))
+    print(num2word('110510'))
     print(num2word('10000'))
     print(num2word('100100000'))
     print(num2word('100000000000'))
