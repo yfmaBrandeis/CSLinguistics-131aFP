@@ -13,7 +13,7 @@ class NewsSpider(CrawlSpider):
 
     rules = (
         Rule(
-            LinkExtractor(allow=r"/news/articles/2017-12-\d+/*"),
+            LinkExtractor(allow=r"/news/articles/2017-\d+-\d+/*"),
             callback = 'parse_news',
             follow = True
         ),
