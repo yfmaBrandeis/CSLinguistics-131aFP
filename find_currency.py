@@ -34,7 +34,7 @@ def regex_find_date():
 
 if __name__ == '__main__':
 
-    f_in = open('./bloomberg/data/bloomberg.json', 'r', encoding='utf8')
+    f_in = open('./bloomberg/data/bloombergDec.json', 'r', encoding='utf8')
     f_out = open('./out/result.txt', 'w', encoding='utf8')
     bloomberg_data = json.load(f_in)
     normalizer = Normalizer()
