@@ -3,7 +3,7 @@ from normalization import Normalizer
 import json
 
 
-def regexfind(s):
+def regex_find_currency(s):
 
     # compose re from keys in normalizer's currency dictionaries
     symbols = '\$|£|€|¥|fr|fr\.|krusd|gbp|eur|jpy|aud|cad|chf|sek|hkd'
@@ -13,6 +13,7 @@ def regexfind(s):
 
     # divided into four groups: (currency symbol, integer, decimal, scale)
     return re.findall(re_currency, s)
+
 
 def regex_find_date():
     f = open('./test_data/date.txt', 'r', encoding='utf8')
@@ -32,16 +33,17 @@ def regex_find_date():
     date = re.findall(re_date_space, raw) + re.findall(re_date_slash, raw)
     return date
 
+
 if __name__ == '__main__':
 
-    f_in = open('./bloomberg/data/bloomberg.json', 'r', encoding='utf8')
+    f_in = open('./bloomberg/data/outputYear2017.json', 'r', encoding='utf8')
     f_out = open('./out/result.txt', 'w', encoding='utf8')
     bloomberg_data = json.load(f_in)
     normalizer = Normalizer()
 
     result = []
     for js in bloomberg_data:
-        temp = regexfind(str(js["news_body"]))
+        temp = regex_find_currency(str(js["news_body"]))
         if temp is not None:
             result.append(temp)
         else:
