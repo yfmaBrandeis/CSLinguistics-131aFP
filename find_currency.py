@@ -55,5 +55,3 @@ if __name__ == '__main__':
             f_out.write(str(cur_tuple) + '\t\t' + normalizer.normalize_currency(cur_tuple))
             f_out.write('\n')
         f_out.write('\n')
-
-

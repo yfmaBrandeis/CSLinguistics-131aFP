@@ -48,15 +48,22 @@ class Normalizer:
     def normalize_currency(self, input):
         res, currency_token = [], input[0].lower()
 
-        # check singular/plural and append currency
+        # append non-decimal number and currency word
         if input[1] == '1':
             res.extend([self.normalize_number(input[1]),
                         self.get_currency(currency_token, True)])
         else:
             res.extend([self.normalize_number(input[1]),
                         self.get_currency(currency_token, False)])
+        # append scale if exist
+        if input[3] != '':
+            if input[2] != '':
+                res[len(res) - 1: len(res) - 1] = ['point', self.normalize_decimal(input[2])]
+            res[len(res) - 1: len(res) - 1] = [input[3]]
 
-        if input[2] != '':
+        # append decimal number and currency word(if only 2 decimal)
+        elif input[2] != '':
+            # append the "cents" equivalent currency word if the number has two decimal place and no scale
             if len(input[2]) == 2 and input[2] != '00':
                 cent_number = self.normalize_number(input[2])
                 if cent_number == 'one':
@@ -67,7 +74,6 @@ class Normalizer:
                                 self.get_currency(currency_token, False, True)])
             else:
                 res.extend(['point', self.normalize_decimal(input[2])])
-
         return ' '.join(res)
 
     """get the currency's english word.
