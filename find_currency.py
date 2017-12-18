@@ -1,26 +1,39 @@
 import re
 from normalization import Normalizer
+import json
+
 
 def regexfind():
-    f = open('./test_data/blog.txt', 'r', encoding='utf8')
-    raw = f.read()
+    f = open('./bloomberg/data/bloomberg.json', 'r', encoding='utf8')
+    data = json.load(f)
+
     # compose re from keys in normalizer's currency dictionaries
-    normalizer = Normalizer()
-    symbols = "|".join(normalizer.symbolDict.keys())
-    abbreviations =  "|".join(normalizer.abbreviationDict.keys())
-    re_currency = re.compile(r'((?i)%s|%s)\s?([\d\,\s]*\d)\.?(\d*)\s?((?i)million|billion|trillion)?' % (symbols, abbreviations))
+    symbols = '\$|£|€|¥|fr|fr\.|krusd|gbp|eur|jpy|aud|cad|chf|sek|hkd'
+    scales = 'hundred|thousand|million|billion|trillion'
+    re_currency = re.compile(r'((?i)%s)\s?([\d\,\s]*\d)\.?(\d*)\s?((?i)%s)?' % (symbols, scales))
+
     # divided into four groups: (currency symbol, integer, decimal, scale)
-    currency = re.findall(re_currency, raw)
-    return currency
+    result = []
+    for js in data:
+        temp = re.findall(re_currency, str(js["news_body"]))
+        if temp is not None:
+            result.append(temp)
+        else:
+            result.append([('', '', '', '')])
+    return result
 
 
 if __name__ == '__main__':
 
     fout = open('./out/result.txt', 'w', encoding='utf8')
-    normalizer = Normalizer()
 
-    words = regexfind()
-    for w in words:
-        normalizer.normalize_currency(w)
-        fout.write(str(w))
+    res = regexfind()
+
+    for ls in res:
+        fout.write('============================================\n')
+        for found in ls:
+            fout.write(str(found))
+            fout.write('\n')
         fout.write('\n')
+
+

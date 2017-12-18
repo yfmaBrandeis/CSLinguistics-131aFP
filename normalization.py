@@ -5,6 +5,7 @@ import re
 
 
 class Normalizer:
+
     def __init__(self):
         self.abbreviationDict = defaultdict(list)
         self.abbreviationDict["usd"] = (["u.s. dollar", "cent"],
@@ -107,12 +108,6 @@ class Normalizer:
 
 if __name__ == '__main__':
     normalizer = Normalizer()
-    # print(normalizer.get_currency("$", True))
-    # print(normalizer.get_currency("usd", True, True))
-    # print(normalizer.get_currency("usd", False))
-    # print(normalizer.get_currency("jpy", False))
-    # print(normalizer.normalize_number('1234'))
-    # print(normalizer.normalize_decimal('12345'))
     print(normalizer.normalize_currency(('$', '1,000,000,000', '01', '')))
     print(normalizer.normalize_currency(('$', '1,000,000,000', '10', '')))
     print(normalizer.normalize_currency(('usd', '10', '789', '')))
