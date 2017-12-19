@@ -1,8 +1,7 @@
-#encoding : utf-8
-from collections import defaultdict
-from num2word import num2word
-from num2word import digit2word
 import re
+from collections import defaultdict
+from num2word import digit2word
+from num2word import num2word
 
 
 class Normalizer:
@@ -44,47 +43,55 @@ class Normalizer:
         self.symbolDict["kr"] = (["swedish krona", "ore"],
                                  ["swedish kronor", "ore"])
 
+        self.scaleDict = dict()
+        self.scaleDict["million"] = "million"
+        self.scaleDict["m"] = "million"
+        self.scaleDict["mn"] = "million"
+        self.scaleDict["billion"] = "billion"
+        self.scaleDict["b"] = "billion"
+        self.scaleDict["bn"] = "billion"
+        self.scaleDict["trillion"] = "trillion"
+        self.scaleDict["t"] = "trillion"
+        self.scaleDict["tn"] = "trillion"
+
     """"normalize a tokenized currency input into english words
         currency tuple: (symbol/abbr, int, decimal, scale)"""
     def normalize_currency(self, input):
-        res, currency_token = [], input[0].lower()
+        currency_token = input.group(1).lower()
+        num = input.group(2)
+        decimal = input.group(3)
+        scale = input.group(4)
+        res = []
 
         # append non-decimal number and currency word
-        if input[1] == '1':
-            res.extend([self.normalize_number(input[1]),
-                        self.get_currency(currency_token, True)])
-        else:
-            res.extend([self.normalize_number(input[1]),
-                        self.get_currency(currency_token, False)])
+        res.extend([self.normalize_number(num),
+                    self.get_currency_word(currency_token, num == '1')])
+
         # append scale if exist
-        if input[3] != '':
-            if input[2] != '':
-                res[len(res) - 1: len(res) - 1] = ['point', self.normalize_decimal(input[2])]
-            res[len(res) - 1: len(res) - 1] = [input[3]]
+        if scale is not None:
+            if decimal is not None:
+                res[len(res) - 1: len(res) - 1] = ['point', self.normalize_decimal(decimal)]
+            res[len(res) - 1: len(res) - 1] = [self.get_scale_word(scale)]
 
         # append decimal number and currency word(if only 2 decimal)
-        elif input[2] != '':
-            # append the "cents" equivalent currency word if the number has two decimal place and no scale
-            if len(input[2]) == 2 and input[2] != '00':
-                cent_number = self.normalize_number(input[2])
-                if cent_number == 'one':
-                    res.extend(['and', cent_number,
-                                self.get_currency(currency_token, True, True)])
-                else:
-                    res.extend(['and', cent_number,
-                                self.get_currency(currency_token, False, True)])
+        # append the "cents" equivalent currency word if the number has two
+        # decimal place and no scale
+        elif decimal is not None:
+            if len(decimal) == 2 and decimal != '00':
+                cent_number = self.normalize_number(decimal)
+                res.extend(['and', cent_number,
+                            self.get_currency_word(currency_token, cent_number == 'one', True)])
             else:
-                res.extend(['point', self.normalize_decimal(input[2])])
-        return ' '.join(res)
+                res[len(res) - 1: len(res) - 1] = ['point', self.normalize_decimal(decimal)]
+        return ' '.join(res) + ' '
 
-    """get the currency's english word.
-    If is_single is true return singular form (ex: dollar). Otherwise return
-    plural form (ex: dollars).
+    """get the currency's english word. If is_single is true return singular 
+        form (ex: dollar). Otherwise return plural form (ex: dollars).
     """
-    def get_currency(self, currency_token, is_single, is_cent=False):
+    def get_currency_word(self, currency_token, is_single, has_cent=False):
         # currency_token is abbreviation
         if currency_token in self.abbreviationDict:
-            if not is_cent:
+            if not has_cent:
                 return self.abbreviationDict.get(currency_token)[0][0] if is_single else\
                        self.abbreviationDict.get(currency_token)[1][0]
             else:
@@ -92,22 +99,27 @@ class Normalizer:
                        self.abbreviationDict.get(currency_token)[1][1]
         # currency_token is symbol
         elif currency_token in self.symbolDict:
-            if not is_cent:
+            if not has_cent:
                 return self.symbolDict.get(currency_token)[0][0] if is_single else\
                        self.symbolDict.get(currency_token)[1][0]
             else:
                 return self.symbolDict.get(currency_token)[0][1] if is_single else\
                        self.symbolDict.get(currency_token)[1][1]
 
-    """normalize the numbers before the decimal points into english words using num2words module.
-        whitespaces and non-digit char such as ',' are ignored
+    def get_scale_word(self, scale_token):
+        # currency_token is abbreviation
+        return self.scaleDict.get(scale_token.lower())
+
+    """normalize the numbers before the decimal points into english words using 
+        num2words module. Whitespaces and non-digit char such as ',' are ignored
         ex: 1234 "one thousand, two hundred and thirty-four"
     """
     def normalize_number(self, number):
         return ' '.join(num2word(''.join(re.findall(r'\d', number))))
 
     """normalize the numbers after the decimal points into english words.
-    ex: for 0.1234, the "1234" is passed as input and return "one two three four"
+        ex: for 0.1234, the "1234" is passed as input and return "one two 
+        three four"
     """
     def normalize_decimal(self, decimal):
         return ' '.join(digit2word(decimal))
@@ -115,10 +127,4 @@ class Normalizer:
 
 if __name__ == '__main__':
 
-    normalizer = Normalizer()
-    print(normalizer.normalize_currency(('$', '1,000,000,000', '01', '')))
-    print(normalizer.normalize_currency(('$', '1,000,000,000', '10', '')))
-    print(normalizer.normalize_currency(('usd', '10', '789', '')))
-    print(normalizer.normalize_currency(('jpy', '10', '789', '')))
-    print(normalizer.normalize_currency(('gbp', '1,000,000,000', '', '')))
-    print(normalizer.normalize_currency(('¥', '1,000,000,000', '00', '')))
+    pass

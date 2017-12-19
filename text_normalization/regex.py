@@ -1,19 +1,27 @@
 import re
 from normalization import Normalizer
-import json
+
+normalizer = Normalizer()
 
 
 def regex_find_currency(s):
 
     # compose re from keys in normalizer's currency dictionaries
     symbols = '\$|£|€|¥|fr|fr\.|krusd|gbp|eur|jpy|aud|cad|chf|sek|hkd'
-    scales = 'hundred|thousand|million|billion|trillion|mn\b|bn\b|tn\b|m\b|b\b|t\b'
-    # TODO(1): handle m|b|t
-    re_currency = re.compile(r'((?i)%s)\s?([\d\,\s]*\d)\.?(\d*)\s?((?i)%s)?'
-                             % (symbols, scales))
+    scales = 'hundred\\b|thousand\\b|million\\b|billion\\b|trillion\\b|' \
+             'mn\\b|bn\\b|tn\\b|m\\b|b\\b|t\\b'
+    re_currency = re.compile(r'(?i)'               # ignore case
+                             r'(%s)'               # Group1: currency symbols
+                             r'\s?'                # optional space
+                             r'([\d\,\s]*\d)'      # Group2: non-decimal number
+                             r'\.?'                # decimal space
+                             r'(\d+)?'              # Group3: decimal number
+                             r'\s?'                # optional space
+                             r'(%s)?'              # Group4: option scale
+                             % (symbols, scales), re.X)
 
     # divided into four groups: (currency symbol, integer, decimal, scale)
-    return re.findall(re_currency, s)
+    return re.sub(re_currency, normalizer.normalize_currency, s)
 
 
 def regex_find_date():
@@ -37,23 +45,11 @@ def regex_find_date():
 
 if __name__ == '__main__':
 
-    f_in = open('./bloomberg/data/BiggerData.json', 'r', encoding='utf8')
-    f_out = open('./out/result.txt', 'w', encoding='utf8')
-    bloomberg_data = json.load(f_in)
-    normalizer = Normalizer()
+    s = '$1.010 ' \
+        '$2.02 ' \
+        '$100.40 ' \
+        '$100 millionnare ' \
+        '$100.45 m'
 
-    result = []
-    for js in bloomberg_data:
-        if 'news_body' in js.keys():
-            temp = regex_find_currency(str(js["news_body"]))
-            if temp is not None:
-                result.append(temp)
-            else:
-                result.append([('', '', '', '')])
-
-    for ls in result:
-        f_out.write('============================================\n')
-        for cur_tuple in ls:
-            f_out.write(str(cur_tuple) + '\t\t' + normalizer.normalize_currency(cur_tuple))
-            f_out.write('\n')
-        f_out.write('\n')
+    res = regex_find_currency(s)
+    print(res)
