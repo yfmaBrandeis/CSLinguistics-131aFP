@@ -6,7 +6,7 @@
 ============================================
 ('$', '6', '2', 'billion')		six point two billion dollars
 ('$', '4', '8', 'billion')		four point eight billion dollars
-('$', '7', '14', '')		seven dollars and fourteen cents
+('$', '7', '14', 't')		seven point one four t dollars
 ('$', '8', '84', '')		eight dollars and eighty four cents
 ('$', '9', '2', 'billion')		nine point two billion dollars
 ('$', '7', '', 'billion')		seven billion dollars
@@ -52,7 +52,7 @@
 ============================================
 ('$', '300,000', '', '')		three hundred thousand dollars
 ('$', '300,000', '', '')		three hundred thousand dollars
-('$', '200,000', '', '')		two hundred thousand dollars
+('$', '200,000', '', 'm')		two hundred thousand m dollars
 ('$', '100,000', '', '')		one hundred thousand dollars
 ('$', '7', '50', '')		seven dollars and fifty cents
 
@@ -98,7 +98,7 @@
 
 ============================================
 ('$', '1', '46', 'trillion')		one point four six trillion dollar
-('$', '19,000', '', '')		nineteen thousand dollars
+('$', '19,000', '', 't')		nineteen thousand t dollars
 ('$', '1,000', '', '')		one thousand dollars
 
 ============================================
@@ -480,7 +480,7 @@
 ('$', '4', '', 'billion')		four billion dollars
 
 ============================================
-('$', '300', '', '')		three hundred dollars
+('$', '300', '', 't')		three hundred t dollars
 ('$', '400', '', '')		four hundred dollars
 
 ============================================
@@ -561,7 +561,7 @@
 ('$', '1', '84', 'billion')		one point eight four billion dollar
 ('$', '31', '10', '')		thirty one dollars and ten cents
 ('$', '405', '', 'million')		four hundred five million dollars
-('$', '26', '80', '')		twenty six dollars and eighty cents
+('$', '26', '80', 't')		twenty six point eight zero t dollars
 ('$', '900', '', 'million')		nine hundred million dollars
 ('$', '18', '24', '')		eighteen dollars and twenty four cents
 ('$', '30', '58', '')		thirty dollars and fifty eight cents
@@ -595,11 +595,11 @@
 
 ============================================
 ('$', '4,000', '', '')		four thousand dollars
-('$', '4,298', '', '')		four thousand two hundred ninety eight dollars
+('$', '4,298', '', 'M')		four thousand two hundred ninety eight M dollars
 ('$', '100', '', 'million')		one hundred million dollars
 ('$', '100', '', 'million')		one hundred million dollars
 ('$', '1', '', 'million')		one million dollar
-('$', '4,827', '', '')		four thousand eight hundred twenty seven dollars
+('$', '4,827', '', 'b')		four thousand eight hundred twenty seven b dollars
 ('$', '2,221', '', '')		two thousand two hundred twenty one dollars
 
 ============================================
@@ -654,7 +654,7 @@
 ============================================
 ('$', '7,882', '', '')		seven thousand eight hundred eighty two dollars
 ('$', '6,00', '', '')		six hundred dollars
-('$', '587', '', '')		five hundred eighty seven dollars
+('$', '587', '', 'B')		five hundred eighty seven B dollars
 ('$', '140', '', '')		one hundred forty dollars
 ('$', '1,500', '', '')		one thousand five hundred dollars
 ('$', '278', '', '')		two hundred seventy eight dollars
@@ -695,7 +695,7 @@
 ('$', '12', '5', 'million')		twelve point five million dollars
 ('$', '300', '', 'million')		three hundred million dollars
 ('$', '2', '', 'billion')		two billion dollars
-('$', '2,500', '', '')		two thousand five hundred dollars
+('$', '2,500', '', 'T')		two thousand five hundred T dollars
 ('$', '90', '', 'billion')		ninety billion dollars
 ('$', '50', '', 'million')		fifty million dollars
 ('$', '150', '', 'million')		one hundred fifty million dollars
@@ -725,8 +725,8 @@
 ============================================
 ('$', '200', '', 'billion')		two hundred billion dollars
 ('$', '2,446', '', '')		two thousand four hundred forty six dollars
-('$', '600', '', '')		six hundred dollars
-('$', '1,170', '', '')		one thousand one hundred seventy dollars
+('$', '600', '', 'b')		six hundred b dollars
+('$', '1,170', '', 't')		one thousand one hundred seventy t dollars
 
 ============================================
 ('$', '9', '5', 'trillion')		nine point five trillion dollars
@@ -740,17 +740,17 @@
 ('$', '4', '', '')		four dollars
 ('$', '2', '46', '')		two dollars and forty six cents
 ('$', '8', '90', '')		eight dollars and ninety cents
-('$', '15', '', '')		fifteen dollars
+('$', '15', '', 't')		fifteen t dollars
 ('$', '25', '', '')		twenty five dollars
 ('$', '25', '', '')		twenty five dollars
-('$', '1', '34', '')		one dollar and thirty four cents
-('$', '13', '56', '')		thirteen dollars and fifty six cents
-('$', '15', '90', '')		fifteen dollars and ninety cents
+('$', '1', '34', 't')		one point three four t dollar
+('$', '13', '56', 't')		thirteen point five six t dollars
+('$', '15', '90', 't')		fifteen point nine zero t dollars
 ('$', '2', '', '')		two dollars
-('$', '25', '', '')		twenty five dollars
+('$', '25', '', 't')		twenty five t dollars
 
 ============================================
-('$', '7,000', '', '')		seven thousand dollars
+('$', '7,000', '', 'm')		seven thousand m dollars
 ('$', '7,218', '', '')		seven thousand two hundred eighteen dollars
 
 ============================================
@@ -763,10 +763,10 @@
 
 ============================================
 ('$', '5,000', '', '')		five thousand dollars
-('$', '25,000', '', '')		twenty five thousand dollars
+('$', '25,000', '', 't')		twenty five thousand t dollars
 ('$', '50,000', '', '')		fifty thousand dollars
 ('$', '3,000', '', '')		three thousand dollars
-('$', '2,544', '40', '')		two thousand five hundred forty four dollars and forty cents
+('$', '2,544', '40', 't')		two thousand five hundred forty four point four zero t dollars
 
 ============================================
 
@@ -777,7 +777,7 @@
 
 ============================================
 ('$', '11,000', '', '')		eleven thousand dollars
-('$', '10,000', '', '')		ten thousand dollars
+('$', '10,000', '', 'm')		ten thousand m dollars
 ('$', '178', '', 'billion')		one hundred seventy eight billion dollars
 ('$', '10,000', '', '')		ten thousand dollars
 ('$', '11,254', '75', '')		eleven thousand two hundred fifty four dollars and seventy five cents
@@ -822,7 +822,7 @@
 ('$', '649', '', '')		six hundred forty nine dollars
 ('$', '224', '80', '')		two hundred twenty four dollars and eighty cents
 ('$', '10', '', '')		ten dollars
-('$', '30', '', '')		thirty dollars
+('$', '30', '', 't')		thirty t dollars
 ('$', '40', '', '')		forty dollars
 
 ============================================
@@ -868,20 +868,20 @@
 
 ============================================
 ('$', '13,499', '', '')		thirteen thousand four hundred ninety nine dollars
-('$', '13,010', '', '')		thirteen thousand ten dollars
+('$', '13,010', '', 'b')		thirteen thousand ten b dollars
 ('$', '1', '', 'million')		one million dollar
 ('$', '100,000', '', '')		one hundred thousand dollars
 
 ============================================
-('$', '6,000', '', '')		six thousand dollars
-('$', '25,000', '', '')		twenty five thousand dollars
+('$', '6,000', '', 'b')		six thousand b dollars
+('$', '25,000', '', 'b')		twenty five thousand b dollars
 ('$', '7,000', '', '')		seven thousand dollars
 ('$', '5,500', '', '')		five thousand five hundred dollars
 ('$', '750', '', '')		seven hundred fifty dollars
 ('$', '25,000', '', '')		twenty five thousand dollars
 
 ============================================
-('$', '4,880', '85', '')		four thousand eight hundred eighty dollars and eighty five cents
+('$', '4,880', '85', 'b')		four thousand eight hundred eighty point eight five b dollars
 ('$', '64', '', 'billion')		sixty four billion dollars
 
 ============================================
@@ -897,8 +897,8 @@
 ('$', '10,000', '', '')		ten thousand dollars
 ('$', '8,400', '', '')		eight thousand four hundred dollars
 ('$', '500', '', '')		five hundred dollars
-('$', '370', '', '')		three hundred seventy dollars
-('$', '8,374', '', '')		eight thousand three hundred seventy four dollars
+('$', '370', '', 'T')		three hundred seventy T dollars
+('$', '8,374', '', 't')		eight thousand three hundred seventy four t dollars
 ('$', '31', '', 'million')		thirty one million dollars
 ('$', '500', '', 'million')		five hundred million dollars
 ('$', '14,000', '', '')		fourteen thousand dollars
@@ -919,8 +919,8 @@
 
 ============================================
 ('$', '7,000', '', '')		seven thousand dollars
-('$', '5,000', '', '')		five thousand dollars
-('$', '7,392', '', '')		seven thousand three hundred ninety two dollars
+('$', '5,000', '', 'm')		five thousand m dollars
+('$', '7,392', '', 'b')		seven thousand three hundred ninety two b dollars
 ('$', '7,025', '', '')		seven thousand twenty five dollars
 
 ============================================
@@ -949,7 +949,7 @@
 ('$', '331', '', '')		three hundred thirty one dollars
 
 ============================================
-('$', '7,000', '', '')		seven thousand dollars
+('$', '7,000', '', 't')		seven thousand t dollars
 
 ============================================
 ('$', '8', '24', '')		eight dollars and twenty four cents
@@ -960,7 +960,7 @@
 ('$', '16', '', '')		sixteen dollars
 ('$', '20', '', '')		twenty dollars
 ('$', '17', '', '')		seventeen dollars
-('$', '29', '', '')		twenty nine dollars
+('$', '29', '', 'T')		twenty nine T dollars
 ('$', '1', '6', 'billion')		one point six billion dollar
 ('$', '1', '', 'billion')		one billion dollar
 ('$', '24,000', '', '')		twenty four thousand dollars
@@ -977,14 +977,14 @@
 ('$', '675', '', 'million')		six hundred seventy five million dollars
 
 ============================================
-('$', '3,000', '', '')		three thousand dollars
+('$', '3,000', '', 'B')		three thousand B dollars
 ('$', '2,877', '', '')		two thousand eight hundred seventy seven dollars
 ('$', '2,877', '', '')		two thousand eight hundred seventy seven dollars
 
 ============================================
-('$', '2,360', '', '')		two thousand three hundred sixty dollars
+('$', '2,360', '', 't')		two thousand three hundred sixty t dollars
 ('$', '2,600', '', '')		two thousand six hundred dollars
-('$', '25,000', '', '')		twenty five thousand dollars
+('$', '25,000', '', 'b')		twenty five thousand b dollars
 ('$', '680', '', '')		six hundred eighty dollars
 ('$', '6,064', '', '')		six thousand sixty four dollars
 ('$', '688', '', '')		six hundred eighty eight dollars
@@ -994,7 +994,7 @@
 ============================================
 
 ============================================
-('$', '5,000', '', '')		five thousand dollars
+('$', '5,000', '', 't')		five thousand t dollars
 ('$', '500', '', 'million')		five hundred million dollars
 ('$', '25,000', '', '')		twenty five thousand dollars
 ('$', '10,000', '', '')		ten thousand dollars
@@ -1033,7 +1033,7 @@
 ('$', '5', '', 'million')		five million dollars
 ('$', '10', '', 'million')		ten million dollars
 ('$', '10', '', 'million')		ten million dollars
-('$', '75,000', '', '')		seventy five thousand dollars
+('$', '75,000', '', 't')		seventy five thousand t dollars
 ('$', '100', '', 'million')		one hundred million dollars
 
 ============================================
@@ -1048,7 +1048,7 @@
 ('$', '500', '', 'million')		five hundred million dollars
 ('$', '150', '', 'million')		one hundred fifty million dollars
 ('$', '350', '', 'million')		three hundred fifty million dollars
-('$', '5,000', '', '')		five thousand dollars
+('$', '5,000', '', 't')		five thousand t dollars
 ('$', '5,000', '', '')		five thousand dollars
 ('$', '4,980', '', '')		four thousand nine hundred eighty dollars
 ('$', '3,000', '', '')		three thousand dollars
@@ -1062,7 +1062,7 @@
 ('$', '75', '', 'million')		seventy five million dollars
 
 ============================================
-('$', '60', '', '')		sixty dollars
+('$', '60', '', 't')		sixty t dollars
 ('$', '200', '', '')		two hundred dollars
 ('$', '98', '', '')		ninety eight dollars
 ('$', '1', '6', 'billion')		one point six billion dollar
@@ -1128,7 +1128,7 @@
 ('$', '1,000', '', '')		one thousand dollars
 ('$', '500', '', '')		five hundred dollars
 ('$', '1,400', '', '')		one thousand four hundred dollars
-('$', '300', '', '')		three hundred dollars
+('$', '300', '', 't')		three hundred t dollars
 ('$', '600', '', '')		six hundred dollars
 ('$', '2,255', '50', '')		two thousand two hundred fifty five dollars and fifty cents
 ('$', '69', '', 'million')		sixty nine million dollars
@@ -1415,7 +1415,7 @@
 ('$', '300', '', 'million')		three hundred million dollars
 
 ============================================
-('$', '1,162', '', '')		one thousand one hundred sixty two dollars
+('$', '1,162', '', 't')		one thousand one hundred sixty two t dollars
 ('$', '900', '', '')		nine hundred dollars
 ('$', '2', '', 'million')		two million dollars
 ('$', '16', '', 'billion')		sixteen billion dollars
@@ -1423,7 +1423,7 @@
 
 ============================================
 ('$', '7,882', '', '')		seven thousand eight hundred eighty two dollars
-('$', '1,000', '', '')		one thousand dollars
+('$', '1,000', '', 'b')		one thousand b dollars
 ('$', '6,575', '', '')		six thousand five hundred seventy five dollars
 ('$', '900', '', '')		nine hundred dollars
 ('$', '565', '', '')		five hundred sixty five dollars
@@ -1436,7 +1436,7 @@
 
 ============================================
 ('$', '11,000', '', '')		eleven thousand dollars
-('$', '11,434', '', '')		eleven thousand four hundred thirty four dollars
+('$', '11,434', '', 'b')		eleven thousand four hundred thirty four b dollars
 ('$', '9,009', '', '')		nine thousand nine dollars
 ('$', '9,911', '10', '')		nine thousand nine hundred eleven dollars and ten cents
 ('$', '10,000', '', '')		ten thousand dollars
@@ -1448,7 +1448,7 @@
 ============================================
 ('$', '257', '', 'million')		two hundred fifty seven million dollars
 ('$', '232', '', 'million')		two hundred thirty two million dollars
-('$', '6,000', '', '')		six thousand dollars
+('$', '6,000', '', 'T')		six thousand T dollars
 ('$', '35', '', 'million')		thirty five million dollars
 ('$', '300', '', 'million')		three hundred million dollars
 
@@ -1827,13 +1827,13 @@
 ============================================
 ('$', '7', '80', '')		seven dollars and eighty cents
 ('$', '120', '', 'million')		one hundred twenty million dollars
-('$', '7', '75', '')		seven dollars and seventy five cents
+('$', '7', '75', 't')		seven point seven five t dollars
 ('$', '7', '85', '')		seven dollars and eighty five cents
 ('$', '7', '85', '')		seven dollars and eighty five cents
 ('$', '7', '80', '')		seven dollars and eighty cents
 ('$', '7', '7922', '')		seven dollars point seven nine two two
 ('$', '7', '80', '')		seven dollars and eighty cents
-('$', '7', '755', '')		seven dollars point seven five five
+('$', '7', '755', 't')		seven point seven five five t dollars
 ('$', '7', '77', '')		seven dollars and seventy seven cents
 ('$', '14', '5', 'billion')		fourteen point five billion dollars
 ('$', '7', '85', '')		seven dollars and eighty five cents
@@ -2423,11 +2423,11 @@
 ('$', '1', '', 'billion')		one billion dollar
 
 ============================================
-('$', '4,500', '', '')		four thousand five hundred dollars
+('$', '4,500', '', 't')		four thousand five hundred t dollars
 ('$', '4,800', '', '')		four thousand eight hundred dollars
-('$', '6,000', '', '')		six thousand dollars
+('$', '6,000', '', 'b')		six thousand b dollars
 ('$', '7,500', '', '')		seven thousand five hundred dollars
-('$', '4,000', '', '')		four thousand dollars
+('$', '4,000', '', 'm')		four thousand m dollars
 ('$', '4,477', '', '')		four thousand four hundred seventy seven dollars
 ('$', '4,827', '', '')		four thousand eight hundred twenty seven dollars
 ('$', '100', '', 'billion')		one hundred billion dollars
@@ -2436,8 +2436,8 @@
 ('$', '10,000', '', '')		ten thousand dollars
 ('$', '3,800', '', '')		three thousand eight hundred dollars
 ('$', '2', '', 'billion')		two billion dollars
-('$', '25,000', '', '')		twenty five thousand dollars
-('$', '50,000', '', '')		fifty thousand dollars
+('$', '25,000', '', 'b')		twenty five thousand b dollars
+('$', '50,000', '', 'b')		fifty thousand b dollars
 
 ============================================
 ('$', '1', '', 'billion')		one billion dollar
@@ -2449,9 +2449,9 @@
 ============================================
 ('$', '12', '4', 'billion')		twelve point four billion dollars
 ('$', '11', '96', 'billion')		eleven point nine six billion dollars
-('$', '1', '59', '')		one dollar and fifty nine cents
+('$', '1', '59', 't')		one point five nine t dollar
 ('$', '1', '66', '')		one dollar and sixty six cents
-('$', '1', '55', '')		one dollar and fifty five cents
+('$', '1', '55', 't')		one point five five t dollar
 ('$', '1', '65', '')		one dollar and sixty five cents
 ('$', '1', '62', '')		one dollar and sixty two cents
 ('$', '1', '', 'billion')		one billion dollar
@@ -2545,7 +2545,7 @@
 ============================================
 ('$', '9', '95', '')		nine dollars and ninety five cents
 ('$', '2', '95', '')		two dollars and ninety five cents
-('$', '8', '89', '')		eight dollars and eighty nine cents
+('$', '8', '89', 't')		eight point eight nine t dollars
 ('$', '13', '25', '')		thirteen dollars and twenty five cents
 ('$', '30', '', '')		thirty dollars
 
@@ -2565,7 +2565,7 @@
 
 ============================================
 ('$', '1', '', 'trillion')		one trillion dollar
-('$', '200', '', '')		two hundred dollars
+('$', '200', '', 't')		two hundred t dollars
 ('$', '300', '', 'million')		three hundred million dollars
 ('$', '2', '', 'billion')		two billion dollars
 ('$', '6', '6', 'billion')		six point six billion dollars
@@ -2605,7 +2605,7 @@
 ('$', '40', '', 'trillion')		forty trillion dollars
 
 ============================================
-('$', '1', '88', '')		one dollar and eighty eight cents
+('$', '1', '88', 't')		one point eight eight t dollar
 ('$', '1', '98', '')		one dollar and ninety eight cents
 ('$', '2', '03', '')		two dollars and three cents
 ('$', '24', '66', '')		twenty four dollars and sixty six cents
@@ -2762,11 +2762,11 @@
 ============================================
 
 ============================================
-('$', '2,400', '', '')		two thousand four hundred dollars
+('$', '2,400', '', 't')		two thousand four hundred t dollars
 ('$', '3,800', '', '')		three thousand eight hundred dollars
 ('$', '2,795', '', '')		two thousand seven hundred ninety five dollars
 ('$', '2,700', '', '')		two thousand seven hundred dollars
-('$', '1,200', '', '')		one thousand two hundred dollars
+('$', '1,200', '', 'T')		one thousand two hundred T dollars
 ('$', '1', '3', 'billion')		one point three billion dollar
 ('$', '875', '', 'million')		eight hundred seventy five million dollars
 
@@ -2855,7 +2855,7 @@
 ('$', '5', '', 'billion')		five billion dollars
 ('$', '5', '5', 'billion')		five point five billion dollars
 ('$', '2', '', 'billion')		two billion dollars
-('$', '5', '', '')		five dollars
+('$', '5', '', 'b')		five b dollars
 ('$', '150', '', 'million')		one hundred fifty million dollars
 ('$', '5', '5', 'billion')		five point five billion dollars
 ('$', '85', '', 'billion')		eighty five billion dollars
@@ -3175,7 +3175,7 @@
 
 ============================================
 ('$', '58', '', '')		fifty eight dollars
-('$', '50', '', '')		fifty dollars
+('$', '50', '', 'T')		fifty T dollars
 ('$', '8', '9', 'billion')		eight point nine billion dollars
 ('$', '51', '74', '')		fifty one dollars and seventy four cents
 
@@ -3273,7 +3273,7 @@
 ============================================
 
 ============================================
-('$', '120,000', '', '')		one hundred twenty thousand dollars
+('$', '120,000', '', 'm')		one hundred twenty thousand m dollars
 ('$', '53', '', 'billion')		fifty three billion dollars
 ('$', '40', '', 'billion')		forty billion dollars
 ('$', '50,000', '', '')		fifty thousand dollars
@@ -3282,7 +3282,7 @@
 ('$', '90', '', '')		ninety dollars
 
 ============================================
-('$', '1', '50', '')		one dollar and fifty cents
+('$', '1', '50', 't')		one point five zero t dollar
 ('$', '3', '', '')		three dollars
 ('$', '8', '25', 'billion')		eight point two five billion dollars
 ('$', '991', '', 'million')		nine hundred ninety one million dollars
@@ -3352,7 +3352,7 @@
 ('$', '11,000', '', '')		eleven thousand dollars
 ('$', '8', '3', 'trillion')		eight point three trillion dollars
 ('$', '11,000', '', '')		eleven thousand dollars
-('$', '10,000', '', '')		ten thousand dollars
+('$', '10,000', '', 'm')		ten thousand m dollars
 
 ============================================
 ('$', '13', '4', 'billion')		thirteen point four billion dollars
@@ -3399,7 +3399,7 @@
 ============================================
 
 ============================================
-('$', '10,000', '', '')		ten thousand dollars
+('$', '10,000', '', 'T')		ten thousand T dollars
 ('$', '20,000', '', '')		twenty thousand dollars
 ('$', '20,000', '', '')		twenty thousand dollars
 
@@ -3415,7 +3415,7 @@
 
 ============================================
 ('$', '11,000', '', '')		eleven thousand dollars
-('$', '10,000', '', '')		ten thousand dollars
+('$', '10,000', '', 'm')		ten thousand m dollars
 
 ============================================
 
@@ -3529,7 +3529,7 @@
 ============================================
 ('$', '584', '', 'million')		five hundred eighty four million dollars
 ('$', '11', '4', 'billion')		eleven point four billion dollars
-('$', '563', '', '')		five hundred sixty three dollars
+('$', '563', '', 't')		five hundred sixty three t dollars
 ('$', '88', '', 'million')		eighty eight million dollars
 ('$', '1', '3', 'billion')		one point three billion dollar
 ('$', '12', '8', 'billion')		twelve point eight billion dollars
@@ -3539,7 +3539,7 @@
 ('$', '4', '', 'billion')		four billion dollars
 
 ============================================
-('$', '75,000', '', '')		seventy five thousand dollars
+('$', '75,000', '', 't')		seventy five thousand t dollars
 
 ============================================
 ('$', '52', '4', 'billion')		fifty two point four billion dollars

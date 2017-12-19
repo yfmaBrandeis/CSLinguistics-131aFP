@@ -113,6 +113,7 @@ class Normalizer:
 
 
 if __name__ == '__main__':
+
     normalizer = Normalizer()
     print(normalizer.normalize_currency(('$', '1,000,000,000', '01', '')))
     print(normalizer.normalize_currency(('$', '1,000,000,000', '10', '')))
