@@ -1,7 +1,10 @@
+import json
 import re
+
 from normalization import Normalizer
 import json
 
+normalizer = Normalizer()
 
 def regex_find_currency(s):
 
@@ -13,7 +16,7 @@ def regex_find_currency(s):
                              % (symbols, scales))
 
     # divided into four groups: (currency symbol, integer, decimal, scale)
-    return re.findall(re_currency, s)
+    return re.sub(re_currency, normalizer.normalize_currency, s)
 
 
 def regex_find_date():

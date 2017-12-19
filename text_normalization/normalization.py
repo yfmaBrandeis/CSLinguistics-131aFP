@@ -1,8 +1,8 @@
-#encoding : utf-8
-from collections import defaultdict
-from num2word import num2word
-from num2word import digit2word
 import re
+from collections import defaultdict
+
+from num2word import digit2word
+from num2word import num2word
 
 
 class Normalizer:
@@ -47,26 +47,31 @@ class Normalizer:
     """"normalize a tokenized currency input into english words
         currency tuple: (symbol/abbr, int, decimal, scale)"""
     def normalize_currency(self, input):
-        res, currency_token = [], input[0].lower()
+        currency_token = input.group(1).lower()
+        num = input.group(2)
+        decimal = input.group(3)
+        scale = input.group(4)
+        print(currency_token, num, decimal, scale)
+        res = []
 
         # append non-decimal number and currency word
-        if input[1] == '1':
-            res.extend([self.normalize_number(input[1]),
+        if num == '1':
+            res.extend([self.normalize_number(num),
                         self.get_currency(currency_token, True)])
         else:
-            res.extend([self.normalize_number(input[1]),
+            res.extend([self.normalize_number(num),
                         self.get_currency(currency_token, False)])
         # append scale if exist
-        if input[3] != '':
-            if input[2] != '':
-                res[len(res) - 1: len(res) - 1] = ['point', self.normalize_decimal(input[2])]
-            res[len(res) - 1: len(res) - 1] = [input[3]]
+        if scale is not None:
+            if decimal != '':
+                res[len(res) - 1: len(res) - 1] = ['point', self.normalize_decimal(decimal)]
+            res[len(res) - 1: len(res) - 1] = [scale]
 
         # append decimal number and currency word(if only 2 decimal)
-        elif input[2] != '':
+        elif decimal != '':
             # append the "cents" equivalent currency word if the number has two decimal place and no scale
-            if len(input[2]) == 2 and input[2] != '00':
-                cent_number = self.normalize_number(input[2])
+            if len(decimal) == 2 and decimal != '00':
+                cent_number = self.normalize_number(decimal)
                 if cent_number == 'one':
                     res.extend(['and', cent_number,
                                 self.get_currency(currency_token, True, True)])
@@ -74,7 +79,7 @@ class Normalizer:
                     res.extend(['and', cent_number,
                                 self.get_currency(currency_token, False, True)])
             else:
-                res.extend(['point', self.normalize_decimal(input[2])])
+                res.extend(['point', self.normalize_decimal(decimal)])
         return ' '.join(res)
 
     """get the currency's english word.
@@ -114,7 +119,6 @@ class Normalizer:
 
 
 if __name__ == '__main__':
-
     normalizer = Normalizer()
     print(normalizer.normalize_currency(('$', '1,000,000,000', '01', '')))
     print(normalizer.normalize_currency(('$', '1,000,000,000', '10', '')))
