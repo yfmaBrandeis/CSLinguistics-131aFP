@@ -2,11 +2,10 @@ import json
 from nltk.tokenize import word_tokenize,sent_tokenize
 from gensim.models import Word2Vec
 from nltk import ngrams
-from normalization import Normalizer
 from random import randint
 import pandas as pd
 
-normalizer = Normalizer()
+
 
 symbols = ['$','£','€','¥','fr']
 numbers = ['1.00','100','200.34','600,000']
@@ -51,7 +50,7 @@ def mean(l):
     return mean/len(l)
 
 
-def group_score(model,fgram1,fgram2,method = "average"):
+def group_score(model,fgram1,fgram2,method = "pair"):
     scores = []
     if method == "max":
         target = set(fgram2)
@@ -71,6 +70,12 @@ def group_score(model,fgram1,fgram2,method = "average"):
                     scores.append(word_score(model,word1,word2))
                 except:
                     pass
+    elif method == 'pair':
+        for i in range(len(fgram1)):
+            try:
+                scores.append(word_score(model,fgram1[i],fgram2[i]))
+            except:
+                pass
     return mean(scores)
 
 
@@ -95,4 +100,4 @@ if __name__ == "__main__":
     f_s_dict = {'group_tokens':fgrams,'score':scores}
     print(scores)
     df = pd.DataFrame(data=f_s_dict)
-    df.to_csv("result.csv", sep='\t', encoding='utf-8')
+    df.to_csv("result2.csv", sep='\t', encoding='utf-8')
