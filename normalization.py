@@ -1,3 +1,4 @@
+#encoding : utf-8
 from collections import defaultdict
 from num2word import num2word
 from num2word import digit2word
