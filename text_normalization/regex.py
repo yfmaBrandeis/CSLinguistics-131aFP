@@ -11,9 +11,14 @@ def regex_find_currency(s):
     # compose re from keys in normalizer's currency dictionaries
     symbols = '\$|£|€|¥|fr|fr\.|krusd|gbp|eur|jpy|aud|cad|chf|sek|hkd'
     scales = 'hundred|thousand|million|billion|trillion|mn|bn|tn|m|b|t'
-    # TODO(1): handle m|b|t
-    re_currency = re.compile(r'((?i)%s)\s?([\d\,\s]*\d)\.?(\d*)\s?((?i)%s)?'
-                             % (symbols, scales))
+    re_currency = re.compile(r"""(?i)                          # ignore case
+                                 (%s)                          # group1: symbols
+                                 \s?([\d\,\s]*\d)              # group2: non-decimal number
+                                 \.?                           # decimal space
+                                 (\d*)                         # group3: decimal number
+                                 \s?                           # optional space
+                                 (%s)?                         # group4: option scale
+                             """ % (symbols, scales), re.X)
 
     # divided into four groups: (currency symbol, integer, decimal, scale)
     return re.sub(re_currency, normalizer.normalize_currency, s)
