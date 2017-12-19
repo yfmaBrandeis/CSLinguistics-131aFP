@@ -2,6 +2,7 @@ import json
 import re
 
 from normalization import Normalizer
+import json
 
 normalizer = Normalizer()
 
@@ -9,8 +10,9 @@ def regex_find_currency(s):
 
     # compose re from keys in normalizer's currency dictionaries
     symbols = '\$|£|€|¥|fr|fr\.|krusd|gbp|eur|jpy|aud|cad|chf|sek|hkd'
-    scales = 'hundred|thousand|million|billion|trillion'
-    re_currency = re.compile(r'((?i)%s)\s?([\d\,\s]*\d)\.?(\d*)?((?i)%s)?'
+    scales = 'hundred|thousand|million|billion|trillion|mn|bn|tn|m|b|t'
+    # TODO(1): handle m|b|t
+    re_currency = re.compile(r'((?i)%s)\s?([\d\,\s]*\d)\.?(\d*)\s?((?i)%s)?'
                              % (symbols, scales))
 
     # divided into four groups: (currency symbol, integer, decimal, scale)
