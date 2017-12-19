@@ -1,18 +1,20 @@
-import re
-from normalization import Normalizer
 import json
+import re
 
+from normalization import Normalizer
+
+normalizer = Normalizer()
 
 def regex_find_currency(s):
 
     # compose re from keys in normalizer's currency dictionaries
     symbols = '\$|£|€|¥|fr|fr\.|krusd|gbp|eur|jpy|aud|cad|chf|sek|hkd'
     scales = 'hundred|thousand|million|billion|trillion'
-    re_currency = re.compile(r'((?i)%s)\s?([\d\,\s]*\d)\.?(\d*)\s?((?i)%s)?'
+    re_currency = re.compile(r'((?i)%s)\s?([\d\,\s]*\d)\.?(\d*)?((?i)%s)?'
                              % (symbols, scales))
 
     # divided into four groups: (currency symbol, integer, decimal, scale)
-    return re.findall(re_currency, s)
+    return re.sub(re_currency, normalizer.normalize_currency, s)
 
 
 def regex_find_date():
