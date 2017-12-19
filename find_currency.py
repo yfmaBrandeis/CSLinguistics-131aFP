@@ -7,7 +7,7 @@ def regex_find_currency(s):
 
     # compose re from keys in normalizer's currency dictionaries
     symbols = '\$|£|€|¥|fr|fr\.|krusd|gbp|eur|jpy|aud|cad|chf|sek|hkd'
-    scales = 'hundred|thousand|million|billion|trillion|mn|bn|tn|m|b|t'
+    scales = 'hundred|thousand|million|billion|trillion|mn\b|bn\b|tn\b|m\b|b\b|t\b'
     # TODO(1): handle m|b|t
     re_currency = re.compile(r'((?i)%s)\s?([\d\,\s]*\d)\.?(\d*)\s?((?i)%s)?'
                              % (symbols, scales))
@@ -37,18 +37,19 @@ def regex_find_date():
 
 if __name__ == '__main__':
 
-    f_in = open('./bloomberg/data/outputYear2017.json', 'r', encoding='utf8')
+    f_in = open('./bloomberg/data/BiggerData.json', 'r', encoding='utf8')
     f_out = open('./out/result.txt', 'w', encoding='utf8')
     bloomberg_data = json.load(f_in)
     normalizer = Normalizer()
 
     result = []
     for js in bloomberg_data:
-        temp = regex_find_currency(str(js["news_body"]))
-        if temp is not None:
-            result.append(temp)
-        else:
-            result.append([('', '', '', '')])
+        if 'news_body' in js.keys():
+            temp = regex_find_currency(str(js["news_body"]))
+            if temp is not None:
+                result.append(temp)
+            else:
+                result.append([('', '', '', '')])
 
     for ls in result:
         f_out.write('============================================\n')
