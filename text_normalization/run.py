@@ -10,7 +10,7 @@ def run(filename):
     normalizer = CurrencyNormalizer()
     f_in = open('../bloomberg/data/%s' % filename, 'r', encoding='utf8')
     f_normalized = open('../out/normalized_%s.txt' % filename, 'w', encoding='utf8')
-    f_original = open('../out/original_%s' % filename, 'w', encoding='utf8')
+    f_original = open('../out/original_%s.txt' % filename, 'w', encoding='utf8')
     f_extract = open('../out/currency_extract_%s.txt' % filename, 'w', encoding='utf8')
     bloomberg_data = json.load(f_in)
 
