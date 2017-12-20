@@ -5,11 +5,16 @@ from normalization import CurrencyNormalizer
 class RegexFinder:
 
     def __init__(self):
+        """Initialize regex matching currency units and corresponding
+        normalization functions from normalization module
+        """
         self.normalizer = CurrencyNormalizer()
         self.regex = self.compile_currency_regex()
 
-    # compose re from keys in normalizer's currency dictionaries
     def compile_currency_regex(self):
+        """Compose and return regex using keys in currency dictionary
+        :return: regex obj for matching currency units
+        """
         symbols = '\$|£|€|¥|fr|fr\.|krusd|gbp|eur|jpy|aud|cad|chf|sek|hkd'
         scales = 'hundred\\b|thousand\\b|million\\b|billion\\b|trillion\\b|' \
                  'mn\\b|bn\\b|tn\\b|m\\b|b\\b|t\\b'
@@ -26,12 +31,19 @@ class RegexFinder:
                                  % (symbols, scales), re.X)
         return re_currency
 
-    # fetch all currency tokens from a text
     def fetch_currency(self, s):
+        """Fetch all currency tokens from a text and return a list of tuples
+        :param s: text that regex testing on, string type
+        :return: a list of matched part, as a tuple of matched groups
+        """
         return re.findall(self.regex, s)
 
-    # replace all currency tokens in a text with normalized english words
     def replace_currency(self, s):
+        """Replace all currency tokens in text with normalized english words
+        :param s: text that regex testing on, string type
+        :return: text with matched part replaced with normalized english words,
+        string type
+        """
         return re.sub(self.regex, self.normalizer.normalize_currency, s)
 
 
@@ -56,13 +68,16 @@ class RegexFinder:
 
 if __name__ == '__main__':
 
-    s = '$1.010 ' \
-        '$2.02 ' \
-        '$100.40 ' \
-        '$100 millionnare ' \
-        '$100.45 m'
+    """Doctest with some simple cases"""
+    test_str = '$1.010 \n' \
+               '$2.02 \n' \
+               '$100.40 \n' \
+               '$100 millionnare \n' \
+               '$100.45 m \n' \
+               '$ 435 tn \n' \
+               '$300billion \n'
 
     rfinder = RegexFinder()
-    print(rfinder.fetch_currency_regex(s))
-    print(rfinder.replace_text_regex(s))
+    print(rfinder.fetch_currency(test_str))
+    print(rfinder.replace_currency(test_str))
 

@@ -1,0 +1,4560 @@
+
+================================================
+
+('$', '400', '', 'million')		four hundred million dollars 
+
+================================================
+
+('$', '12', '7', 'billion')		twelve point seven billion dollars 
+
+================================================
+
+('$', '876', '', 'million')		eight hundred seventy six million dollars 
+('$', '4', '8', 'billion')		four point eight billion dollars 
+('$', '17', '3', 'billion')		seventeen point three billion dollars 
+
+================================================
+
+('$', '1', '', 'billion')		one billion dollar 
+
+================================================
+
+('$', '20,000', '', '')		twenty thousand dollars 
+('$', '18,379', '', '')		eighteen thousand three hundred seventy nine dollars 
+('$', '18,650', '', '')		eighteen thousand six hundred fifty dollars 
+('$', '19,511', '', '')		nineteen thousand five hundred eleven dollars 
+('$', '50,000', '', '')		fifty thousand dollars 
+('$', '25', '', '')		twenty five dollars 
+
+================================================
+
+
+================================================
+
+
+================================================
+
+
+================================================
+
+
+================================================
+
+('$', '46,000', '', '')		forty six thousand dollars 
+
+================================================
+
+('$', '7', '', 'billion')		seven billion dollars 
+('$', '345', '', 'million')		three hundred forty five million dollars 
+('$', '1', '3', 'billion')		one point three billion dollar 
+('$', '2', '', 'billion')		two billion dollars 
+('$', '5', '', 'billion')		five billion dollars 
+('$', '1', '', 'billion')		one billion dollar 
+
+================================================
+
+
+================================================
+
+
+================================================
+
+
+================================================
+
+('$', '562,000', '', '')		five hundred sixty two thousand dollars 
+('$', '405,000', '', '')		four hundred five thousand dollars 
+('$', '1', '38', 'million')		one point three eight million dollar 
+('$', '355,000', '', '')		three hundred fifty five thousand dollars 
+('$', '3', '2', 'million')		three point two million dollars 
+
+================================================
+
+('$', '18,000', '', '')		eighteen thousand dollars 
+
+================================================
+
+('$', '7', '', 'billion')		seven billion dollars 
+('$', '300', '', 'billion')		three hundred billion dollars 
+('$', '142', '82', '')		one hundred forty two dollars and eighty two cents 
+('$', '60', '', '')		sixty dollars 
+('$', '72', '38', '')		seventy two dollars and thirty eight cents 
+('$', '40', '', 'million')		forty million dollars 
+('$', '16', '', 'million')		sixteen million dollars 
+('$', '7', '', 'million')		seven million dollars 
+('$', '4', '', 'million')		four million dollars 
+
+================================================
+
+('$', '1,601', '', '')		one thousand six hundred one dollars 
+
+================================================
+
+('$', '180', '7', 'million')		one hundred eighty point seven million dollars 
+
+================================================
+
+
+================================================
+
+('$', '57', '', '')		fifty seven dollars 
+
+================================================
+
+('$', '70', '', 'billion')		seventy billion dollars 
+('$', '1', '2', 'trillion')		one point two trillion dollar 
+
+================================================
+
+('$', '14', '1', 'million')		fourteen point one million dollars 
+('$', '33', '6', 'million')		thirty three point six million dollars 
+('$', '17', '4', 'million')		seventeen point four million dollars 
+('$', '36', '9', 'million')		thirty six point nine million dollars 
+('$', '77', '7', 'million')		seventy seven point seven million dollars 
+('$', '137', '9', 'million')		one hundred thirty seven point nine million dollars 
+('$', '207,500', '', '')		two hundred seven thousand five hundred dollars 
+('$', '415,000', '', '')		four hundred fifteen thousand dollars 
+('$', '1', '', 'million')		one million dollar 
+('$', '5', '', 'million')		five million dollars 
+('$', '1', '455', 'trillion')		one point four five five trillion dollar 
+
+================================================
+
+
+================================================
+
+('$', '3', '', 'billion')		three billion dollars 
+('$', '7', '', 'million')		seven million dollars 
+('$', '5', '4', 'million')		five point four million dollars 
+
+================================================
+
+('$', '630', '', 'million')		six hundred thirty million dollars 
+('$', '227', '', 'million')		two hundred twenty seven million dollars 
+('$', '3', '2', 'billion')		three point two billion dollars 
+('$', '1', '', 'trillion')		one trillion dollar 
+('$', '200', '', 'billion')		two hundred billion dollars 
+('$', '800', '', 'billion')		eight hundred billion dollars 
+('$', '200', '', 'billion')		two hundred billion dollars 
+('$', '1', '', 'trillion')		one trillion dollar 
+('$', '50', '', 'billion')		fifty billion dollars 
+
+================================================
+
+('$', '19,190', '', '')		nineteen thousand one hundred ninety dollars 
+('$', '19,511', '', '')		nineteen thousand five hundred eleven dollars 
+
+================================================
+
+('$', '6,350', '', '')		six thousand three hundred fifty dollars 
+('$', '12,000', '', '')		twelve thousand dollars 
+('$', '12,700', '', '')		twelve thousand seven hundred dollars 
+('$', '24,000', '', '')		twenty four thousand dollars 
+('$', '10,000', '', '')		ten thousand dollars 
+
+================================================
+
+('$', '10,000', '', '')		ten thousand dollars 
+
+================================================
+
+('$', '10,000', '', '')		ten thousand dollars 
+
+================================================
+
+('$', '1,610', '', '')		one thousand six hundred ten dollars 
+('$', '60', '', '')		sixty dollars 
+('$', '930', '', '')		nine hundred thirty dollars 
+('$', '51,140', '', '')		fifty one thousand one hundred forty dollars 
+('$', '193,380', '', '')		one hundred ninety three thousand three hundred eighty dollars 
+('$', '1,570', '', '')		one thousand five hundred seventy dollars 
+('$', '70', '', '')		seventy dollars 
+('$', '910', '', '')		nine hundred ten dollars 
+('$', '61,090', '', '')		sixty one thousand ninety dollars 
+('$', '252,300', '', '')		two hundred fifty two thousand three hundred dollars 
+
+================================================
+
+('$', '54,300', '', '')		fifty four thousand three hundred dollars 
+('$', '84,500', '', '')		eighty four thousand five hundred dollars 
+('$', '70,300', '', '')		seventy thousand three hundred dollars 
+('$', '109,400', '', '')		one hundred nine thousand four hundred dollars 
+('$', '500,000', '', '')		five hundred thousand dollars 
+('$', '1', '', 'million')		one million dollar 
+('$', '315,000', '', '')		three hundred fifteen thousand dollars 
+('$', '695', '', '')		six hundred ninety five dollars 
+('$', '6,350', '', '')		six thousand three hundred fifty dollars 
+('$', '12,700', '', '')		twelve thousand seven hundred dollars 
+('$', '4,050', '', '')		four thousand fifty dollars 
+('$', '12,000', '', '')		twelve thousand dollars 
+('$', '24,000', '', '')		twenty four thousand dollars 
+('$', '10,000', '', '')		ten thousand dollars 
+('$', '1', '', 'million')		one million dollar 
+('$', '750,000', '', '')		seven hundred fifty thousand dollars 
+('$', '1,000', '', '')		one thousand dollars 
+('$', '110,000', '', '')		one hundred ten thousand dollars 
+('$', '3,000', '', '')		three thousand dollars 
+('$', '2,000', '', '')		two thousand dollars 
+('$', '400,000', '', '')		four hundred thousand dollars 
+('$', '1,400', '', '')		one thousand four hundred dollars 
+('$', '5', '49', 'million')		five point four nine million dollars 
+('$', '10', '98', 'million')		ten point nine eight million dollars 
+
+================================================
+
+('$', '17,710', '', '')		seventeen thousand seven hundred ten dollars 
+('$', '15,000', '', '')		fifteen thousand dollars 
+('$', '16,383', '', '')		sixteen thousand three hundred eighty three dollars 
+('$', '1,300', '', '')		one thousand three hundred dollars 
+('$', '40', '', 'million')		forty million dollars 
+('$', '1', '1', 'billion')		one point one billion dollar 
+('$', '57', '', 'billion')		fifty seven billion dollars 
+
+================================================
+
+('$', '914', '', 'million')		nine hundred fourteen million dollars 
+('$', '1', '1', 'billion')		one point one billion dollar 
+
+================================================
+
+
+================================================
+
+('$', '200,000', '', '')		two hundred thousand dollars 
+
+================================================
+
+
+================================================
+
+
+================================================
+
+('$', '499', '', '')		four hundred ninety nine dollars 
+('$', '179', '', '')		one hundred seventy nine dollars 
+
+================================================
+
+('$', '15', '', 'billion')		fifteen billion dollars 
+('$', '37', '', 'billion')		thirty seven billion dollars 
+
+================================================
+
+
+================================================
+
+('$', '3', '', 'billion')		three billion dollars 
+('$', '7', '', 'million')		seven million dollars 
+('$', '5', '4', 'million')		five point four million dollars 
+
+================================================
+
+
+================================================
+
+
+================================================
+
+
+================================================
+
+
+================================================
+
+('$', '10,000', '', '')		ten thousand dollars 
+('$', '100,000', '', '')		one hundred thousand dollars 
+('$', '100,000', '', '')		one hundred thousand dollars 
+('$', '2,000', '', '')		two thousand dollars 
+('$', '3,000', '', '')		three thousand dollars 
+('$', '10,181', '', '')		ten thousand one hundred eighty one dollars 
+('$', '10,000', '', '')		ten thousand dollars 
+('$', '9,000', '', '')		nine thousand dollars 
+('$', '52,500', '', '')		fifty two thousand five hundred dollars 
+('$', '40,000', '', '')		forty thousand dollars 
+('$', '100,000', '', '')		one hundred thousand dollars 
+('$', '112,000', '', '')		one hundred twelve thousand dollars 
+('$', '237,296', '', '')		two hundred thirty seven thousand two hundred ninety six dollars 
+('$', '7,500', '', '')		seven thousand five hundred dollars 
+('$', '40,000', '', '')		forty thousand dollars 
+('$', '250,000', '', '')		two hundred fifty thousand dollars 
+('$', '300,000', '', '')		three hundred thousand dollars 
+
+================================================
+
+
+================================================
+
+('$', '18', '', 'billion')		eighteen billion dollars 
+('$', '126', '', 'billion')		one hundred twenty six billion dollars 
+
+================================================
+
+
+================================================
+
+('$', '25,000', '', '')		twenty five thousand dollars 
+
+================================================
+
+('$', '207,000', '', '')		two hundred seven thousand dollars 
+
+================================================
+
+('$', '25', '', '')		twenty five dollars 
+
+================================================
+
+
+================================================
+
+('$', '16,000', '', '')		sixteen thousand dollars 
+('$', '1', '2', 'billion')		one point two billion dollar 
+('$', '500', '', 'million')		five hundred million dollars 
+('$', '11,000', '', '')		eleven thousand dollars 
+
+================================================
+
+
+================================================
+
+('$', '12', '', '')		twelve dollars 
+
+================================================
+
+('$', '2', '', 'million')		two million dollars 
+('$', '300', '', '')		three hundred dollars 
+('$', '400', '', '')		four hundred dollars 
+
+================================================
+
+('$', '175,100', '', '')		one hundred seventy five thousand one hundred dollars 
+('$', '192,000', '', '')		one hundred ninety two thousand dollars 
+
+================================================
+
+('$', '284,745', '', '')		two hundred eighty four thousand seven hundred forty five dollars 
+('$', '420,000', '', '')		four hundred twenty thousand dollars 
+('$', '2', '99', 'million')		two point nine nine million dollars 
+
+================================================
+
+('$', '5,000', '', '')		five thousand dollars 
+('$', '14,990', '', '')		fourteen thousand nine hundred ninety dollars 
+
+================================================
+
+('$', '5,000', '', '')		five thousand dollars 
+('$', '14,990', '', '')		fourteen thousand nine hundred ninety dollars 
+
+================================================
+
+('$', '1', '1', '')		one point one dollar 
+('$', '31,000', '', '')		thirty one thousand dollars 
+('$', '25,000', '', '')		twenty five thousand dollars 
+('$', '34,300', '', '')		thirty four thousand three hundred dollars 
+('$', '25,000', '', '')		twenty five thousand dollars 
+('$', '35,000', '', '')		thirty five thousand dollars 
+('$', '1,500', '', '')		one thousand five hundred dollars 
+
+================================================
+
+
+================================================
+
+('£', '20', '', 'million')		twenty million pounds 
+('$', '26', '', 'million')		twenty six million dollars 
+('£', '110', '', 'million')		one hundred ten million pounds 
+('$', '372', '', 'million')		three hundred seventy two million dollars 
+
+================================================
+
+('$', '20,000', '', '')		twenty thousand dollars 
+('$', '200,000', '', '')		two hundred thousand dollars 
+('$', '1', '', 'million')		one million dollar 
+('$', '3,000', '', '')		three thousand dollars 
+('$', '230,000', '', '')		two hundred thirty thousand dollars 
+('$', '1', '6', 'million')		one point six million dollar 
+('$', '700,000', '', '')		seven hundred thousand dollars 
+('$', '200,000', '', '')		two hundred thousand dollars 
+('$', '600,000', '', '')		six hundred thousand dollars 
+('$', '1', '2', 'million')		one point two million dollar 
+
+================================================
+
+
+================================================
+
+
+================================================
+
+('$', '150', '', 'billion')		one hundred fifty billion dollars 
+
+================================================
+
+('$', '799', '', '')		seven hundred ninety nine dollars 
+('$', '499', '', '')		four hundred ninety nine dollars 
+
+================================================
+
+
+================================================
+
+('$', '10,000', '', '')		ten thousand dollars 
+('$', '10,100', '', '')		ten thousand one hundred dollars 
+
+================================================
+
+('$', '11,000', '', '')		eleven thousand dollars 
+('$', '11,434', '', '')		eleven thousand four hundred thirty four dollars 
+('$', '9,009', '', '')		nine thousand nine dollars 
+('$', '9,911', '10', '')		nine thousand nine hundred eleven dollars and ten cents 
+('$', '10,000', '', '')		ten thousand dollars 
+('$', '4,171', '25', '')		four thousand one hundred seventy one dollars and twenty five cents 
+('$', '11,434', '', '')		eleven thousand four hundred thirty four dollars 
+
+================================================
+
+('$', '320,000', '', '')		three hundred twenty thousand dollars 
+('$', '422,000', '', '')		four hundred twenty two thousand dollars 
+('$', '119,995', '', '')		one hundred nineteen thousand nine hundred ninety five dollars 
+('$', '123,995', '', '')		one hundred twenty three thousand nine hundred ninety five dollars 
+('$', '80,000', '', '')		eighty thousand dollars 
+('$', '55,000', '', '')		fifty five thousand dollars 
+
+================================================
+
+
+================================================
+
+('$', '64,900', '', '')		sixty four thousand nine hundred dollars 
+
+================================================
+
+('$', '20,000', '', '')		twenty thousand dollars 
+('$', '16,000', '', '')		sixteen thousand dollars 
+('$', '3,000', '', '')		three thousand dollars 
+
+================================================
+
+('$', '38', '', 'billion')		thirty eight billion dollars 
+('$', '110', '', 'billion')		one hundred ten billion dollars 
+('$', '1,300', '', '')		one thousand three hundred dollars 
+('$', '2,478', '', '')		two thousand four hundred seventy eight dollars 
+('$', '5,605', '', '')		five thousand six hundred five dollars 
+('$', '7,882', '', '')		seven thousand eight hundred eighty two dollars 
+
+================================================
+
+
+================================================
+
+
+================================================
+
+('$', '200', '', 'billion')		two hundred billion dollars 
+('$', '2,446', '', '')		two thousand four hundred forty six dollars 
+('$', '600', '', '')		six hundred dollars 
+('$', '1,170', '', '')		one thousand one hundred seventy dollars 
+
+================================================
+
+('$', '7', '', 'million')		seven million dollars 
+('$', '900', '', '')		nine hundred dollars 
+
+================================================
+
+('$', '15', '', 'million')		fifteen million dollars 
+('$', '81', '', 'million')		eighty one million dollars 
+
+================================================
+
+
+================================================
+
+
+================================================
+
+
+================================================
+
+('$', '52,625', '', '')		fifty two thousand six hundred twenty five dollars 
+('$', '500', '', '')		five hundred dollars 
+
+================================================
+
+
+================================================
+
+('$', '26', '', 'million')		twenty six million dollars 
+
+================================================
+
+('$', '27', '', 'billion')		twenty seven billion dollars 
+
+================================================
+
+('$', '240,000', '', '')		two hundred forty thousand dollars 
+('$', '10,000', '', '')		ten thousand dollars 
+('$', '270,000', '', '')		two hundred seventy thousand dollars 
+('$', '350,000', '', '')		three hundred fifty thousand dollars 
+('€', '459,200', '', '')		four hundred fifty nine thousand two hundred euros 
+('$', '490,310', '', '')		four hundred ninety thousand three hundred ten dollars 
+('$', '182,600', '', '')		one hundred eighty two thousand six hundred dollars 
+('$', '357,500', '', '')		three hundred fifty seven thousand five hundred dollars 
+('$', '234,500', '', '')		two hundred thirty four thousand five hundred dollars 
+('$', '121,000', '', '')		one hundred twenty one thousand dollars 
+('$', '68,261', '', '')		sixty eight thousand two hundred sixty one dollars 
+('$', '460,000', '', '')		four hundred sixty thousand dollars 
+('$', '20,000', '', '')		twenty thousand dollars 
+('$', '199,500', '', '')		one hundred ninety nine thousand five hundred dollars 
+('$', '277,500', '', '')		two hundred seventy seven thousand five hundred dollars 
+('$', '20,000', '', '')		twenty thousand dollars 
+('$', '120,000', '', '')		one hundred twenty thousand dollars 
+('$', '130,000', '', '')		one hundred thirty thousand dollars 
+('$', '185,000', '', '')		one hundred eighty five thousand dollars 
+('$', '215,000', '', '')		two hundred fifteen thousand dollars 
+
+================================================
+
+('$', '2', '40', '')		two dollars and forty cents 
+('$', '4', '', '')		four dollars 
+('$', '2', '46', '')		two dollars and forty six cents 
+('$', '8', '90', '')		eight dollars and ninety cents 
+('$', '15', '', '')		fifteen dollars 
+('$', '25', '', '')		twenty five dollars 
+('$', '25', '', '')		twenty five dollars 
+('$', '1', '34', '')		one dollar and thirty four cents 
+('$', '13', '56', '')		thirteen dollars and fifty six cents 
+('$', '15', '90', '')		fifteen dollars and ninety cents 
+('$', '2', '', '')		two dollars 
+('$', '25', '', '')		twenty five dollars 
+
+================================================
+
+('$', '75,000', '', '')		seventy five thousand dollars 
+
+================================================
+
+('$', '59', '', 'million')		fifty nine million dollars 
+
+================================================
+
+('$', '47,600', '', '')		forty seven thousand six hundred dollars 
+('$', '52,150', '', '')		fifty two thousand one hundred fifty dollars 
+('$', '56,450', '', '')		fifty six thousand four hundred fifty dollars 
+('$', '82,610', '', '')		eighty two thousand six hundred ten dollars 
+('$', '2,600', '', '')		two thousand six hundred dollars 
+
+================================================
+
+
+================================================
+
+
+================================================
+
+('$', '11,000', '', '')		eleven thousand dollars 
+
+================================================
+
+('$', '2,255', '44', '')		two thousand two hundred fifty five dollars and forty four cents 
+('$', '221', '45', '')		two hundred twenty one dollars and forty five cents 
+('$', '8', '', '')		eight dollars 
+('$', '25', '', 'billion')		twenty five billion dollars 
+('$', '400', '', '')		four hundred dollars 
+('$', '152', '15', '')		one hundred fifty two dollars and fifteen cents 
+('$', '14', '08', '')		fourteen dollars and eight cents 
+
+================================================
+
+('$', '300', '', '')		three hundred dollars 
+('$', '81', '', 'million')		eighty one million dollars 
+
+================================================
+
+('$', '7,882', '', '')		seven thousand eight hundred eighty two dollars 
+('$', '6,00', '', '')		six hundred dollars 
+('$', '587', '', '')		five hundred eighty seven dollars 
+('$', '140', '', '')		one hundred forty dollars 
+('$', '1,500', '', '')		one thousand five hundred dollars 
+('$', '278', '', '')		two hundred seventy eight dollars 
+
+================================================
+
+('$', '140,000', '', '')		one hundred forty thousand dollars 
+
+================================================
+
+('$', '7,882', '', '')		seven thousand eight hundred eighty two dollars 
+('$', '600', '', '')		six hundred dollars 
+('$', '140', '', '')		one hundred forty dollars 
+
+================================================
+
+('$', '98', '', '')		ninety eight dollars 
+
+================================================
+
+
+================================================
+
+('$', '17,900', '', '')		seventeen thousand nine hundred dollars 
+('$', '18,850', '', '')		eighteen thousand eight hundred fifty dollars 
+('$', '6,611', '', '')		six thousand six hundred eleven dollars 
+('$', '14,175', '', '')		fourteen thousand one hundred seventy five dollars 
+('$', '2,856', '', '')		two thousand eight hundred fifty six dollars 
+
+================================================
+
+('$', '42,900', '', '')		forty two thousand nine hundred dollars 
+('$', '42,900', '', '')		forty two thousand nine hundred dollars 
+('$', '1,500', '', '')		one thousand five hundred dollars 
+('$', '400', '', '')		four hundred dollars 
+('$', '51,725', '', '')		fifty one thousand seven hundred twenty five dollars 
+('$', '575', '', '')		five hundred seventy five dollars 
+('$', '3,000', '', '')		three thousand dollars 
+('$', '42,900', '', '')		forty two thousand nine hundred dollars 
+('$', '46,450', '', '')		forty six thousand four hundred fifty dollars 
+('$', '49,950', '', '')		forty nine thousand nine hundred fifty dollars 
+
+================================================
+
+('$', '4,880', '85', '')		four thousand eight hundred eighty dollars and eighty five cents 
+('$', '64', '', 'billion')		sixty four billion dollars 
+
+================================================
+
+
+================================================
+
+
+================================================
+
+('$', '317', '81', '')		three hundred seventeen dollars and eighty one cents 
+('$', '12', '5', 'million')		twelve point five million dollars 
+('$', '300', '', '')		three hundred dollars 
+('$', '100', '', 'million')		one hundred million dollars 
+
+================================================
+
+('$', '150', '', 'million')		one hundred fifty million dollars 
+('$', '12', '5', 'million')		twelve point five million dollars 
+('$', '300', '', 'million')		three hundred million dollars 
+
+================================================
+
+('$', '317', '81', '')		three hundred seventeen dollars and eighty one cents 
+('$', '12', '5', 'million')		twelve point five million dollars 
+('$', '224', '48', '')		two hundred twenty four dollars and forty eight cents 
+('$', '300', '', '')		three hundred dollars 
+('$', '288', '50', '')		two hundred eighty eight dollars and fifty cents 
+('$', '12', '5', 'million')		twelve point five million dollars 
+('$', '12', '5', 'million')		twelve point five million dollars 
+
+================================================
+
+('$', '5', '74', 'million')		five point seven four million dollars 
+('$', '20,000', '', '')		twenty thousand dollars 
+('$', '199,500', '', '')		one hundred ninety nine thousand five hundred dollars 
+('$', '3,500', '', '')		three thousand five hundred dollars 
+('$', '93,750', '', '')		ninety three thousand seven hundred fifty dollars 
+('$', '10,000', '', '')		ten thousand dollars 
+('$', '20,000', '', '')		twenty thousand dollars 
+('$', '277,500', '', '')		two hundred seventy seven thousand five hundred dollars 
+('$', '32,500, 1,500', '', '')		three hundred twenty five million one thousand five hundred dollars 
+('$', '1,000', '', '')		one thousand dollars 
+('$', '4', '6', 'million')		four point six million dollars 
+('$', '34', '', 'million')		thirty four million dollars 
+('$', '442,000', '', '')		four hundred forty two thousand dollars 
+('$', '48,875', '', '')		forty eight thousand eight hundred seventy five dollars 
+('$', '22,000', '', '')		twenty two thousand dollars 
+('$', '72,500', '', '')		seventy two thousand five hundred dollars 
+('$', '7,500', '', '')		seven thousand five hundred dollars 
+('$', '400', '', '')		four hundred dollars 
+('$', '71,250', '', '')		seventy one thousand two hundred fifty dollars 
+('$', '1,500', '', '')		one thousand five hundred dollars 
+('$', '8,000', '', '')		eight thousand dollars 
+('$', '319,500', '', '')		three hundred nineteen thousand five hundred dollars 
+('$', '2,000', '', '')		two thousand dollars 
+('$', '52,000', '', '')		fifty two thousand dollars 
+('$', '106,250', '', '')		one hundred six thousand two hundred fifty dollars 
+('$', '10,000', '', '')		ten thousand dollars 
+
+================================================
+
+('$', '7,000', '', '')		seven thousand dollars 
+('$', '7,218', '', '')		seven thousand two hundred eighteen dollars 
+
+================================================
+
+('$', '4,000', '', '')		four thousand dollars 
+('$', '4,298', '', '')		four thousand two hundred ninety eight dollars 
+('$', '100', '', 'million')		one hundred million dollars 
+('$', '100', '', 'million')		one hundred million dollars 
+('$', '1', '', 'million')		one million dollar 
+('$', '4,827', '', '')		four thousand eight hundred twenty seven dollars 
+('$', '2,221', '', '')		two thousand two hundred twenty one dollars 
+
+================================================
+
+
+================================================
+
+('$', '300', '', '')		three hundred dollars 
+('$', '81', '', 'million')		eighty one million dollars 
+
+================================================
+
+('$', '300', '', '')		three hundred dollars 
+('$', '50,000', '', '')		fifty thousand dollars 
+('$', '1', '', 'billion')		one billion dollar 
+
+================================================
+
+('$', '185', '', '')		one hundred eighty five dollars 
+('$', '159', '08', '')		one hundred fifty nine dollars and eight cents 
+
+================================================
+
+('$', '140,000', '', '')		one hundred forty thousand dollars 
+('$', '41', '5', 'million')		forty one point five million dollars 
+('$', '3', '', 'billion')		three billion dollars 
+('$', '3', '5', 'billion')		three point five billion dollars 
+('$', '8', '5', 'billion')		eight point five billion dollars 
+('$', '10', '', 'billion')		ten billion dollars 
+('$', '520', '', 'million')		five hundred twenty million dollars 
+('$', '300', '', '')		three hundred dollars 
+
+================================================
+
+('$', '48,900', '', '')		forty eight thousand nine hundred dollars 
+('$', '1,000', '', '')		one thousand dollars 
+('$', '2,500', '', '')		two thousand five hundred dollars 
+
+================================================
+
+('$', '3,000', '', '')		three thousand dollars 
+('$', '2,877', '', '')		two thousand eight hundred seventy seven dollars 
+('$', '2,877', '', '')		two thousand eight hundred seventy seven dollars 
+
+================================================
+
+('$', '401', '', '')		four hundred one dollars 
+('$', '633', '', '')		six hundred thirty three dollars 
+
+================================================
+
+('$', '259', '8', 'million')		two hundred fifty nine point eight million dollars 
+('$', '9', '', 'million')		nine million dollars 
+('$', '100,000', '', '')		one hundred thousand dollars 
+('$', '47,025', '', '')		forty seven thousand twenty five dollars 
+('$', '23,400', '', '')		twenty three thousand four hundred dollars 
+('$', '29,188', '', '')		twenty nine thousand one hundred eighty eight dollars 
+('$', '14,500', '', '')		fourteen thousand five hundred dollars 
+('$', '110,000', '', '')		one hundred ten thousand dollars 
+('$', '500,000', '', '')		five hundred thousand dollars 
+('$', '2,404', '', '')		two thousand four hundred four dollars 
+
+================================================
+
+
+================================================
+
+('$', '5', '', '')		five dollars 
+('$', '5', '', '')		five dollars 
+('$', '7,000', '', '')		seven thousand dollars 
+
+================================================
+
+('$', '244,600', '', '')		two hundred forty four thousand six hundred dollars 
+('$', '205,000', '', '')		two hundred five thousand dollars 
+('$', '310,650', '', '')		three hundred ten thousand six hundred fifty dollars 
+
+================================================
+
+('$', '35', '', '')		thirty five dollars 
+
+================================================
+
+('$', '100', '', 'million')		one hundred million dollars 
+('$', '25', '', 'billion')		twenty five billion dollars 
+('$', '317', '81', '')		three hundred seventeen dollars and eighty one cents 
+('$', '12', '5', 'million')		twelve point five million dollars 
+('$', '300', '', '')		three hundred dollars 
+
+================================================
+
+('$', '6,000', '', '')		six thousand dollars 
+('$', '25,000', '', '')		twenty five thousand dollars 
+('$', '7,000', '', '')		seven thousand dollars 
+('$', '5,500', '', '')		five thousand five hundred dollars 
+('$', '750', '', '')		seven hundred fifty dollars 
+('$', '25,000', '', '')		twenty five thousand dollars 
+
+================================================
+
+('$', '30', '', 'million')		thirty million dollars 
+('$', '332', '', 'million')		three hundred thirty two million dollars 
+('$', '600', '', 'million')		six hundred million dollars 
+('$', '12', '5', 'million')		twelve point five million dollars 
+('$', '300', '', 'million')		three hundred million dollars 
+('$', '2', '', 'billion')		two billion dollars 
+('$', '2,500', '', '')		two thousand five hundred dollars 
+('$', '90', '', 'billion')		ninety billion dollars 
+('$', '50', '', 'million')		fifty million dollars 
+('$', '150', '', 'million')		one hundred fifty million dollars 
+('$', '16', '8', 'million')		sixteen point eight million dollars 
+
+================================================
+
+
+================================================
+
+('$', '400', '', 'million')		four hundred million dollars 
+('$', '10', '', 'billion')		ten billion dollars 
+('$', '521', '', 'million')		five hundred twenty one million dollars 
+('$', '260', '', 'million')		two hundred sixty million dollars 
+('$', '1', '', 'billion')		one billion dollar 
+('$', '1', '', 'billion')		one billion dollar 
+('$', '35', '', 'million')		thirty five million dollars 
+('$', '1', '', 'million')		one million dollar 
+
+================================================
+
+('$', '7', '3', 'billion')		seven point three billion dollars 
+('$', '5,000', '', '')		five thousand dollars 
+('$', '50,000', '', '')		fifty thousand dollars 
+('$', '45', '', 'billion')		forty five billion dollars 
+
+================================================
+
+('$', '3,077', '55', '')		three thousand seventy seven dollars and fifty five cents 
+
+================================================
+
+('$', '16', '85', '')		sixteen dollars and eighty five cents 
+('$', '1', '95', 'billion')		one point nine five billion dollar 
+
+================================================
+
+('$', '121', '4', 'billion')		one hundred twenty one point four billion dollars 
+('$', '53', '', 'billion')		fifty three billion dollars 
+('$', '620', '', 'million')		six hundred twenty million dollars 
+('$', '8', '1', 'billion')		eight point one billion dollars 
+('$', '3', '', 'billion')		three billion dollars 
+('$', '3', '5', 'billion')		three point five billion dollars 
+('$', '8', '5', 'billion')		eight point five billion dollars 
+('$', '10', '', 'billion')		ten billion dollars 
+('$', '9', '7', 'billion')		nine point seven billion dollars 
+('$', '28', '7', 'billion')		twenty eight point seven billion dollars 
+('$', '762', '', 'million')		seven hundred sixty two million dollars 
+('$', '2', '1', 'billion')		two point one billion dollars 
+
+================================================
+
+('$', '17,000', '', '')		seventeen thousand dollars 
+
+================================================
+
+('$', '300', '', '')		three hundred dollars 
+
+================================================
+
+('$', '300', '', '')		three hundred dollars 
+('$', '1', '', 'million')		one million dollar 
+('$', '300', '', '')		three hundred dollars 
+
+================================================
+
+('$', '20,000', '', '')		twenty thousand dollars 
+('$', '30,000', '', '')		thirty thousand dollars 
+('$', '50,000', '', '')		fifty thousand dollars 
+('$', '13,000', '', '')		thirteen thousand dollars 
+('$', '15,000', '', '')		fifteen thousand dollars 
+('$', '14,000', '', '')		fourteen thousand dollars 
+
+================================================
+
+('$', '2,400', '', '')		two thousand four hundred dollars 
+('$', '3,800', '', '')		three thousand eight hundred dollars 
+('$', '2,795', '', '')		two thousand seven hundred ninety five dollars 
+('$', '2,700', '', '')		two thousand seven hundred dollars 
+('$', '1,200', '', '')		one thousand two hundred dollars 
+('$', '1', '3', 'billion')		one point three billion dollar 
+('$', '875', '', 'million')		eight hundred seventy five million dollars 
+
+================================================
+
+('$', '2,360', '', '')		two thousand three hundred sixty dollars 
+('$', '2,600', '', '')		two thousand six hundred dollars 
+('$', '25,000', '', '')		twenty five thousand dollars 
+('$', '680', '', '')		six hundred eighty dollars 
+('$', '6,064', '', '')		six thousand sixty four dollars 
+('$', '688', '', '')		six hundred eighty eight dollars 
+('$', '31', '', '')		thirty one dollars 
+('$', '22', '', '')		twenty two dollars 
+
+================================================
+
+('$', '3,000', '', '')		three thousand dollars 
+('$', '6,500', '', '')		six thousand five hundred dollars 
+('$', '6,600', '', '')		six thousand six hundred dollars 
+('$', '20,000', '', '')		twenty thousand dollars 
+('$', '30,000', '', '')		thirty thousand dollars 
+
+================================================
+
+('$', '220,000', '', '')		two hundred twenty thousand dollars 
+('$', '247,900', '', '')		two hundred forty seven thousand nine hundred dollars 
+('$', '255,000', '', '')		two hundred fifty five thousand dollars 
+('$', '1,300', '', '')		one thousand three hundred dollars 
+('$', '71,500', '', '')		seventy one thousand five hundred dollars 
+('$', '500', '', '')		five hundred dollars 
+('$', '255,000', '', '')		two hundred fifty five thousand dollars 
+('$', '3,700', '', '')		three thousand seven hundred dollars 
+
+================================================
+
+('$', '7,000', '', '')		seven thousand dollars 
+
+================================================
+
+('$', '323,000', '', '')		three hundred twenty three thousand dollars 
+('$', '192,000', '', '')		one hundred ninety two thousand dollars 
+('$', '220,000', '', '')		two hundred twenty thousand dollars 
+
+================================================
+
+
+================================================
+
+('$', '100,000', '', '')		one hundred thousand dollars 
+
+================================================
+
+('$', '25', '99', '')		twenty five dollars and ninety nine cents 
+('$', '4,500', '', '')		four thousand five hundred dollars 
+('$', '6,000', '', '')		six thousand dollars 
+
+================================================
+
+('$', '2,000', '', '')		two thousand dollars 
+('$', '30', '', '')		thirty dollars 
+('$', '2,000', '', '')		two thousand dollars 
+
+================================================
+
+('$', '6', '1', 'trillion')		six point one trillion dollars 
+('$', '2', '2', 'trillion')		two point two trillion dollars 
+
+================================================
+
+('$', '2', '5', 'billion')		two point five billion dollars 
+('$', '100', '', 'million')		one hundred million dollars 
+('$', '3', '4', 'billion')		three point four billion dollars 
+('$', '8', '5', 'billion')		eight point five billion dollars 
+('$', '10', '', 'billion')		ten billion dollars 
+
+================================================
+
+
+================================================
+
+('$', '1', '', '')		one dollar 
+('$', '13', '50', '')		thirteen dollars and fifty cents 
+('$', '300', '', '')		three hundred dollars 
+('$', '4', '8', 'billion')		four point eight billion dollars 
+('$', '215', '27', '')		two hundred fifteen dollars and twenty seven cents 
+
+================================================
+
+('$', '5,000', '', '')		five thousand dollars 
+('$', '25,000', '', '')		twenty five thousand dollars 
+('$', '50,000', '', '')		fifty thousand dollars 
+('$', '3,000', '', '')		three thousand dollars 
+('$', '2,544', '40', '')		two thousand five hundred forty four dollars and forty cents 
+
+================================================
+
+('$', '10', '', 'billion')		ten billion dollars 
+('$', '8', '5', 'billion')		eight point five billion dollars 
+('$', '10', '', 'billion')		ten billion dollars 
+('$', '3', '4', 'billion')		three point four billion dollars 
+('$', '11', '', 'billion')		eleven billion dollars 
+('$', '100', '', 'million')		one hundred million dollars 
+('$', '50', '', 'million')		fifty million dollars 
+('$', '100', '', 'million')		one hundred million dollars 
+('$', '5', '', 'million')		five million dollars 
+('$', '100', '', 'million')		one hundred million dollars 
+('$', '5', '', 'billion')		five billion dollars 
+('$', '150', '', 'million')		one hundred fifty million dollars 
+('$', '30', '', 'billion')		thirty billion dollars 
+('$', '30', '', 'billion')		thirty billion dollars 
+('$', '100', '', 'million')		one hundred million dollars 
+('$', '400', '', 'million')		four hundred million dollars 
+('$', '263', '', 'million')		two hundred sixty three million dollars 
+('$', '191', '', 'million')		one hundred ninety one million dollars 
+
+================================================
+
+('$', '300', '', '')		three hundred dollars 
+('$', '1,000', '', '')		one thousand dollars 
+('$', '300', '', '')		three hundred dollars 
+
+================================================
+
+('$', '4,000', '', '')		four thousand dollars 
+('$', '62,000', '', '')		sixty two thousand dollars 
+('$', '4,000', '', '')		four thousand dollars 
+('$', '8,000', '', '')		eight thousand dollars 
+('$', '7,000', '', '')		seven thousand dollars 
+
+================================================
+
+('$', '1,999', '', '')		one thousand nine hundred ninety nine dollars 
+
+================================================
+
+('$', '300', '', '')		three hundred dollars 
+('$', '50,000', '', '')		fifty thousand dollars 
+
+================================================
+
+
+================================================
+
+('$', '60', '', '')		sixty dollars 
+('$', '200', '', '')		two hundred dollars 
+('$', '98', '', '')		ninety eight dollars 
+('$', '1', '6', 'billion')		one point six billion dollar 
+('$', '5,413', '', '')		five thousand four hundred thirteen dollars 
+
+================================================
+
+('$', '317', '81', '')		three hundred seventeen dollars and eighty one cents 
+('$', '20', '', 'billion')		twenty billion dollars 
+('$', '12', '5', 'million')		twelve point five million dollars 
+('$', '300', '', '')		three hundred dollars 
+('$', '300', '', 'million')		three hundred million dollars 
+('$', '10,000', '', '')		ten thousand dollars 
+('$', '5', '', 'million')		five million dollars 
+('$', '10', '', 'million')		ten million dollars 
+('$', '10', '', 'million')		ten million dollars 
+('$', '75,000', '', '')		seventy five thousand dollars 
+('$', '100', '', 'million')		one hundred million dollars 
+
+================================================
+
+
+================================================
+
+
+================================================
+
+('$', '25,000', '', '')		twenty five thousand dollars 
+('$', '12,000', '', '')		twelve thousand dollars 
+
+================================================
+
+('$', '344', '9', 'million')		three hundred forty four point nine million dollars 
+('$', '396', '8', 'million')		three hundred ninety six point eight million dollars 
+('$', '400', '', 'million')		four hundred million dollars 
+('$', '10', '', 'million')		ten million dollars 
+('$', '479,642', '', '')		four hundred seventy nine thousand six hundred forty two dollars 
+('$', '456,067', '', '')		four hundred fifty six thousand sixty seven dollars 
+('$', '21,780,000', '', '')		twenty one million seven hundred eighty thousand dollars 
+('$', '19,800,000', '', '')		nineteen million eight hundred thousand dollars 
+('$', '18,150,000', '', '')		eighteen million one hundred fifty thousand dollars 
+('$', '129', '8', 'million')		one hundred twenty nine point eight million dollars 
+('$', '128', '1', 'million')		one hundred twenty eight point one million dollars 
+('$', '100,000', '', '')		one hundred thousand dollars 
+('$', '50,000', '', '')		fifty thousand dollars 
+
+================================================
+
+('$', '13,000', '', '')		thirteen thousand dollars 
+('$', '15,095', '', '')		fifteen thousand ninety five dollars 
+('$', '13,000', '', '')		thirteen thousand dollars 
+('$', '15,000', '', '')		fifteen thousand dollars 
+('$', '15,095', '', '')		fifteen thousand ninety five dollars 
+('$', '950', '', '')		nine hundred fifty dollars 
+('$', '850', '', '')		eight hundred fifty dollars 
+('$', '500', '', '')		five hundred dollars 
+('$', '150', '', '')		one hundred fifty dollars 
+('$', '400', '', '')		four hundred dollars 
+
+================================================
+
+('$', '677', '', '')		six hundred seventy seven dollars 
+('$', '10', '', '')		ten dollars 
+('$', '294', '', '')		two hundred ninety four dollars 
+('$', '355', '', '')		three hundred fifty five dollars 
+('$', '80', '', 'million')		eighty million dollars 
+('$', '5,000', '', '')		five thousand dollars 
+
+================================================
+
+
+================================================
+
+('$', '350', '', 'million')		three hundred fifty million dollars 
+
+================================================
+
+
+================================================
+
+('$', '545', '', 'million')		five hundred forty five million dollars 
+
+================================================
+
+('$', '237,000', '', '')		two hundred thirty seven thousand dollars 
+('$', '176,000', '', '')		one hundred seventy six thousand dollars 
+('$', '200,000', '', '')		two hundred thousand dollars 
+('$', '245,000', '', '')		two hundred forty five thousand dollars 
+('$', '845,000', '', '')		eight hundred forty five thousand dollars 
+('$', '2,800', '', '')		two thousand eight hundred dollars 
+
+================================================
+
+('$', '8,091,216', '', '')		eight million ninety one thousand two hundred sixteen dollars 
+('$', '287,000', '', '')		two hundred eighty seven thousand dollars 
+('$', '100,000', '', '')		one hundred thousand dollars 
+('£', '1,000', '', '')		one thousand pounds 
+('$', '1,470', '', '')		one thousand four hundred seventy dollars 
+('$', '85,000', '', '')		eighty five thousand dollars 
+('$', '97,000', '', '')		ninety seven thousand dollars 
+('$', '8', '', 'million')		eight million dollars 
+
+================================================
+
+('$', '86', '06', '')		eighty six dollars and six cents 
+('$', '52', '6', 'billion')		fifty two point six billion dollars 
+('$', '6', '1', 'billion')		six point one billion dollars 
+('$', '3', '', 'billion')		three billion dollars 
+('$', '850', '', 'million')		eight hundred fifty million dollars 
+
+================================================
+
+('$', '2', '', 'billion')		two billion dollars 
+
+================================================
+
+
+================================================
+
+('$', '665', '', '')		six hundred sixty five dollars 
+('$', '188', '', '')		one hundred eighty eight dollars 
+('$', '1,435', '', '')		one thousand four hundred thirty five dollars 
+
+================================================
+
+('$', '300', '', '')		three hundred dollars 
+('$', '300', '', '')		three hundred dollars 
+
+================================================
+
+('$', '176,000', '', '')		one hundred seventy six thousand dollars 
+('$', '125,000', '', '')		one hundred twenty five thousand dollars 
+('$', '175,000', '', '')		one hundred seventy five thousand dollars 
+('$', '50,000', '', '')		fifty thousand dollars 
+('$', '205,000', '', '')		two hundred five thousand dollars 
+('$', '41,500', '', '')		forty one thousand five hundred dollars 
+('$', '55,000', '', '')		fifty five thousand dollars 
+
+================================================
+
+('$', '450', '', 'million')		four hundred fifty million dollars 
+('$', '500,000', '', '')		five hundred thousand dollars 
+('$', '10,000', '', '')		ten thousand dollars 
+('$', '90,000', '', '')		ninety thousand dollars 
+('$', '60,000', '', '')		sixty thousand dollars 
+('$', '250,000', '', '')		two hundred fifty thousand dollars 
+('$', '525', '', '')		five hundred twenty five dollars 
+('$', '1,150', '', '')		one thousand one hundred fifty dollars 
+('$', '1,000', '', '')		one thousand dollars 
+('$', '5,499', '', '')		five thousand four hundred ninety nine dollars 
+('$', '10,000', '', '')		ten thousand dollars 
+
+================================================
+
+('$', '1', '34', 'million')		one point three four million dollar 
+('$', '28', '', 'million')		twenty eight million dollars 
+('$', '600,000', '', '')		six hundred thousand dollars 
+('$', '2', '6', 'million')		two point six million dollars 
+('$', '150,000', '', '')		one hundred fifty thousand dollars 
+('$', '625,000', '', '')		six hundred twenty five thousand dollars 
+('$', '300,000', '', '')		three hundred thousand dollars 
+('$', '1', '45', 'billion')		one point four five billion dollar 
+('$', '1', '31', 'billion')		one point three one billion dollar 
+('$', '30,000 20', '', '')		three million twenty dollars 
+('$', '150,000', '', '')		one hundred fifty thousand dollars 
+('$', '1', '', 'million')		one million dollar 
+('$', '100,000', '', '')		one hundred thousand dollars 
+('$', '30,000', '', '')		thirty thousand dollars 
+('$', '60,000', '', '')		sixty thousand dollars 
+('$', '150,000', '', '')		one hundred fifty thousand dollars 
+('$', '500,000', '', '')		five hundred thousand dollars 
+
+================================================
+
+('$', '78,000', '', '')		seventy eight thousand dollars 
+('$', '15,000', '', '')		fifteen thousand dollars 
+('$', '78,000', '', '')		seventy eight thousand dollars 
+
+================================================
+
+('$', '100', '', 'million')		one hundred million dollars 
+
+================================================
+
+
+================================================
+
+('$', '250,000', '', '')		two hundred fifty thousand dollars 
+('$', '100', '', '')		one hundred dollars 
+('$', '4', '', 'million')		four million dollars 
+
+================================================
+
+('$', '312', '', '')		three hundred twelve dollars 
+('$', '700', '', '')		seven hundred dollars 
+
+================================================
+
+
+================================================
+
+('$', '40', '', '')		forty dollars 
+('$', '15', '', '')		fifteen dollars 
+('$', '20', '', '')		twenty dollars 
+('$', '43', '', '')		forty three dollars 
+('$', '25', '', '')		twenty five dollars 
+('$', '320', '', '')		three hundred twenty dollars 
+('$', '200', '', '')		two hundred dollars 
+('$', '2,732', '', '')		two thousand seven hundred thirty two dollars 
+('$', '4,169', '', '')		four thousand one hundred sixty nine dollars 
+
+================================================
+
+('$', '11,000', '', '')		eleven thousand dollars 
+
+================================================
+
+('$', '30', '', 'million')		thirty million dollars 
+('$', '222,000, 583', '', '')		two hundred twenty two million five hundred eighty three dollars 
+('$', '11,000', '', '')		eleven thousand dollars 
+('$', '5,000', '', '')		five thousand dollars 
+('$', '1', '32', 'million')		one point three two million dollar 
+('$', '1', '34', 'million')		one point three four million dollar 
+('$', '900,000', '', '')		nine hundred thousand dollars 
+('$', '1', '8', 'million')		one point eight million dollar 
+('$', '2', '', 'million')		two million dollars 
+('$', '2', '', 'million')		two million dollars 
+('$', '1', '4', 'million')		one point four million dollar 
+('$', '1', '6', 'million')		one point six million dollar 
+('$', '450,000', '', '')		four hundred fifty thousand dollars 
+('$', '1', '6', 'million')		one point six million dollar 
+('$', '350,000', '', '')		three hundred fifty thousand dollars 
+('$', '1', '7', 'million')		one point seven million dollar 
+('$', '6', '', 'million')		six million dollars 
+('$', '12,000', '', '')		twelve thousand dollars 
+('$', '13,000', '', '')		thirteen thousand dollars 
+('$', '2', '', 'million')		two million dollars 
+
+================================================
+
+
+================================================
+
+
+================================================
+
+('$', '5', '', 'billion')		five billion dollars 
+('$', '1', '', 'billion')		one billion dollar 
+('$', '5', '', 'billion')		five billion dollars 
+
+================================================
+
+
+================================================
+
+('$', '20,000', '', '')		twenty thousand dollars 
+('$', '6,000', '', '')		six thousand dollars 
+
+================================================
+
+('$', '15,000', '', '')		fifteen thousand dollars 
+('$', '20,000', '', '')		twenty thousand dollars 
+('$', '25,000', '', '')		twenty five thousand dollars 
+('$', '5,000', '', '')		five thousand dollars 
+
+================================================
+
+
+================================================
+
+('$', '75,000', '', '')		seventy five thousand dollars 
+('$', '500,000', '', '')		five hundred thousand dollars 
+
+================================================
+
+('$', '200,000', '', '')		two hundred thousand dollars 
+('$', '103,000', '', '')		one hundred three thousand dollars 
+('$', '25,000', '', '')		twenty five thousand dollars 
+('$', '84,000', '', '')		eighty four thousand dollars 
+('$', '3,400', '', '')		three thousand four hundred dollars 
+('$', '13,500', '', '')		thirteen thousand five hundred dollars 
+('$', '2,700', '', '')		two thousand seven hundred dollars 
+('$', '2,400', '', '')		two thousand four hundred dollars 
+('$', '1,800', '', '')		one thousand eight hundred dollars 
+('$', '1,200', '', '')		one thousand two hundred dollars 
+('$', '600', '', '')		six hundred dollars 
+('$', '450', '', '')		four hundred fifty dollars 
+
+================================================
+
+('$', '260', '', '')		two hundred sixty dollars 
+('$', '1,216', '', '')		one thousand two hundred sixteen dollars 
+('$', '350', '', '')		three hundred fifty dollars 
+('$', '850', '', '')		eight hundred fifty dollars 
+('$', '479', '', '')		four hundred seventy nine dollars 
+('$', '750', '', '')		seven hundred fifty dollars 
+('$', '381', '', '')		three hundred eighty one dollars 
+('$', '95', '', '')		ninety five dollars 
+('$', '450', '', 'million')		four hundred fifty million dollars 
+('$', '1,075', '', '')		one thousand seventy five dollars 
+('$', '675', '', '')		six hundred seventy five dollars 
+
+================================================
+
+('$', '100,000', '', '')		one hundred thousand dollars 
+('$', '70,000', '', '')		seventy thousand dollars 
+('$', '1,175', '', '')		one thousand one hundred seventy five dollars 
+('$', '1,450', '', '')		one thousand four hundred fifty dollars 
+('$', '1,995', '', '')		one thousand nine hundred ninety five dollars 
+('$', '2,595', '', '')		two thousand five hundred ninety five dollars 
+
+================================================
+
+('$', '9,000', '', '')		nine thousand dollars 
+
+================================================
+
+('$', '500', '', '')		five hundred dollars 
+('$', '2,090', '', '')		two thousand ninety dollars 
+
+================================================
+
+
+================================================
+
+('$', '402', '6', 'million')		four hundred two point six million dollars 
+('$', '17', '6', 'million')		seventeen point six million dollars 
+('$', '38', '1', 'million')		thirty eight point one million dollars 
+
+================================================
+
+('$', '159,000', '', '')		one hundred fifty nine thousand dollars 
+('$', '135,000', '', '')		one hundred thirty five thousand dollars 
+('$', '75,000', '', '')		seventy five thousand dollars 
+('$', '116,500', '', '')		one hundred sixteen thousand five hundred dollars 
+('$', '119,000', '', '')		one hundred nineteen thousand dollars 
+('$', '545', '', 'million')		five hundred forty five million dollars 
+('$', '78,600', '', '')		seventy eight thousand six hundred dollars 
+('$', '25,000', '', '')		twenty five thousand dollars 
+('$', '15,000', '', '')		fifteen thousand dollars 
+('$', '55,000', '', '')		fifty five thousand dollars 
+('$', '57,750', '', '')		fifty seven thousand seven hundred fifty dollars 
+('$', '3', '', 'million')		three million dollars 
+
+================================================
+
+('$', '12,000', '', '')		twelve thousand dollars 
+
+================================================
+
+
+================================================
+
+
+================================================
+
+('$', '1,000', '', '')		one thousand dollars 
+('$', '250', '', '')		two hundred fifty dollars 
+('$', '8,000', '', '')		eight thousand dollars 
+('$', '1,300', '', '')		one thousand three hundred dollars 
+('$', '950', '', '')		nine hundred fifty dollars 
+('$', '207', '', '')		two hundred seven dollars 
+('$', '1,040', '', '')		one thousand forty dollars 
+('$', '600', '', '')		six hundred dollars 
+('$', '615', '', '')		six hundred fifteen dollars 
+('$', '675', '', '')		six hundred seventy five dollars 
+('$', '134', '', '')		one hundred thirty four dollars 
+('$', '129', '', '')		one hundred twenty nine dollars 
+('$', '187', '', '')		one hundred eighty seven dollars 
+
+================================================
+
+
+================================================
+
+('$', '9', '', 'million')		nine million dollars 
+('$', '900,000', '', '')		nine hundred thousand dollars 
+('$', '5', '5', 'million')		five point five million dollars 
+('$', '20', '', 'million')		twenty million dollars 
+('$', '30', '', 'million')		thirty million dollars 
+('$', '9,000,000', '', '')		nine million dollars 
+
+================================================
+
+('$', '165,000', '', '')		one hundred sixty five thousand dollars 
+
+================================================
+
+
+================================================
+
+('$', '500', '', '')		five hundred dollars 
+('$', '200', '', '')		two hundred dollars 
+('$', '5,000', '', '')		five thousand dollars 
+('$', '10,000', '', '')		ten thousand dollars 
+
+================================================
+
+
+================================================
+
+('$', '119,000', '', '')		one hundred nineteen thousand dollars 
+('$', '15', '', 'million')		fifteen million dollars 
+('$', '100', '', '')		one hundred dollars 
+('$', '132,000', '', '')		one hundred thirty two thousand dollars 
+
+================================================
+
+
+================================================
+
+
+================================================
+
+
+================================================
+
+('$', '150,000', '', '')		one hundred fifty thousand dollars 
+('$', '120,000', '', '')		one hundred twenty thousand dollars 
+('$', '200,000', '', '')		two hundred thousand dollars 
+('$', '3,000', '', '')		three thousand dollars 
+('$', '2,500', '', '')		two thousand five hundred dollars 
+('$', '350', '', '')		three hundred fifty dollars 
+('$', '3,000', '', '')		three thousand dollars 
+
+================================================
+
+('$', '43,154', '', '')		forty three thousand one hundred fifty four dollars 
+
+================================================
+
+('$', '600', '', '')		six hundred dollars 
+('$', '750', '', '')		seven hundred fifty dollars 
+
+================================================
+
+('$', '7', '5', 'billion')		seven point five billion dollars 
+('$', '3', '', '')		three dollars 
+
+================================================
+
+('$', '262,350', '', '')		two hundred sixty two thousand three hundred fifty dollars 
+('$', '267,545', '', '')		two hundred sixty seven thousand five hundred forty five dollars 
+('$', '238,500', '', '')		two hundred thirty eight thousand five hundred dollars 
+('$', '600', '', '')		six hundred dollars 
+('$', '1,000', '', '')		one thousand dollars 
+
+================================================
+
+('$', '10,000', '', '')		ten thousand dollars 
+('$', '500', '', '')		five hundred dollars 
+
+================================================
+
+('$', '2', '', '')		two dollars 
+
+================================================
+
+('$', '17,600,000', '', '')		seventeen million six hundred thousand dollars 
+('$', '16,830,000', '', '')		sixteen million eight hundred thirty thousand dollars 
+('$', '16,500,000', '', '')		sixteen million five hundred thousand dollars 
+('$', '390', '6', 'million')		three hundred ninety point six million dollars 
+('$', '428', '1', 'million')		four hundred twenty eight point one million dollars 
+('$', '410', '', 'million')		four hundred ten million dollars 
+('$', '13', '75', 'million')		thirteen point seven five million dollars 
+('$', '13', '2', 'million')		thirteen point two million dollars 
+('$', '10', '1', 'million')		ten point one million dollars 
+('$', '96,250', '', '')		ninety six thousand two hundred fifty dollars 
+('$', '467,500', '', '')		four hundred sixty seven thousand five hundred dollars 
+('$', '6', '050', 'million')		six point zero five zero million dollars 
+('$', '1', '95', 'million')		one point nine five million dollar 
+('$', '75', '4', 'million')		seventy five point four million dollars 
+
+================================================
+
+('$', '200', '', '')		two hundred dollars 
+('$', '700', '', '')		seven hundred dollars 
+('$', '1,200', '', '')		one thousand two hundred dollars 
+('$', '299', '', '')		two hundred ninety nine dollars 
+('$', '1,800', '', '')		one thousand eight hundred dollars 
+
+================================================
+
+
+================================================
+
+
+================================================
+
+
+================================================
+
+
+================================================
+
+
+================================================
+
+('$', '200', '', '')		two hundred dollars 
+('$', '250', '', '')		two hundred fifty dollars 
+('$', '450', '', '')		four hundred fifty dollars 
+('$', '350', '', '')		three hundred fifty dollars 
+('$', '250', '', '')		two hundred fifty dollars 
+('$', '130', '', '')		one hundred thirty dollars 
+
+================================================
+
+('$', '350', '', '')		three hundred fifty dollars 
+('$', '200', '', '')		two hundred dollars 
+('$', '100', '', '')		one hundred dollars 
+('$', '50', '', '')		fifty dollars 
+
+================================================
+
+
+================================================
+
+
+================================================
+
+
+================================================
+
+
+================================================
+
+('$', '2', '61', 'million')		two point six one million dollars 
+
+================================================
+
+('$', '30,000', '', '')		thirty thousand dollars 
+('$', '40,000', '', '')		forty thousand dollars 
+('$', '450', '', '')		four hundred fifty dollars 
+('$', '400', '', '')		four hundred dollars 
+('$', '600', '', '')		six hundred dollars 
+('$', '4,000', '', '')		four thousand dollars 
+('$', '15,000', '', '')		fifteen thousand dollars 
+
+================================================
+
+('$', '95', '', '')		ninety five dollars 
+('$', '19', '98', '')		nineteen dollars and ninety eight cents 
+('$', '70', '', '')		seventy dollars 
+('$', '845', '', '')		eight hundred forty five dollars 
+('$', '95', '', '')		ninety five dollars 
+('$', '845', '', '')		eight hundred forty five dollars 
+('$', '95', '', '')		ninety five dollars 
+('$', '125', '', '')		one hundred twenty five dollars 
+('$', '39', '95', '')		thirty nine dollars and ninety five cents 
+
+================================================
+
+
+================================================
+
+('$', '200,000', '', '')		two hundred thousand dollars 
+
+================================================
+
+('$', '390', '', '')		three hundred ninety dollars 
+('$', '22', '', '')		twenty two dollars 
+('$', '99', '', '')		ninety nine dollars 
+('$', '180', '', '')		one hundred eighty dollars 
+
+================================================
+
+('$', '1', '4', 'billion')		one point four billion dollar 
+
+================================================
+
+
+================================================
+
+('$', '65,784', '', '')		sixty five thousand seven hundred eighty four dollars 
+('$', '177,600', '', '')		one hundred seventy seven thousand six hundred dollars 
+
+================================================
+
+
+================================================
+
+
+================================================
+
+('$', '390', '6', 'million')		three hundred ninety point six million dollars 
+('$', '402', '6', 'million')		four hundred two point six million dollars 
+('$', '17', '6', 'million')		seventeen point six million dollars 
+('$', '38', '1', 'million')		thirty eight point one million dollars 
+('$', '17', '6', 'million')		seventeen point six million dollars 
+('$', '75', '4', 'million')		seventy five point four million dollars 
+('$', '66', '', 'million')		sixty six million dollars 
+('$', '13', '8', 'million')		thirteen point eight million dollars 
+('$', '6', '1', 'million')		six point one million dollars 
+('$', '172', '7', 'million')		one hundred seventy two point seven million dollars 
+('$', '17', '', 'million')		seventeen million dollars 
+('$', '6', '', 'billion')		six billion dollars 
+('$', '16', '8', 'million')		sixteen point eight million dollars 
+('$', '128', '1', 'million')		one hundred twenty eight point one million dollars 
+('$', '8', '5', 'million')		eight point five million dollars 
+('$', '9', '', 'million')		nine million dollars 
+('$', '12', '', 'million')		twelve million dollars 
+('$', '46', '7', 'million')		forty six point seven million dollars 
+('$', '660,000', '', '')		six hundred sixty thousand dollars 
+('$', '1', '8', 'million')		one point eight million dollar 
+('$', '13', '2', 'million')		thirteen point two million dollars 
+('$', '479,557', '', '')		four hundred seventy nine thousand five hundred fifty seven dollars 
+('$', '540,366', '', '')		five hundred forty thousand three hundred sixty six dollars 
+
+================================================
+
+('$', '1,000', '', '')		one thousand dollars 
+
+================================================
+
+('$', '20', '', '')		twenty dollars 
+('$', '5', '', '')		five dollars 
+('$', '2', '', '')		two dollars 
+('$', '5', '', '')		five dollars 
+('$', '12', '', '')		twelve dollars 
+('$', '13', '', '')		thirteen dollars 
+('$', '12', '', '')		twelve dollars 
+('$', '30', '', '')		thirty dollars 
+
+================================================
+
+('$', '5,000', '', '')		five thousand dollars 
+('$', '50,000', '', '')		fifty thousand dollars 
+
+================================================
+
+
+================================================
+
+('$', '3', '', 'million')		three million dollars 
+
+================================================
+
+('$', '122,150', '', '')		one hundred twenty two thousand one hundred fifty dollars 
+('$', '3,200', '', '')		three thousand two hundred dollars 
+('$', '112,400', '', '')		one hundred twelve thousand four hundred dollars 
+('$', '113,000', '', '')		one hundred thirteen thousand dollars 
+('$', '143,000', '', '')		one hundred forty three thousand dollars 
+
+================================================
+
+
+================================================
+
+('$', '39', '', 'million')		thirty nine million dollars 
+('$', '7', '90', '')		seven dollars and ninety cents 
+('€', '400', '', 'million')		four hundred million euros 
+('$', '451', '', 'million')		four hundred fifty one million dollars 
+
+================================================
+
+('$', '10', '', '')		ten dollars 
+('$', '1', '25', '')		one dollar and twenty five cents 
+('$', '75', '', '')		seventy five dollars 
+('$', '20', '', '')		twenty dollars 
+('$', '5', '', '')		five dollars 
+('€', '4', '', '')		four euros 
+('$', '4', '', '')		four dollars 
+('$', '8', '', '')		eight dollars 
+
+================================================
+
+
+================================================
+
+('$', '915', '', '')		nine hundred fifteen dollars 
+('$', '1175', '', '')		one thousand one hundred seventy five dollars 
+
+================================================
+
+
+================================================
+
+('$', '285', '', '')		two hundred eighty five dollars 
+
+================================================
+
+('$', '59,500', '', '')		fifty nine thousand five hundred dollars 
+('$', '46,200', '', '')		forty six thousand two hundred dollars 
+('$', '1,800', '', '')		one thousand eight hundred dollars 
+('$', '1,400', '', '')		one thousand four hundred dollars 
+('$', '850', '', '')		eight hundred fifty dollars 
+('$', '2,550', '', '')		two thousand five hundred fifty dollars 
+('$', '57,100 5', '', '')		five hundred seventy one thousand five dollars 
+('$', '52,650', '', '')		fifty two thousand six hundred fifty dollars 
+
+================================================
+
+
+================================================
+
+('$', '5,500', '', '')		five thousand five hundred dollars 
+('$', '200', '', '')		two hundred dollars 
+('$', '295', '', '')		two hundred ninety five dollars 
+('$', '995', '', '')		nine hundred ninety five dollars 
+('$', '250', '', '')		two hundred fifty dollars 
+
+================================================
+
+('$', '2', '', '')		two dollars 
+('$', '180', '', '')		one hundred eighty dollars 
+
+================================================
+
+('$', '85', '', '')		eighty five dollars 
+('$', '19', '', '')		nineteen dollars 
+
+================================================
+
+('$', '343,000', '', '')		three hundred forty three thousand dollars 
+('$', '55', '', '')		fifty five dollars 
+('$', '40', '', '')		forty dollars 
+('$', '48', '', '')		forty eight dollars 
+('$', '573', '', '')		five hundred seventy three dollars 
+('$', '200', '', '')		two hundred dollars 
+('$', '717', '', '')		seven hundred seventeen dollars 
+('$', '85', '', '')		eighty five dollars 
+('$', '100', '', '')		one hundred dollars 
+('$', '800', '', '')		eight hundred dollars 
+('$', '1,000', '', '')		one thousand dollars 
+
+================================================
+
+('$', '43,000', '', '')		forty three thousand dollars 
+('$', '41,000', '', '')		forty one thousand dollars 
+('$', '44,000', '', '')		forty four thousand dollars 
+('$', '27,000', '', '')		twenty seven thousand dollars 
+('$', '27,000', '', '')		twenty seven thousand dollars 
+('$', '50,000', '', '')		fifty thousand dollars 
+('$', '5,000', '', '')		five thousand dollars 
+('$', '4,100 19', '', '')		four hundred ten thousand nineteen dollars 
+('$', '600', '', '')		six hundred dollars 
+('$', '80', '', '')		eighty dollars 
+('$', '2,150', '', '')		two thousand one hundred fifty dollars 
+('$', '500', '', '')		five hundred dollars 
+('$', '500', '', '')		five hundred dollars 
+('$', '2,000', '', '')		two thousand dollars 
+('$', '10,000', '', '')		ten thousand dollars 
+
+================================================
+
+('$', '20', '', '')		twenty dollars 
+('$', '15', '', '')		fifteen dollars 
+('$', '25', '', '')		twenty five dollars 
+
+================================================
+
+
+================================================
+
+
+================================================
+
+('$', '28', '', '')		twenty eight dollars 
+('$', '22', '06', '')		twenty two dollars and six cents 
+('$', '16', '', '')		sixteen dollars 
+('$', '38', '', '')		thirty eight dollars 
+('$', '9', '', '')		nine dollars 
+('$', '50', '', '')		fifty dollars 
+('$', '65', '', '')		sixty five dollars 
+('$', '6', '', '')		six dollars 
+('$', '89', '', '')		eighty nine dollars 
+('$', '195', '', '')		one hundred ninety five dollars 
+
+================================================
+
+
+================================================
+
+
+================================================
+
+
+================================================
+
+('£', '33', '', '')		thirty three pounds 
+('$', '43', '70', '')		forty three dollars and seventy cents 
+('£', '55', '', '')		fifty five pounds 
+('£', '72', '50', '')		seventy two pounds and fifty pennies 
+('£', '97', '50', '')		ninety seven pounds and fifty pennies 
+('£', '37', '', '')		thirty seven pounds 
+('£', '33', '', '')		thirty three pounds 
+('£', '14', '50', '')		fourteen pounds and fifty pennies 
+('£', '18', '', '')		eighteen pounds 
+('£', '24', '', '')		twenty four pounds 
+('£', '63', '', '')		sixty three pounds 
+('£', '7', '', '')		seven pounds 
+('$', '1', '25', 'million')		one point two five million dollar 
+
+================================================
+
+('$', '45', '', '')		forty five dollars 
+('$', '40', '', '')		forty dollars 
+('$', '40', '', '')		forty dollars 
+('$', '70', '', '')		seventy dollars 
+('$', '35', '', '')		thirty five dollars 
+('$', '25', '', '')		twenty five dollars 
+('$', '25', '', '')		twenty five dollars 
+('$', '12', '', '')		twelve dollars 
+('$', '50', '', '')		fifty dollars 
+('$', '30', '', '')		thirty dollars 
+('$', '65', '', '')		sixty five dollars 
+('$', '60', '', '')		sixty dollars 
+('$', '56', '', '')		fifty six dollars 
+('$', '100', '', '')		one hundred dollars 
+
+================================================
+
+('$', '73,000', '', '')		seventy three thousand dollars 
+('$', '55,000', '', '')		fifty five thousand dollars 
+('$', '79,000', '', '')		seventy nine thousand dollars 
+
+================================================
+
+
+================================================
+
+('$', '180,000', '', '')		one hundred eighty thousand dollars 
+('$', '349,500 675', '', '')		three hundred forty nine million five hundred thousand six hundred seventy five dollars 
+('$', '1', '2', 'million')		one point two million dollar 
+
+================================================
+
+('£', '36', '', '')		thirty six pounds 
+('$', '47', '', '')		forty seven dollars 
+('£', '29', '80', '')		twenty nine pounds and eighty pennies 
+('£', '23', '', '')		twenty three pounds 
+('£', '25', '', '')		twenty five pounds 
+('£', '15', '', '')		fifteen pounds 
+('£', '15', '', '')		fifteen pounds 
+('£', '78', '', '')		seventy eight pounds 
+('£', '29', '95', '')		twenty nine pounds and ninety five pennies 
+('£', '5', '85', '')		five pounds and eighty five pennies 
+
+================================================
+
+('$', '100', '', '')		one hundred dollars 
+
+================================================
+
+
+================================================
+
+('$', '1,200', '', '')		one thousand two hundred dollars 
+('$', '200', '', '')		two hundred dollars 
+('$', '275', '', '')		two hundred seventy five dollars 
+('$', '800', '', '')		eight hundred dollars 
+('$', '210', '', '')		two hundred ten dollars 
+('$', '577', '', '')		five hundred seventy seven dollars 
+('$', '1,386', '', '')		one thousand three hundred eighty six dollars 
+('$', '506', '', '')		five hundred six dollars 
+('$', '830', '', '')		eight hundred thirty dollars 
+
+================================================
+
+('$', '22', '', '')		twenty two dollars 
+
+================================================
+
+('$', '2,400', '', '')		two thousand four hundred dollars 
+('$', '59', '', '')		fifty nine dollars 
+('$', '46', '', '')		forty six dollars 
+
+================================================
+
+('$', '456', '', '')		four hundred fifty six dollars 
+('$', '720', '', '')		seven hundred twenty dollars 
+('$', '165', '', '')		one hundred sixty five dollars 
+('$', '499', '', '')		four hundred ninety nine dollars 
+('$', '1,690', '', '')		one thousand six hundred ninety dollars 
+('$', '1,395', '', '')		one thousand three hundred ninety five dollars 
+
+================================================
+
+
+================================================
+
+('$', '43', '', '')		forty three dollars 
+
+================================================
+
+('$', '25', '', '')		twenty five dollars 
+
+================================================
+
+('$', '8', '', '')		eight dollars 
+
+================================================
+
+('$', '1,000', '', '')		one thousand dollars 
+
+================================================
+
+
+================================================
+
+
+================================================
+
+('$', '65', '', '')		sixty five dollars 
+('$', '150', '', '')		one hundred fifty dollars 
+('$', '250', '', '')		two hundred fifty dollars 
+('$', '70', '', '')		seventy dollars 
+('$', '70', '', '')		seventy dollars 
+('$', '200', '', '')		two hundred dollars 
+('$', '250', '', '')		two hundred fifty dollars 
+('$', '37', '', '')		thirty seven dollars 
+('$', '65', '', '')		sixty five dollars 
+('$', '47', '', '')		forty seven dollars 
+('$', '70', '', '')		seventy dollars 
+('$', '18', '', '')		eighteen dollars 
+
+================================================
+
+('€', '8,000', '', '')		eight thousand euros 
+('$', '8,800', '', '')		eight thousand eight hundred dollars 
+('€', '22,500', '', '')		twenty two thousand five hundred euros 
+('$', '30', '', '')		thirty dollars 
+('$', '70', '', '')		seventy dollars 
+('$', '80', '', '')		eighty dollars 
+('$', '3,000', '', '')		three thousand dollars 
+
+================================================
+
+('$', '56', '', '')		fifty six dollars 
+('$', '60', '', '')		sixty dollars 
+('$', '27', '', '')		twenty seven dollars 
+('$', '24', '', '')		twenty four dollars 
+('$', '30', '', '')		thirty dollars 
+
+================================================
+
+
+================================================
+
+
+================================================
+
+
+================================================
+
+('$', '920', '', '')		nine hundred twenty dollars 
+('$', '95', '', 'million')		ninety five million dollars 
+('$', '1,200', '', '')		one thousand two hundred dollars 
+('$', '155', '', '')		one hundred fifty five dollars 
+('$', '700', '', '')		seven hundred dollars 
+('$', '918,750', '', '')		nine hundred eighteen thousand seven hundred fifty dollars 
+
+================================================
+
+
+================================================
+
+
+================================================
+
+('$', '625', '', '')		six hundred twenty five dollars 
+('$', '475', '', '')		four hundred seventy five dollars 
+('$', '695', '', '')		six hundred ninety five dollars 
+('$', '95', '', '')		ninety five dollars 
+('$', '510', '', '')		five hundred ten dollars 
+
+================================================
+
+
+================================================
+
+('$', '199', '', '')		one hundred ninety nine dollars 
+('$', '100', '', '')		one hundred dollars 
+('$', '199', '', '')		one hundred ninety nine dollars 
+('$', '60', '', '')		sixty dollars 
+('$', '120', '', '')		one hundred twenty dollars 
+('$', '300', '', '')		three hundred dollars 
+('$', '80', '', '')		eighty dollars 
+('$', '249', '', '')		two hundred forty nine dollars 
+('$', '125', '', '')		one hundred twenty five dollars 
+('$', '175', '', '')		one hundred seventy five dollars 
+('$', '42', '', '')		forty two dollars 
+('$', '98', '', '')		ninety eight dollars 
+('$', '140', '', '')		one hundred forty dollars 
+('$', '43', '95', '')		forty three dollars and ninety five cents 
+('$', '20', '', '')		twenty dollars 
+
+================================================
+
+('$', '595', '', '')		five hundred ninety five dollars 
+
+================================================
+
+('£', '25', '00', '')		twenty five point zero zero pounds 
+
+================================================
+
+('$', '25', '', '')		twenty five dollars 
+('£', '48', '', '')		forty eight pounds 
+('$', '69', '36', '')		sixty nine dollars and thirty six cents 
+('£', '27', '', '')		twenty seven pounds 
+('$', '70', '', '')		seventy dollars 
+('£', '90', '', '')		ninety pounds 
+
+================================================
+
+('$', '34', '', '')		thirty four dollars 
+
+================================================
+
+('$', '34', '', '')		thirty four dollars 
+('$', '120', '', '')		one hundred twenty dollars 
+('$', '300', '', '')		three hundred dollars 
+
+================================================
+
+('$', '690', '', '')		six hundred ninety dollars 
+('$', '85', '', '')		eighty five dollars 
+('$', '69', '', '')		sixty nine dollars 
+('$', '750', '', '')		seven hundred fifty dollars 
+('$', '660', '', '')		six hundred sixty dollars 
+('$', '195', '', '')		one hundred ninety five dollars 
+('$', '89', '50', '')		eighty nine dollars and fifty cents 
+('$', '59', '50', '')		fifty nine dollars and fifty cents 
+
+================================================
+
+
+================================================
+
+
+================================================
+
+('$', '20', '42', '')		twenty dollars and forty two cents 
+
+================================================
+
+('$', '817', '', '')		eight hundred seventeen dollars 
+('$', '30', '', '')		thirty dollars 
+('$', '90', '', '')		ninety dollars 
+
+================================================
+
+('$', '550,000', '00', '')		five hundred fifty thousand point zero zero dollars 
+('$', '70,870', '', '')		seventy thousand eight hundred seventy dollars 
+('$', '150', '', '')		one hundred fifty dollars 
+('$', '50', '', '')		fifty dollars 
+
+================================================
+
+
+================================================
+
+('$', '16', '', '')		sixteen dollars 
+('$', '13', '', '')		thirteen dollars 
+('$', '15', '', '')		fifteen dollars 
+('$', '15', '', '')		fifteen dollars 
+('$', '16', '', '')		sixteen dollars 
+('$', '13', '', '')		thirteen dollars 
+('$', '15', '', '')		fifteen dollars 
+('$', '18', '', '')		eighteen dollars 
+('$', '22', '', '')		twenty two dollars 
+('$', '17', '', '')		seventeen dollars 
+
+================================================
+
+('$', '1', '', 'billion')		one billion dollar 
+('$', '8', '', '')		eight dollars 
+('$', '8', '', '')		eight dollars 
+('$', '15', '', '')		fifteen dollars 
+('$', '9', '', '')		nine dollars 
+('$', '2', '45', '')		two dollars and forty five cents 
+('$', '10', '', '')		ten dollars 
+('$', '5', '95', '')		five dollars and ninety five cents 
+('$', '6', '95', '')		six dollars and ninety five cents 
+('$', '9', '', '')		nine dollars 
+('$', '12', '', '')		twelve dollars 
+('$', '12', '', '')		twelve dollars 
+('$', '9', '', '')		nine dollars 
+('$', '15', '', '')		fifteen dollars 
+('$', '45', '', '')		forty five dollars 
+('$', '5', '45', '')		five dollars and forty five cents 
+('$', '10', '', '')		ten dollars 
+('$', '6', '', '')		six dollars 
+('$', '7', '', '')		seven dollars 
+('$', '1', '', '')		one dollar 
+
+================================================
+
+('$', '25', '', '')		twenty five dollars 
+('$', '7', '', '')		seven dollars 
+('$', '5', '', '')		five dollars 
+('$', '17', '', '')		seventeen dollars 
+('$', '19', '', '')		nineteen dollars 
+('$', '32', '', '')		thirty two dollars 
+('$', '25', '', '')		twenty five dollars 
+
+================================================
+
+
+================================================
+
+
+================================================
+
+
+================================================
+
+
+================================================
+
+('£', '2', '7', 'million')		two point seven million pounds 
+('$', '4', '1', 'million')		four point one million dollars 
+('£', '255', '', '')		two hundred fifty five pounds 
+('£', '250', '', '')		two hundred fifty pounds 
+
+================================================
+
+
+================================================
+
+
+================================================
+
+('$', '20', '', '')		twenty dollars 
+('$', '200', '', '')		two hundred dollars 
+('$', '200', '', '')		two hundred dollars 
+
+================================================
+
+
+================================================
+
+
+================================================
+
+('$', '760', '', '')		seven hundred sixty dollars 
+('$', '300', '', '')		three hundred dollars 
+('$', '275,000', '', '')		two hundred seventy five thousand dollars 
+('$', '150', '', '')		one hundred fifty dollars 
+('$', '200', '', '')		two hundred dollars 
+('$', '200', '', '')		two hundred dollars 
+('$', '400', '', '')		four hundred dollars 
+
+================================================
+
+
+================================================
+
+
+================================================
+
+('$', '30', '', '')		thirty dollars 
+('$', '107', '', '')		one hundred seven dollars 
+
+================================================
+
+('$', '43,722', '', '')		forty three thousand seven hundred twenty two dollars 
+('$', '10', '', '')		ten dollars 
+('$', '300', '', '')		three hundred dollars 
+('$', '85', '', '')		eighty five dollars 
+('$', '45', '', '')		forty five dollars 
+
+================================================
+
+
+================================================
+
+('$', '2', '6', 'million')		two point six million dollars 
+('$', '2', '3', 'million')		two point three million dollars 
+
+================================================
+
+('$', '2', '', '')		two dollars 
+
+================================================
+
+('$', '2,400', '', '')		two thousand four hundred dollars 
+('$', '3,910', '', '')		three thousand nine hundred ten dollars 
+('$', '17,900', '', '')		seventeen thousand nine hundred dollars 
+('$', '28,645', '', '')		twenty eight thousand six hundred forty five dollars 
+('$', '7,854', '', '')		seven thousand eight hundred fifty four dollars 
+('$', '8,759', '', '')		eight thousand seven hundred fifty nine dollars 
+('$', '400', '', '')		four hundred dollars 
+('$', '695', '', '')		six hundred ninety five dollars 
+('$', '150', '', '')		one hundred fifty dollars 
+('$', '232,000', '', '')		two hundred thirty two thousand dollars 
+('$', '20,000', '', '')		twenty thousand dollars 
+('$', '250', '', '')		two hundred fifty dollars 
+('$', '2,500', '', '')		two thousand five hundred dollars 
+('$', '230', '', '')		two hundred thirty dollars 
+('$', '420', '', '')		four hundred twenty dollars 
+('$', '160', '', '')		one hundred sixty dollars 
+
+================================================
+
+('$', '38', '', '')		thirty eight dollars 
+
+================================================
+
+
+================================================
+
+
+================================================
+
+
+================================================
+
+('$', '300', '', '')		three hundred dollars 
+
+================================================
+
+
+================================================
+
+
+================================================
+
+('€', '58', '', '')		fifty eight euros 
+
+================================================
+
+
+================================================
+
+
+================================================
+
+('£', '22', '', '')		twenty two pounds 
+('$', '31', '60', '')		thirty one dollars and sixty cents 
+('£', '35', '', '')		thirty five pounds 
+('£', '50', '', '')		fifty pounds 
+('£', '6', '', '')		six pounds 
+('£', '18', '', '')		eighteen pounds 
+('£', '13', '', '')		thirteen pounds 
+('£', '11', '', '')		eleven pounds 
+('£', '40', '', '')		forty pounds 
+
+================================================
+
+('$', '9', '99', '')		nine dollars and ninety nine cents 
+('$', '20', '', '')		twenty dollars 
+('$', '25', '', '')		twenty five dollars 
+('$', '40', '', '')		forty dollars 
+('$', '30', '', '')		thirty dollars 
+('$', '100', '', '')		one hundred dollars 
+('$', '25', '', '')		twenty five dollars 
+
+================================================
+
+('$', '8,412,626', '', '')		eight million four hundred twelve thousand six hundred twenty six dollars 
+('$', '625', '', 'million')		six hundred twenty five million dollars 
+('$', '12,000', '', '')		twelve thousand dollars 
+('$', '8,000', '', '')		eight thousand dollars 
+('$', '15,000', '', '')		fifteen thousand dollars 
+('$', '9,000', '', '')		nine thousand dollars 
+('$', '58,188', '', '')		fifty eight thousand one hundred eighty eight dollars 
+
+================================================
+
+('$', '4', '5', 'million')		four point five million dollars 
+('$', '190', '', '')		one hundred ninety dollars 
+('$', '50', '', '')		fifty dollars 
+
+================================================
+
+('$', '460,000', '', '')		four hundred sixty thousand dollars 
+('$', '54,570', '', '')		fifty four thousand five hundred seventy dollars 
+('$', '49,500', '', '')		forty nine thousand five hundred dollars 
+('€', '120,000', '', '')		one hundred twenty thousand euros 
+('€', '160,000', '', '')		one hundred sixty thousand euros 
+('$', '134,000', '', '')		one hundred thirty four thousand dollars 
+('$', '179,000', '', '')		one hundred seventy nine thousand dollars 
+
+================================================
+
+
+================================================
+
+('£', '400', '', 'million')		four hundred million pounds 
+('$', '574', '', 'million')		five hundred seventy four million dollars 
+('£', '5', '', 'million')		five million pounds 
+
+================================================
+
+
+================================================
+
+('$', '133', '', '')		one hundred thirty three dollars 
+('$', '11', '33', '')		eleven dollars and thirty three cents 
+
+================================================
+
+
+================================================
+
+('$', '2', '2', 'billion')		two point two billion dollars 
+('$', '7,200', '', '')		seven thousand two hundred dollars 
+('$', '26,500', '', '')		twenty six thousand five hundred dollars 
+('$', '991', '', '')		nine hundred ninety one dollars 
+('$', '375', '', '')		three hundred seventy five dollars 
+('$', '5,975', '', '')		five thousand nine hundred seventy five dollars 
+('$', '19', '99', '')		nineteen dollars and ninety nine cents 
+('$', '75,500', '', '')		seventy five thousand five hundred dollars 
+('$', '114,900', '', '')		one hundred fourteen thousand nine hundred dollars 
+('$', '48,300', '', '')		forty eight thousand three hundred dollars 
+('$', '167,000', '', '')		one hundred sixty seven thousand dollars 
+('$', '29,990', '', '')		twenty nine thousand nine hundred ninety dollars 
+('$', '300', '', '')		three hundred dollars 
+('$', '185', '', '')		one hundred eighty five dollars 
+('$', '1,500', '', '')		one thousand five hundred dollars 
+('$', '100', '', '')		one hundred dollars 
+('$', '495', '', '')		four hundred ninety five dollars 
+('$', '850', '', '')		eight hundred fifty dollars 
+('$', '289', '', '')		two hundred eighty nine dollars 
+('$', '4,195', '', '')		four thousand one hundred ninety five dollars 
+('$', '980', '', '')		nine hundred eighty dollars 
+('$', '198', '', '')		one hundred ninety eight dollars 
+('$', '135', '', '')		one hundred thirty five dollars 
+('$', '195', '', '')		one hundred ninety five dollars 
+('$', '3', '2', 'million')		three point two million dollars 
+('$', '150,000', '', '')		one hundred fifty thousand dollars 
+('$', '269', '', '')		two hundred sixty nine dollars 
+('$', '14,000', '', '')		fourteen thousand dollars 
+('$', '329', '', '')		three hundred twenty nine dollars 
+('$', '135', '', '')		one hundred thirty five dollars 
+('$', '12,000', '', '')		twelve thousand dollars 
+('$', '7,150', '', '')		seven thousand one hundred fifty dollars 
+('$', '1,805', '', '')		one thousand eight hundred five dollars 
+('$', '7,030', '', '')		seven thousand thirty dollars 
+('$', '1,198', '', '')		one thousand one hundred ninety eight dollars 
+('$', '17,355', '', '')		seventeen thousand three hundred fifty five dollars 
+('$', '268,999', '', '')		two hundred sixty eight thousand nine hundred ninety nine dollars 
+('$', '686', '', '')		six hundred eighty six dollars 
+('$', '1,749', '', '')		one thousand seven hundred forty nine dollars 
+('$', '549', '', '')		five hundred forty nine dollars 
+('$', '14,600', '', '')		fourteen thousand six hundred dollars 
+('$', '20,000', '', '')		twenty thousand dollars 
+('$', '10,800', '', '')		ten thousand eight hundred dollars 
+
+================================================
+
+
+================================================
+
+
+================================================
+
+('£', '12', '50', '')		twelve pounds and fifty pennies 
+('$', '19', '46', '')		nineteen dollars and forty six cents 
+('£', '16', '50', '')		sixteen pounds and fifty pennies 
+('£', '14', '50', '')		fourteen pounds and fifty pennies 
+('£', '9', '', '')		nine pounds 
+('£', '9', '', '')		nine pounds 
+
+================================================
+
+('$', '390', '', '')		three hundred ninety dollars 
+
+================================================
+
+
+================================================
+
+
+================================================
+
+
+================================================
+
+('£', '25', '', '')		twenty five pounds 
+('$', '35', '', '')		thirty five dollars 
+('£', '11', '', '')		eleven pounds 
+('£', '10', '', '')		ten pounds 
+('£', '12', '50', '')		twelve pounds and fifty pennies 
+('£', '5', '50', '')		five pounds and fifty pennies 
+('£', '13', '20', '')		thirteen pounds and twenty pennies 
+('£', '8', '95', '')		eight pounds and ninety five pennies 
+('£', '3', '', '')		three pounds 
+('£', '2', '', '')		two pounds 
+('£', '10', '50', '')		ten pounds and fifty pennies 
+('£', '15', '50', '')		fifteen pounds and fifty pennies 
+('£', '9', '', '')		nine pounds 
+('£', '12', '', '')		twelve pounds 
+('£', '10', '', '')		ten pounds 
+('£', '13', '50', '')		thirteen pounds and fifty pennies 
+('£', '24', '', '')		twenty four pounds 
+('£', '12', '', '')		twelve pounds 
+('£', '28', '', '')		twenty eight pounds 
+('£', '11', '', '')		eleven pounds 
+('£', '45', '', '')		forty five pounds 
+('£', '89', '', '')		eighty nine pounds 
+('£', '6', '95', '')		six pounds and ninety five pennies 
+('£', '38', '', '')		thirty eight pounds 
+('£', '20', '', '')		twenty pounds 
+('£', '7', '', '')		seven pounds 
+
+================================================
+
+('$', '10', '', '')		ten dollars 
+('$', '5', '', '')		five dollars 
+('$', '10', '', '')		ten dollars 
+('$', '22', '', '')		twenty two dollars 
+('$', '20', '', '')		twenty dollars 
+('$', '9', '', '')		nine dollars 
+('$', '14', '', '')		fourteen dollars 
+
+================================================
+
+('$', '225', '', '')		two hundred twenty five dollars 
+('$', '7', '99', '')		seven dollars and ninety nine cents 
+('$', '1', '99', '')		one dollar and ninety nine cents 
+('$', '4', '', '')		four dollars 
+('$', '10,000', '', '')		ten thousand dollars 
+('$', '15,000', '', '')		fifteen thousand dollars 
+('$', '22', '', '')		twenty two dollars 
+('$', '114', '', '')		one hundred fourteen dollars 
+('$', '149', '', '')		one hundred forty nine dollars 
+
+================================================
+
+('$', '203', '', '')		two hundred three dollars 
+('$', '408', '', '')		four hundred eight dollars 
+
+================================================
+
+
+================================================
+
+('£', '5', '', '')		five pounds 
+('$', '7', '80', '')		seven dollars and eighty cents 
+('£', '70', '', '')		seventy pounds 
+('£', '35', '', '')		thirty five pounds 
+
+================================================
+
+('$', '60', '', '')		sixty dollars 
+('$', '60', '', '')		sixty dollars 
+('$', '45', '', '')		forty five dollars 
+('$', '250', '', '')		two hundred fifty dollars 
+('$', '540', '', '')		five hundred forty dollars 
+('$', '150', '', '')		one hundred fifty dollars 
+('$', '50', '', '')		fifty dollars 
+
+================================================
+
+('$', '15', '', '')		fifteen dollars 
+('$', '88', '', '')		eighty eight dollars 
+
+================================================
+
+('$', '14', '', '')		fourteen dollars 
+
+================================================
+
+
+================================================
+
+
+================================================
+
+
+================================================
+
+('$', '525', '', '')		five hundred twenty five dollars 
+('$', '408', '', '')		four hundred eight dollars 
+
+================================================
+
+
+================================================
+
+('£', '13', '50', '')		thirteen pounds and fifty pennies 
+('$', '19', '', '')		nineteen dollars 
+('£', '4', '', '')		four pounds 
+
+================================================
+
+('$', '52', '', '')		fifty two dollars 
+('$', '15', '', '')		fifteen dollars 
+('$', '21', '', '')		twenty one dollars 
+('$', '54', '', '')		fifty four dollars 
+('$', '52', '', '')		fifty two dollars 
+('$', '21', '', '')		twenty one dollars 
+('$', '24', '', '')		twenty four dollars 
+
+================================================
+
+
+================================================
+
+('$', '1,350', '', '')		one thousand three hundred fifty dollars 
+
+================================================
+
+
+================================================
+
+('$', '24', '', '')		twenty four dollars 
+('$', '25', '', '')		twenty five dollars 
+('$', '12', '', '')		twelve dollars 
+('$', '14', '', '')		fourteen dollars 
+('$', '14', '', '')		fourteen dollars 
+('$', '14', '', '')		fourteen dollars 
+('$', '14', '', '')		fourteen dollars 
+
+================================================
+
+('$', '575,000', '', '')		five hundred seventy five thousand dollars 
+('$', '15,950', '', '')		fifteen thousand nine hundred fifty dollars 
+('$', '57,900', '', '')		fifty seven thousand nine hundred dollars 
+
+================================================
+
+('$', '268', '', '')		two hundred sixty eight dollars 
+('$', '9', '', '')		nine dollars 
+('$', '275', '', '')		two hundred seventy five dollars 
+('$', '500,000', '', '')		five hundred thousand dollars 
+
+================================================
+
+
+================================================
+
+('£', '14', '', '')		fourteen pounds 
+('$', '19', '50', '')		nineteen dollars and fifty cents 
+('£', '16', '', '')		sixteen pounds 
+('£', '30', '', '')		thirty pounds 
+
+================================================
+
+('£', '7', '95', '')		seven pounds and ninety five pennies 
+('$', '10', '36', '')		ten dollars and thirty six cents 
+('£', '4', '45', '')		four pounds and forty five pennies 
+
+================================================
+
+('$', '3', '', 'million')		three million dollars 
+('$', '4', '2', 'million')		four point two million dollars 
+('$', '3', '6', 'billion')		three point six billion dollars 
+('$', '100', '', 'million')		one hundred million dollars 
+('$', '650', '', 'million')		six hundred fifty million dollars 
+('$', '9', '99', '')		nine dollars and ninety nine cents 
+('$', '12', '49', '')		twelve dollars and forty nine cents 
+('$', '3', '', 'million')		three million dollars 
+
+================================================
+
+
+================================================
+
+('£', '30', '', '')		thirty pounds 
+('$', '43', '', '')		forty three dollars 
+('£', '400,000', '', '')		four hundred thousand pounds 
+('£', '800,000', '', '')		eight hundred thousand pounds 
+('£', '36', '', '')		thirty six pounds 
+('£', '6', '', '')		six pounds 
+('£', '4', '50', '')		four pounds and fifty pennies 
+('£', '45', '', '')		forty five pounds 
+('£', '65', '', '')		sixty five pounds 
+
+================================================
+
+('£', '7', '25', '')		seven pounds and twenty five pennies 
+('$', '10', '', '')		ten dollars 
+('£', '8', '75', '')		eight pounds and seventy five pennies 
+
+================================================
+
+
+================================================
+
+
+================================================
+
+('$', '9,900', '', '')		nine thousand nine hundred dollars 
+('$', '10,000', '', '')		ten thousand dollars 
+('$', '2,700', '', '')		two thousand seven hundred dollars 
+('$', '10,000', '', '')		ten thousand dollars 
+('$', '30,000', '', '')		thirty thousand dollars 
+
+================================================
+
+('$', '1,350', '', '')		one thousand three hundred fifty dollars 
+
+================================================
+
+('$', '44', '', '')		forty four dollars 
+('$', '12', '', '')		twelve dollars 
+('$', '12', '', '')		twelve dollars 
+('$', '16', '', '')		sixteen dollars 
+('$', '24', '', '')		twenty four dollars 
+('$', '24', '', '')		twenty four dollars 
+('$', '24', '', '')		twenty four dollars 
+
+================================================
+
+
+================================================
+
+('$', '105,000', '', '')		one hundred five thousand dollars 
+
+================================================
+
+
+================================================
+
+('$', '33,900', '', '')		thirty three thousand nine hundred dollars 
+
+================================================
+
+('$', '302,000', '', '')		three hundred two thousand dollars 
+
+================================================
+
+
+================================================
+
+('£', '150', '', '')		one hundred fifty pounds 
+
+================================================
+
+
+================================================
+
+
+================================================
+
+('$', '14,700', '', '')		fourteen thousand seven hundred dollars 
+
+================================================
+
+('£', '100,000', '', '')		one hundred thousand pounds 
+('£', '50,000', '', '')		fifty thousand pounds 
+('£', '10,000', '', '')		ten thousand pounds 
+
+================================================
+
+('$', '980,000', '', '')		nine hundred eighty thousand dollars 
+('$', '1', '65', 'million')		one point six five million dollar 
+
+================================================
+
+('$', '10,000', '', '')		ten thousand dollars 
+
+================================================
+
+
+================================================
+
+('$', '10,000', '', '')		ten thousand dollars 
+('$', '549', '', '')		five hundred forty nine dollars 
+('$', '10,000', '', '')		ten thousand dollars 
+
+================================================
+
+('$', '995', '', '')		nine hundred ninety five dollars 
+('$', '1,295', '', '')		one thousand two hundred ninety five dollars 
+('$', '150', '', '')		one hundred fifty dollars 
+('$', '1,295', '', '')		one thousand two hundred ninety five dollars 
+
+================================================
+
+('$', '46,580', '', '')		forty six thousand five hundred eighty dollars 
+('$', '22,580', '', '')		twenty two thousand five hundred eighty dollars 
+('$', '210,000', '', '')		two hundred ten thousand dollars 
+
+================================================
+
+('$', '1', '', 'million')		one million dollar 
+('$', '10,000', '', '')		ten thousand dollars 
+('$', '20,000', '', '')		twenty thousand dollars 
+
+================================================
+
+('$', '373,130', '', '')		three hundred seventy three thousand one hundred thirty dollars 
+('$', '520,000', '', '')		five hundred twenty thousand dollars 
+('$', '12,000', '', '')		twelve thousand dollars 
+('$', '1,450', '', '')		one thousand four hundred fifty dollars 
+('$', '312,000', '', '')		three hundred twelve thousand dollars 
+('$', '1', '', 'million')		one million dollar 
+('$', '10', '', 'million')		ten million dollars 
+('$', '565', '', '')		five hundred sixty five dollars 
+('$', '2,790', '', '')		two thousand seven hundred ninety dollars 
+
+================================================
+
+
+================================================
+
+('£', '4', '89', '')		four pounds and eighty nine pennies 
+('$', '7', '58', '')		seven dollars and fifty eight cents 
+('£', '0', '99', '')		 pounds and ninety nine pennies 
+
+================================================
+
+
+================================================
+
+('$', '20,400', '', '')		twenty thousand four hundred dollars 
+('$', '91,400', '', '')		ninety one thousand four hundred dollars 
+('$', '95,700', '', '')		ninety five thousand seven hundred dollars 
+('€', '315,900', '', '')		three hundred fifteen thousand nine hundred euros 
+('$', '345,000', '', '')		three hundred forty five thousand dollars 
+
+================================================
+
+('$', '87', '', '')		eighty seven dollars 
+('$', '44', '', '')		forty four dollars 
+('$', '1', '', '')		one dollar 
+('$', '851', '', '')		eight hundred fifty one dollars 
+('£', '696', '86', '')		six hundred ninety six pounds and eighty six pennies 
+('$', '1,045', '', '')		one thousand forty five dollars 
+('$', '48', '', '')		forty eight dollars 
+('$', '90', '', '')		ninety dollars 
+('$', '9', '', '')		nine dollars 
+('$', '78', '', '')		seventy eight dollars 
+
+================================================
+
+('$', '597,400', '', '')		five hundred ninety seven thousand four hundred dollars 
+('$', '348,000', '', '')		three hundred forty eight thousand dollars 
+('$', '378,000', '', '')		three hundred seventy eight thousand dollars 
+('$', '320,000', '', '')		three hundred twenty thousand dollars 
+('$', '348,000', '', '')		three hundred forty eight thousand dollars 
+('$', '39,400', '', '')		thirty nine thousand four hundred dollars 
+
+================================================
+
+('$', '60,900', '', '')		sixty thousand nine hundred dollars 
+('$', '95,700', '', '')		ninety five thousand seven hundred dollars 
+
+================================================
+
+('$', '50,000', '', '')		fifty thousand dollars 
+
+================================================
+
+('£', '22', '', '')		twenty two pounds 
+('$', '33', '', '')		thirty three dollars 
+('£', '28', '', '')		twenty eight pounds 
+('£', '40', '', '')		forty pounds 
+('£', '60', '', '')		sixty pounds 
+
+================================================
+
+('$', '145,000', '', '')		one hundred forty five thousand dollars 
+('$', '176,000', '', '')		one hundred seventy six thousand dollars 
+
+================================================
+
+
+================================================
+
+
+================================================
+
+
+================================================
+
+('$', '35,800', '', '')		thirty five thousand eight hundred dollars 
+
+================================================
+
+('£', '4', '50', '')		four pounds and fifty pennies 
+('$', '6', '83', '')		six dollars and eighty three cents 
+('£', '5', '50', '')		five pounds and fifty pennies 
+('£', '3', '', '')		three pounds 
+('£', '9', '75', '')		nine pounds and seventy five pennies 
+('£', '11', '50', '')		eleven pounds and fifty pennies 
+('£', '9', '50', '')		nine pounds and fifty pennies 
+('£', '12', '', '')		twelve pounds 
+('£', '8', '', '')		eight pounds 
+('£', '2', '50', '')		two pounds and fifty pennies 
+('£', '5', '', '')		five pounds 
+
+================================================
+
+
+================================================
+
+
+================================================
+
+
+================================================
+
+('£', '32', '', '')		thirty two pounds 
+('£', '6', '', '')		six pounds 
+('£', '6', '', '')		six pounds 
+('£', '9', '', '')		nine pounds 
+('£', '95', '', '')		ninety five pounds 
+
+================================================
+
+('$', '345', '', '')		three hundred forty five dollars 
+
+================================================
+
+
+================================================
+
+('$', '1', '5', 'million')		one point five million dollar 
+
+================================================
+
+
+================================================
+
+('$', '250,000', '', '')		two hundred fifty thousand dollars 
+
+================================================
+
+('$', '13,000', '', '')		thirteen thousand dollars 
+('$', '6,000', '', '')		six thousand dollars 
+('$', '19,700', '', '')		nineteen thousand seven hundred dollars 
+('$', '12,400', '', '')		twelve thousand four hundred dollars 
+('$', '23,900', '', '')		twenty three thousand nine hundred dollars 
+('$', '28,000', '', '')		twenty eight thousand dollars 
+('$', '11,500', '', '')		eleven thousand five hundred dollars 
+('$', '22,000', '', '')		twenty two thousand dollars 
+('$', '22,800', '', '')		twenty two thousand eight hundred dollars 
+('$', '60,000', '', '')		sixty thousand dollars 
+
+================================================
+
+('$', '7,000', '', '')		seven thousand dollars 
+('$', '10,000', '', '')		ten thousand dollars 
+('$', '3,000', '', '')		three thousand dollars 
+('$', '5,000', '', '')		five thousand dollars 
+('$', '2,000', '', '')		two thousand dollars 
+('$', '3,000', '', '')		three thousand dollars 
+
+================================================
+
+('$', '47,600', '', '')		forty seven thousand six hundred dollars 
+('$', '50,000', '', '')		fifty thousand dollars 
+
+================================================
+
+('$', '30,000', '', '')		thirty thousand dollars 
+('$', '30,000', '', '')		thirty thousand dollars 
+
+================================================
+
+('$', '179,200', '', '')		one hundred seventy nine thousand two hundred dollars 
+('$', '40,000', '', '')		forty thousand dollars 
+('$', '80,000', '', '')		eighty thousand dollars 
+('$', '100,000', '', '')		one hundred thousand dollars 
+('$', '136,300', '', '')		one hundred thirty six thousand three hundred dollars 
+('$', '180,000', '', '')		one hundred eighty thousand dollars 
+('$', '365,000', '', '')		three hundred sixty five thousand dollars 
+('$', '800,000', '', '')		eight hundred thousand dollars 
+
+================================================
+
+
+================================================
+
+
+================================================
+
+('£', '50', '51', '')		fifty pounds and fifty one pennies 
+('£', '49', '46', '')		forty nine pounds and forty six pennies 
+('£', '12', '99', '')		twelve pounds and ninety nine pennies 
+
+================================================
+
+('$', '42,200', '', '')		forty two thousand two hundred dollars 
+
+================================================
+
+
+================================================
+
+
+================================================
+
+('$', '578', '', '')		five hundred seventy eight dollars 
+
+================================================
+
+('$', '149', '', '')		one hundred forty nine dollars 
+('$', '299', '', '')		two hundred ninety nine dollars 
+('$', '15,000', '', '')		fifteen thousand dollars 
+('$', '70', '', '')		seventy dollars 
+('$', '220', '', '')		two hundred twenty dollars 
+('$', '5,000', '', '')		five thousand dollars 
+('$', '1,000', '', '')		one thousand dollars 
+('$', '100', '', '')		one hundred dollars 
+('$', '500', '', '')		five hundred dollars 
+('$', '3', '7', '')		three point seven dollars 
+('$', '5', '', '')		five dollars 
+('$', '349', '', '')		three hundred forty nine dollars 
+('$', '299', '', '')		two hundred ninety nine dollars 
+
+================================================
+
+
+================================================
+
+('€', '6,500', '', '')		six thousand five hundred euros 
+('$', '7,100', '', '')		seven thousand one hundred dollars 
+
+================================================
+
+('$', '10,000', '', '')		ten thousand dollars 
+('$', '110,000', '', '')		one hundred ten thousand dollars 
+('$', '9,250', '', '')		nine thousand two hundred fifty dollars 
+('$', '7,000', '', '')		seven thousand dollars 
+('$', '5,700', '', '')		five thousand seven hundred dollars 
+('$', '8,000', '', '')		eight thousand dollars 
+('$', '4,500', '', '')		four thousand five hundred dollars 
+('$', '34,900', '', '')		thirty four thousand nine hundred dollars 
+
+================================================
+
+('£', '15,000', '', '')		fifteen thousand pounds 
+('£', '20,000', '', '')		twenty thousand pounds 
+('$', '22,850', '', '')		twenty two thousand eight hundred fifty dollars 
+('$', '30,465', '', '')		thirty thousand four hundred sixty five dollars 
+
+================================================
+
+('£', '12', '', '')		twelve pounds 
+('$', '18', '', '')		eighteen dollars 
+('£', '50', '', '')		fifty pounds 
+('£', '9', '50', '')		nine pounds and fifty pennies 
+('£', '9', '', '')		nine pounds 
+('£', '19', '25', '')		nineteen pounds and twenty five pennies 
+('£', '33', '50', '')		thirty three pounds and fifty pennies 
+('£', '16', '25', '')		sixteen pounds and twenty five pennies 
+('£', '12', '50', '')		twelve pounds and fifty pennies 
+('£', '40', '', '')		forty pounds 
+
+================================================
+
+('$', '8', '', 'million')		eight million dollars 
+('$', '20', '', 'million')		twenty million dollars 
+('$', '5', '', 'million')		five million dollars 
+('$', '11', '', 'million')		eleven million dollars 
+
+================================================
+
+('$', '45,000', '', '')		forty five thousand dollars 
+
+================================================
+
+('$', '30,000', '', '')		thirty thousand dollars 
+('$', '50,000', '', '')		fifty thousand dollars 
+
+================================================
+
+
+================================================
+
+('$', '29,000', '', '')		twenty nine thousand dollars 
+('$', '150,000', '', '')		one hundred fifty thousand dollars 
+('$', '250,000', '', '')		two hundred fifty thousand dollars 
+('$', '1', '', 'million')		one million dollar 
+
+================================================
+
+
+================================================
+
+('$', '275', '', '')		two hundred seventy five dollars 
+
+================================================
+
+('$', '7', '26', 'million')		seven point two six million dollars 
+('$', '3,100', '', '')		three thousand one hundred dollars 
+
+================================================
+
+
+================================================
+
+('$', '745', '', '')		seven hundred forty five dollars 
+('$', '200,603', '', '')		two hundred thousand six hundred three dollars 
+('$', '1,495', '', '')		one thousand four hundred ninety five dollars 
+
+================================================
+
+('$', '15,700', '', '')		fifteen thousand seven hundred dollars 
+('$', '28,300', '', '')		twenty eight thousand three hundred dollars 
+
+================================================
+
+('$', '8,500', '', '')		eight thousand five hundred dollars 
+
+================================================
+
+('£', '29', '95', '')		twenty nine pounds and ninety five pennies 
+('$', '49', '95', '')		forty nine dollars and ninety five cents 
+('$', '258', '', '')		two hundred fifty eight dollars 
+
+================================================
+
+('$', '24', '', 'million')		twenty four million dollars 
+('$', '11', '', 'million')		eleven million dollars 
+('$', '5', '', 'million')		five million dollars 
+
+================================================
+
+
+================================================
+
+('$', '54,000', '', '')		fifty four thousand dollars 
+
+================================================
+
+('$', '10,000', '', '')		ten thousand dollars 
+('$', '10,000', '', '')		ten thousand dollars 
+('$', '9,050', '', '')		nine thousand fifty dollars 
+('$', '17,500', '', '')		seventeen thousand five hundred dollars 
+('$', '15,000', '', '')		fifteen thousand dollars 
+('$', '25,000', '', '')		twenty five thousand dollars 
+
+================================================
+
+
+================================================
+
+('$', '6,000', '', '')		six thousand dollars 
+
+================================================
+
+('$', '99', '', '')		ninety nine dollars 
+('$', '129', '', '')		one hundred twenty nine dollars 
+
+================================================
+
+
+================================================
+
+('$', '1,500', '', '')		one thousand five hundred dollars 
+('$', '1,500', '', '')		one thousand five hundred dollars 
+('$', '1,500', '', '')		one thousand five hundred dollars 
+('$', '1,500', '', '')		one thousand five hundred dollars 
+
+================================================
+
+('$', '59', '95', '')		fifty nine dollars and ninety five cents 
+('£', '39', '95', '')		thirty nine pounds and ninety five pennies 
+('$', '29', '95', '')		twenty nine dollars and ninety five cents 
+('£', '19', '95', '')		nineteen pounds and ninety five pennies 
+
+================================================
+
+
+================================================
+
+('$', '200,000', '', '')		two hundred thousand dollars 
+
+================================================
+
+
+================================================
+
+('$', '1,100', '', '')		one thousand one hundred dollars 
+('$', '1,500', '', '')		one thousand five hundred dollars 
+('$', '10,000', '', '')		ten thousand dollars 
+('$', '349', '', '')		three hundred forty nine dollars 
+('$', '349', '', '')		three hundred forty nine dollars 
+('$', '17,000', '', '')		seventeen thousand dollars 
+
+================================================
+
+
+================================================
+
+('$', '300', '', 'million')		three hundred million dollars 
+('$', '150', '', 'million')		one hundred fifty million dollars 
+('$', '200', '', 'million')		two hundred million dollars 
+('$', '719', '', '')		seven hundred nineteen dollars 
+('$', '6,000', '', '')		six thousand dollars 
+
+================================================
+
+
+================================================
+
+
+================================================
+
+('$', '1,400', '', '')		one thousand four hundred dollars 
+
+================================================
+
+
+================================================
+
+('$', '620,000', '', '')		six hundred twenty thousand dollars 
+
+================================================
+
+('$', '80,000', '', '')		eighty thousand dollars 
+('$', '80,000', '', '')		eighty thousand dollars 
+('$', '100,000', '', '')		one hundred thousand dollars 
+
+================================================
+
+
+================================================
+
+
+================================================
+
+
+================================================
+
+('$', '75,300', '', '')		seventy five thousand three hundred dollars 
+('$', '369,200', '', '')		three hundred sixty nine thousand two hundred dollars 
+('$', '314,600', '', '')		three hundred fourteen thousand six hundred dollars 
+('$', '71,200', '', '')		seventy one thousand two hundred dollars 
+('$', '43,800', '', '')		forty three thousand eight hundred dollars 
+('$', '50,600', '', '')		fifty thousand six hundred dollars 
+
+================================================
+
+
+================================================
+
+
+================================================
+
+
+================================================
+
+('$', '7', '3', 'million')		seven point three million dollars 
+('$', '30', '', 'million')		thirty million dollars 
+('$', '10', '', 'million')		ten million dollars 
+('$', '21', '', 'million')		twenty one million dollars 
+('$', '17', '', 'million')		seventeen million dollars 
+
+================================================
+
+
+================================================
+
+('$', '1,500', '', '')		one thousand five hundred dollars 
+
+================================================
+
+
+================================================
+
+
+================================================
+
+
+================================================
+
+
+================================================
+
+
+================================================
+
+
+================================================
+
+
+================================================
+
+
+================================================
+
+('$', '299', '', '')		two hundred ninety nine dollars 
+('$', '149', '', '')		one hundred forty nine dollars 
+('$', '299', '', '')		two hundred ninety nine dollars 
+('$', '429', '', '')		four hundred twenty nine dollars 
+
+================================================
+
+
+================================================
+
+
+================================================
+
+
+================================================
+
+
+================================================
+
+('$', '399', '', '')		three hundred ninety nine dollars 
+('$', '399', '', '')		three hundred ninety nine dollars 
+('$', '696', '', '')		six hundred ninety six dollars 
+('$', '749', '', '')		seven hundred forty nine dollars 
+('$', '25', '', '')		twenty five dollars 
+('$', '50', '', '')		fifty dollars 
+('$', '100', '', '')		one hundred dollars 
+('$', '524', '', '')		five hundred twenty four dollars 
+('$', '399', '', '')		three hundred ninety nine dollars 
+
+================================================
+
+('$', '2,000', '', '')		two thousand dollars 
+
+================================================
+
+('$', '4,250', '', '')		four thousand two hundred fifty dollars 
+('$', '19,000', '', '')		nineteen thousand dollars 
+('$', '6,750', '', '')		six thousand seven hundred fifty dollars 
+('$', '19,000', '', '')		nineteen thousand dollars 
+
+================================================
+
+
+================================================
+
+
+================================================
+
+('$', '17,000', '', '')		seventeen thousand dollars 
+
+================================================
+
+
+================================================
+
+('$', '3,495', '', '')		three thousand four hundred ninety five dollars 
+
+================================================
+
+
+================================================
+
+
+================================================
+
+('$', '1,000', '', '')		one thousand dollars 
+('$', '1,200', '', '')		one thousand two hundred dollars 
+('$', '3,319', '', '')		three thousand three hundred nineteen dollars 
+('$', '100', '', '')		one hundred dollars 
+('$', '200', '', '')		two hundred dollars 
+('$', '250', '', '')		two hundred fifty dollars 
+('$', '35', '', '')		thirty five dollars 
+('$', '10', '', '')		ten dollars 
+('$', '35', '', '')		thirty five dollars 
+('$', '3,000', '', '')		three thousand dollars 
+('$', '2,039', '', '')		two thousand thirty nine dollars 
+
+================================================
+
+('$', '100', '', '')		one hundred dollars 
+('$', '399', '', '')		three hundred ninety nine dollars 
+('$', '180', '', '')		one hundred eighty dollars 
+
+================================================
+
+
+================================================
+
+
+================================================
+
+('$', '40,000', '', '')		forty thousand dollars 
+('$', '60,000', '', '')		sixty thousand dollars 
+
+================================================
+
+
+================================================
+
+
+================================================
+
+
+================================================
+
+
+================================================
+
+
+================================================
+
+('$', '285,000', '', '')		two hundred eighty five thousand dollars 
+
+================================================
+
+('$', '1,200', '', '')		one thousand two hundred dollars 
+('$', '300', '', '')		three hundred dollars 
+('$', '1,200', '', '')		one thousand two hundred dollars 
+
+================================================
+
+('$', '9', '99', '')		nine dollars and ninety nine cents 
+('$', '14', '99', '')		fourteen dollars and ninety nine cents 
+('$', '9', '99', '')		nine dollars and ninety nine cents 
+
+================================================
+
+
+================================================
+
+
+================================================
+
+
+================================================
+
+('$', '49', '', '')		forty nine dollars 
+('$', '999', '', '')		nine hundred ninety nine dollars 
+
+================================================
+
+
+================================================
+
+('$', '8,500', '', '')		eight thousand five hundred dollars 
+
+================================================
+
+('$', '15,500', '', '')		fifteen thousand five hundred dollars 
+('$', '20,000', '', '')		twenty thousand dollars 
+('$', '15,500', '', '')		fifteen thousand five hundred dollars 
+('$', '15', '', '')		fifteen dollars 
+('$', '15,500', '', '')		fifteen thousand five hundred dollars 
+
+================================================
+
+
+================================================
+
+
+================================================
+
+('$', '300', '', '')		three hundred dollars 
+('$', '450', '', '')		four hundred fifty dollars 
+
+================================================
+
+('£', '52', '31', '')		fifty two pounds and thirty one pennies 
+('$', '78', '82', '')		seventy eight dollars and eighty two cents 
+('£', '43', '25', '')		forty three pounds and twenty five pennies 
+('£', '47', '81', '')		forty seven pounds and eighty one pennies 
+('£', '31', '', '')		thirty one pounds 
+('£', '1', '50', '')		one pound and fifty pennies 
+('£', '43', '82', '')		forty three pounds and eighty two pennies 
+('£', '39', '93', '')		thirty nine pounds and ninety three pennies 
+('£', '44', '44', '')		forty four pounds and forty four pennies 
+('£', '68', '10', '')		sixty eight pounds and ten pennies 
+('£', '31', '05', '')		thirty one pounds and five pennies 
+('£', '39', '99', '')		thirty nine pounds and ninety nine pennies 
+('£', '39', '90', '')		thirty nine pounds and ninety pennies 
+
+================================================
+
+
+================================================
+
+('$', '4,250', '', '')		four thousand two hundred fifty dollars 
+('$', '1,299', '', '')		one thousand two hundred ninety nine dollars 
+
+================================================
+
+
+================================================
+
+
+================================================
+
+
+================================================
+
+('$', '1,990', '', '')		one thousand nine hundred ninety dollars 
+('$', '30,000', '', '')		thirty thousand dollars 
+('$', '3', '', 'million')		three million dollars 
+('$', '2,000', '', '')		two thousand dollars 
+('$', '199', '', '')		one hundred ninety nine dollars 
+('$', '399', '', '')		three hundred ninety nine dollars 
+('$', '699', '', '')		six hundred ninety nine dollars 
+
+================================================
+
+
+================================================
+
+('$', '11,500', '', '')		eleven thousand five hundred dollars 
+('$', '22,000', '', '')		twenty two thousand dollars 
+
+================================================
+
+('$', '9', '99', '')		nine dollars and ninety nine cents 
+('$', '14', '99', '')		fourteen dollars and ninety nine cents 
+('$', '1', '29', '')		one dollar and twenty nine cents 
+
+================================================
+
+
+================================================
+
+
+================================================
+
+('$', '750', '', '')		seven hundred fifty dollars 
+('$', '2,499', '', '')		two thousand four hundred ninety nine dollars 
+('$', '349', '', '')		three hundred forty nine dollars 
+('$', '7,250', '', '')		seven thousand two hundred fifty dollars 
+('$', '350', '', '')		three hundred fifty dollars 
+('$', '1,299', '', '')		one thousand two hundred ninety nine dollars 
+
+================================================
+
+
+================================================
+
+
+================================================
+
+
+================================================
+
+
+================================================
+
+
+================================================
+
+
+================================================
+
+
+================================================
+
+('$', '485', '', '')		four hundred eighty five dollars 
+('$', '345', '', '')		three hundred forty five dollars 
+
+================================================
+
+('$', '300', '', '')		three hundred dollars 
+('$', '500', '', '')		five hundred dollars 
+('$', '499', '', '')		four hundred ninety nine dollars 
+('$', '380', '', '')		three hundred eighty dollars 
+('$', '399', '', '')		three hundred ninety nine dollars 
+('$', '349', '', '')		three hundred forty nine dollars 
+('$', '500', '', '')		five hundred dollars 
+
+================================================
+
+
+================================================
+
+
+================================================
+
+('€', '3,000', '', '')		three thousand euros 
+('$', '3,370', '', '')		three thousand three hundred seventy dollars 
+('€', '9,000', '', '')		nine thousand euros 
+('€', '9,000', '', '')		nine thousand euros 
+('€', '40,000', '', '')		forty thousand euros 
+('€', '500,000', '', '')		five hundred thousand euros 
+
+================================================
+
+
+================================================
+
+('$', '84,400', '', '')		eighty four thousand four hundred dollars 
+('$', '93,600', '', '')		ninety three thousand six hundred dollars 
+
+================================================
+
+('$', '9', '99', '')		nine dollars and ninety nine cents 
+
+================================================
+
+
+================================================
+
+('$', '229,500', '', '')		two hundred twenty nine thousand five hundred dollars 
+
+================================================
+
+
+================================================
+
+('$', '390', '', '')		three hundred ninety dollars 
+('$', '3,700', '', '')		three thousand seven hundred dollars 
+('$', '5,800', '', '')		five thousand eight hundred dollars 
+('$', '349', '', '')		three hundred forty nine dollars 
+('$', '17,000', '', '')		seventeen thousand dollars 
+('$', '1,400', '', '')		one thousand four hundred dollars 
+('$', '100', '', '')		one hundred dollars 
+
+================================================
+
+
+================================================
+
+
+================================================
+
+('$', '10,000', '', '')		ten thousand dollars 
+
+================================================
+
+
+================================================
+
+('$', '600', '', '')		six hundred dollars 
+
+================================================
+
+('$', '3,100', '', '')		three thousand one hundred dollars 
+('$', '3,425', '', '')		three thousand four hundred twenty five dollars 
+
+================================================
+
+
+================================================
+
+('$', '535', '', '')		five hundred thirty five dollars 
+
+================================================
+
+('€', '2,790', '', '')		two thousand seven hundred ninety euros 
+('$', '3,050', '', '')		three thousand fifty dollars 
+('€', '2,950', '', '')		two thousand nine hundred fifty euros 
+('$', '3,250', '', '')		three thousand two hundred fifty dollars 
+('€', '9,500', '', '')		nine thousand five hundred euros 
+('$', '10,450', '', '')		ten thousand four hundred fifty dollars 
+('€', '18,900', '', '')		eighteen thousand nine hundred euros 
+('$', '20,700', '', '')		twenty thousand seven hundred dollars 
+
+================================================
+
+('$', '13', '', '')		thirteen dollars 
+('$', '11', '', '')		eleven dollars 
+('$', '14', '', '')		fourteen dollars 
+('$', '21', '', '')		twenty one dollars 
+('$', '12', '95', '')		twelve dollars and ninety five cents 
+('$', '17', '95', '')		seventeen dollars and ninety five cents 
+('$', '14', '', '')		fourteen dollars 
+('$', '8', '', '')		eight dollars 
+('$', '11', '', '')		eleven dollars 
+('$', '7', '', '')		seven dollars 
+('$', '8', '', '')		eight dollars 
+('$', '9', '', '')		nine dollars 
+('$', '72', '', '')		seventy two dollars 
+('$', '26', '37', '')		twenty six dollars and thirty seven cents 
+('$', '12', '', '')		twelve dollars 
+
+================================================
+
+('$', '60,000', '', '')		sixty thousand dollars 
+('$', '4,500', '', '')		four thousand five hundred dollars 
+('$', '58,000', '', '')		fifty eight thousand dollars 
+
+================================================
+
+('$', '99', '', '')		ninety nine dollars 
+('$', '180', '', '')		one hundred eighty dollars 
+('$', '165', '', '')		one hundred sixty five dollars 
+('$', '39', '95', '')		thirty nine dollars and ninety five cents 
+('$', '825', '', '')		eight hundred twenty five dollars 
+
+================================================
+
+
+================================================
+
+('$', '2', '7', 'billion')		two point seven billion dollars 
+('$', '4', '', 'million')		four million dollars 
+('$', '3,000', '', '')		three thousand dollars 
+('$', '20,000', '', '')		twenty thousand dollars 
+('$', '10', '9', 'billion')		ten point nine billion dollars 
+('$', '179', '4', 'million')		one hundred seventy nine point four million dollars 
+('$', '50', '6', 'million')		fifty point six million dollars 
+('$', '141', '3', 'million')		one hundred forty one point three million dollars 
+('$', '40,000', '', '')		forty thousand dollars 
+('$', '1', '5', 'million')		one point five million dollar 
+('$', '9', '8', 'million')		nine point eight million dollars 
+('$', '2', '5', 'million')		two point five million dollars 
+('$', '24', '8', 'million')		twenty four point eight million dollars 
+('$', '7', '4', 'million')		seven point four million dollars 
+('$', '1', '', 'million')		one million dollar 
+('$', '4', '', 'million')		four million dollars 
+('$', '5,000', '', '')		five thousand dollars 
+('$', '8,000', '', '')		eight thousand dollars 
+('$', '35,000', '', '')		thirty five thousand dollars 
+('$', '500,000', '', '')		five hundred thousand dollars 
+
+================================================
+
+
+================================================
+
+
+================================================
+
+('$', '8,900', '', '')		eight thousand nine hundred dollars 
+
+================================================
+
+
+================================================
+
+('$', '140,000', '', '')		one hundred forty thousand dollars 
+('$', '45,200', '', '')		forty five thousand two hundred dollars 
+
+================================================
+
+('$', '250,000', '', '')		two hundred fifty thousand dollars 
+
+================================================
+
+('$', '100,000', '', '')		one hundred thousand dollars 
+
+================================================
+
+
+================================================
+
+
+================================================
+
+('$', '375', '', 'million')		three hundred seventy five million dollars 
+('$', '1,000', '', '')		one thousand dollars 
+('$', '50', '', '')		fifty dollars 
+('$', '999', '', '')		nine hundred ninety nine dollars 
+('$', '100', '', '')		one hundred dollars 
+('$', '149', '99', '')		one hundred forty nine dollars and ninety nine cents 
+('$', '50', '', 'billion')		fifty billion dollars 
+('$', '349', '', '')		three hundred forty nine dollars 
+('$', '17,000', '', '')		seventeen thousand dollars 
+('$', '950', '', 'million')		nine hundred fifty million dollars 
+('$', '499', '', '')		four hundred ninety nine dollars 
+
+================================================
+
+
+================================================
+
+('$', '55,000', '', '')		fifty five thousand dollars 
+('$', '11,500', '', '')		eleven thousand five hundred dollars 
+('$', '34,500', '', '')		thirty four thousand five hundred dollars 
+('$', '36,000', '', '')		thirty six thousand dollars 
+('$', '39,500', '', '')		thirty nine thousand five hundred dollars 
+('$', '24,900', '', '')		twenty four thousand nine hundred dollars 
+('$', '51,400', '', '')		fifty one thousand four hundred dollars 
+('$', '28,600', '', '')		twenty eight thousand six hundred dollars 
+('$', '181,000', '', '')		one hundred eighty one thousand dollars 
+
+================================================
+
+
+================================================
+
+
+================================================
+
+
+================================================
+
+('$', '3,140', '', '')		three thousand one hundred forty dollars 
+('$', '4,900', '', '')		four thousand nine hundred dollars 
+('$', '5,800', '', '')		five thousand eight hundred dollars 
+
+================================================
+
+
+================================================
+
+('$', '3,550', '', '')		three thousand five hundred fifty dollars 
+('$', '3,750', '', '')		three thousand seven hundred fifty dollars 
+('$', '40,000', '', '')		forty thousand dollars 
+
+================================================
+
+
+================================================
+
+
+================================================
+
+
+================================================
+
+
+================================================
+
+('$', '165,000', '', '')		one hundred sixty five thousand dollars 
+('$', '112', '', 'million')		one hundred twelve million dollars 
+
+================================================
+
+
+================================================
+
+
+================================================
+
+
+================================================
+
+
+================================================
+
+('$', '28', '', '')		twenty eight dollars 
+
+================================================
+
+('$', '1', '22', 'billion')		one point two two billion dollar 
+
+================================================
+
+
+================================================
+
+('$', '15,175', '', '')		fifteen thousand one hundred seventy five dollars 
+
+================================================
+
+
+================================================
+
+
+================================================
+
+('£', '1', '5', 'million')		one point five million pound 
+('$', '2', '3', '')		two point three dollars 
+
+================================================
+
+('$', '13', '', '')		thirteen dollars 
+('$', '79', '', '')		seventy nine dollars 
+('$', '13', '', '')		thirteen dollars 
+('$', '5', '', '')		five dollars 
+('$', '9', '', '')		nine dollars 
+('$', '14', '', '')		fourteen dollars 
+('$', '48', '', '')		forty eight dollars 
+
+================================================
+
+('$', '112', '', 'million')		one hundred twelve million dollars 
+
+================================================
+
+
+================================================
+
+
+================================================
+
+
+================================================
+
+
+================================================
+
+('$', '2', '6', 'million')		two point six million dollars 
+
+================================================
+
+
+================================================
+
+('$', '570,000', '', '')		five hundred seventy thousand dollars 
+
+================================================
+
+
+================================================
+
+('£', '7', '', '')		seven pounds 
+('$', '10', '', '')		ten dollars 
+('£', '20', '75', '')		twenty pounds and seventy five pennies 
+('£', '15', '', '')		fifteen pounds 
+('£', '45', '', '')		forty five pounds 
+
+================================================
+
+('$', '43', '', '')		forty three dollars 
+
+================================================
+
+
+================================================
+
+('$', '14', '99', '')		fourteen dollars and ninety nine cents 
+
+================================================
+
+
+================================================
+
+('$', '30', '', '')		thirty dollars 
+('$', '300', '', '')		three hundred dollars 
+
+================================================
+
+('£', '40', '', 'million')		forty million pounds 
+('$', '57', '', 'million')		fifty seven million dollars 
+('£', '1,000', '', '')		one thousand pounds 
+('£', '85', '', '')		eighty five pounds 
+('£', '75', '', '')		seventy five pounds 
+('£', '280', '', '')		two hundred eighty pounds 
+('£', '20', '', '')		twenty pounds 
+('£', '30', '', '')		thirty pounds 
+('£', '120', '', '')		one hundred twenty pounds 
+('£', '80', '', '')		eighty pounds 
+('£', '90', '', '')		ninety pounds 
+
+================================================
+
+
+================================================
+
+
+================================================
+
+
+================================================
+
+('$', '23', '70', '')		twenty three dollars and seventy cents 
+
+================================================
+
+('£', '6', '', '')		six pounds 
+('$', '8', '40', '')		eight dollars and forty cents 
+('£', '26', '', '')		twenty six pounds 
+('£', '40', '', '')		forty pounds 
+('£', '60', '', '')		sixty pounds 
+
+================================================
+
+
+================================================
+
+('$', '20', '', '')		twenty dollars 
+('$', '19', '', '')		nineteen dollars 
+('$', '21', '', '')		twenty one dollars 
+('$', '15', '', '')		fifteen dollars 
+('$', '19', '', '')		nineteen dollars 
+
+================================================
+
+
+================================================
+
+('$', '24', '90', '')		twenty four dollars and ninety cents 
+
+================================================
+
+('$', '461', '', '')		four hundred sixty one dollars 
+
+================================================
+
+
+================================================
+
+('$', '147', '', '')		one hundred forty seven dollars 
+
+================================================
+
+('$', '21', '', '')		twenty one dollars 
+
+================================================
+
+('$', '60', '', '')		sixty dollars 
+
+================================================
+
+
+================================================
+
+('£', '10', '', '')		ten pounds 
+('$', '15', '60', '')		fifteen dollars and sixty cents 
+('£', '12', '50', '')		twelve pounds and fifty pennies 
+('£', '8', '', '')		eight pounds 
+('£', '5', '', '')		five pounds 
+
+================================================
+
+
+================================================
+
+
+================================================
+
+('$', '97', '', '')		ninety seven dollars 
+('$', '41,000', '', '')		forty one thousand dollars 
+
+================================================
+
+
+================================================
+
+('$', '9', '08', '')		nine dollars and eight cents 
+('$', '7', '90', '')		seven dollars and ninety cents 
+
+================================================
+
+
+================================================
+
+('$', '15', '', '')		fifteen dollars 
+
+================================================
+
+
+================================================
+
+
+================================================
+
+('£', '6', '', '')		six pounds 
+('$', '9', '', '')		nine dollars 
+('£', '3', '', '')		three pounds 
+('£', '4', '', '')		four pounds 
+('£', '15', '', '')		fifteen pounds 
+
+================================================
+
+
+================================================
+
+('$', '85', '45', '')		eighty five dollars and forty five cents 
+
+================================================
+
+('$', '7', '83', '')		seven dollars and eighty three cents 
+
+================================================
+
+('£', '35', '', '')		thirty five pounds 
+('$', '55', '', '')		fifty five dollars 
+
+================================================
+
+('$', '92', '39', '')		ninety two dollars and thirty nine cents 
+
+================================================
+
+
+================================================
+
+
+================================================
+
+
+================================================
+
+('$', '50', '', '')		fifty dollars 
+
+================================================
+
+
+================================================
+
+
+================================================
+
+
+================================================
+
+('$', '10,000', '', '')		ten thousand dollars 
+('$', '10,000', '', '')		ten thousand dollars 
+('$', '6,900', '', '')		six thousand nine hundred dollars 
+('$', '9,050', '', '')		nine thousand fifty dollars 
+('$', '6,750', '', '')		six thousand seven hundred fifty dollars 
+('$', '7,500', '', '')		seven thousand five hundred dollars 
+('$', '3,950', '', '')		three thousand nine hundred fifty dollars 
+('$', '9,100', '', '')		nine thousand one hundred dollars 
+('$', '5,900', '', '')		five thousand nine hundred dollars 
+('$', '4,990', '', '')		four thousand nine hundred ninety dollars 
+('$', '5,250', '', '')		five thousand two hundred fifty dollars 
+('$', '7,000', '', '')		seven thousand dollars 
+('$', '3,840', '', '')		three thousand eight hundred forty dollars 
+('$', '7,500', '', '')		seven thousand five hundred dollars 
+('$', '30,000', '', '')		thirty thousand dollars 
+
+================================================
+
+
+================================================
+
+
+================================================
+
+('$', '1,995', '', '')		one thousand nine hundred ninety five dollars 
+('$', '950', '', '')		nine hundred fifty dollars 
+('$', '350', '', '')		three hundred fifty dollars 
+('$', '150', '', '')		one hundred fifty dollars 
+('$', '2,995', '', '')		two thousand nine hundred ninety five dollars 
+
+================================================
+
+('$', '28', '', '')		twenty eight dollars 
+
+================================================
+
+('$', '10', '65', '')		ten dollars and sixty five cents 
+
+================================================
+
+('$', '130', '', '')		one hundred thirty dollars 
+('$', '1,200', '', '')		one thousand two hundred dollars 
+('$', '1,200', '', '')		one thousand two hundred dollars 
+('$', '2,400', '', '')		two thousand four hundred dollars 
+('$', '19,995', '', '')		nineteen thousand nine hundred ninety five dollars 
+('$', '10,500', '', '')		ten thousand five hundred dollars 
+('$', '2,050', '', '')		two thousand fifty dollars 
+('$', '2,289', '', '')		two thousand two hundred eighty nine dollars 
+('$', '7,700', '', '')		seven thousand seven hundred dollars 
+('$', '2,100', '', '')		two thousand one hundred dollars 
+
+================================================
+
+('$', '280,000', '', '')		two hundred eighty thousand dollars 
+('$', '155,000', '', '')		one hundred fifty five thousand dollars 
+('$', '799', '', '')		seven hundred ninety nine dollars 
+('$', '899', '', '')		eight hundred ninety nine dollars 
+('$', '540,000', '', '')		five hundred forty thousand dollars 
+('$', '800,000', '', '')		eight hundred thousand dollars 
+('$', '6,000', '', '')		six thousand dollars 
+('$', '575,000', '', '')		five hundred seventy five thousand dollars 
+('$', '276,000', '', '')		two hundred seventy six thousand dollars 
+
+================================================
+
+
+================================================
+
+('$', '12,200', '', '')		twelve thousand two hundred dollars 
+('$', '73,000', '', '')		seventy three thousand dollars 
+('$', '6,895', '', '')		six thousand eight hundred ninety five dollars 
+('$', '50,000', '', '')		fifty thousand dollars 
+('$', '5,200', '', '')		five thousand two hundred dollars 
+('$', '10,000', '', '')		ten thousand dollars 
+('$', '46,000', '', '')		forty six thousand dollars 
+('$', '7,140', '', '')		seven thousand one hundred forty dollars 
+
+================================================
+
+('$', '3', '59', 'million')		three point five nine million dollars 
+('$', '3', '72', 'million')		three point seven two million dollars 
+('$', '4', '', 'million')		four million dollars 
+('$', '5', '75', 'million')		five point seven five million dollars 
+('$', '31', '5', 'million')		thirty one point five million dollars 
+('$', '20', '4', 'million')		twenty point four million dollars 
+('$', '21', '9', 'million')		twenty one point nine million dollars 
+('$', '19', '', 'million')		nineteen million dollars 
+
+================================================
+
+('£', '2', '50', '')		two pounds and fifty pennies 
+('$', '3', '55', '')		three dollars and fifty five cents 
+('£', '4', '50', '')		four pounds and fifty pennies 
+('£', '5', '', '')		five pounds 
+('£', '7', '', '')		seven pounds 
+('£', '11', '', '')		eleven pounds 
+
+================================================
+
+
+================================================
+
+
+================================================
+
+('$', '20,000', '', '')		twenty thousand dollars 
+
+================================================
+
+
+================================================
+
+
+================================================
+
+('$', '25', '', '')		twenty five dollars 
+('$', '50', '', '')		fifty dollars 
+
+================================================
+
+
+================================================
+
+('$', '65', '', 'million')		sixty five million dollars 
+('$', '170', '', 'million')		one hundred seventy million dollars 
+('€', '100', '', 'million')		one hundred million euros 
+('$', '109', '', 'million')		one hundred nine million dollars 
+('€', '20', '', 'million')		twenty million euros 
+('€', '3', '8', 'million')		three point eight million euros 
+('€', '10', '', 'million')		ten million euros 
+
+================================================
+
+
+================================================
+
+('$', '50', '', 'million')		fifty million dollars 
+
+================================================
+
+('$', '50', '', 'million')		fifty million dollars 
+
+================================================
+
+
+================================================
+
+
+================================================
+
+('$', '1,500', '', '')		one thousand five hundred dollars 
+
+================================================
+
+
+================================================
+
+
+================================================
+
+
+================================================
+
+
+================================================
+
+('$', '4', '6', 'million')		four point six million dollars 
+('$', '300', '', 'million')		three hundred million dollars 
+('$', '100', '', 'million')		one hundred million dollars 
+('£', '3', '', 'million')		three million pounds 
+('$', '4', '6', 'million')		four point six million dollars 
+('$', '4', '6', 'million')		four point six million dollars 
+
+================================================
+
+
+================================================
+
+('$', '2', '', 'billion')		two billion dollars 
+('$', '5', '7', 'billion')		five point seven billion dollars 
+
+================================================
+
+
+================================================
+
+
+================================================
+
+('$', '30', '', '')		thirty dollars 
+('$', '35', '', '')		thirty five dollars 
+('$', '189', '', '')		one hundred eighty nine dollars 
+('$', '39', '', '')		thirty nine dollars 
+('$', '13', '', '')		thirteen dollars 
+('$', '30', '', '')		thirty dollars 
+('$', '205', '', '')		two hundred five dollars 
+('$', '28', '', '')		twenty eight dollars 
+('$', '26', '', '')		twenty six dollars 
+('$', '30', '', '')		thirty dollars 
+('$', '65', '', '')		sixty five dollars 
+
+================================================
+
+
+================================================
+
+('$', '3,000', '', '')		three thousand dollars 
+('$', '5,000', '', '')		five thousand dollars 
+('$', '25,000', '', '')		twenty five thousand dollars 
+('$', '45,000', '', '')		forty five thousand dollars 
+('$', '35,000', '', '')		thirty five thousand dollars 
+('$', '26,000', '', '')		twenty six thousand dollars 
+('$', '36,000', '', '')		thirty six thousand dollars 
+('$', '22,000', '', '')		twenty two thousand dollars 
+('$', '32,000', '', '')		thirty two thousand dollars 
+('$', '1,000', '', '')		one thousand dollars 
+('$', '2,000', '', '')		two thousand dollars 
+
+================================================
+
+
+================================================
+
+('$', '2,208', '', '')		two thousand two hundred eight dollars 
+('$', '1,530', '', '')		one thousand five hundred thirty dollars 
+('$', '655', '', '')		six hundred fifty five dollars 
+('$', '823', '70', '')		eight hundred twenty three dollars and seventy cents 
+('$', '125', '', '')		one hundred twenty five dollars 
+('$', '1,560', '', '')		one thousand five hundred sixty dollars 
+('$', '394', '57', '')		three hundred ninety four dollars and fifty seven cents 
+('$', '815', '', '')		eight hundred fifteen dollars 
+('$', '495', '', '')		four hundred ninety five dollars 
+('$', '1,690', '', '')		one thousand six hundred ninety dollars 
+('$', '818', '20', '')		eight hundred eighteen dollars and twenty cents 
+('$', '995', '', '')		nine hundred ninety five dollars 
+('$', '90', '', '')		ninety dollars 
+('$', '330', '', '')		three hundred thirty dollars 
+('$', '475', '', '')		four hundred seventy five dollars 
+('$', '3,430', '', '')		three thousand four hundred thirty dollars 
+('$', '2,385', '', '')		two thousand three hundred eighty five dollars 
+('$', '16,115', '', '')		sixteen thousand one hundred fifteen dollars 
+
+================================================
+
+('£', '12,000', '', '')		twelve thousand pounds 
+('$', '19,400', '', '')		nineteen thousand four hundred dollars 
+('£', '5,390', '', '')		five thousand three hundred ninety pounds 
+('$', '8,350', '', '')		eight thousand three hundred fifty dollars 
+('$', '232,692', '', '')		two hundred thirty two thousand six hundred ninety two dollars 
+('£', '5,500', '', '')		five thousand five hundred pounds 
+
+================================================
+
+('$', '206', '', '')		two hundred six dollars 
+
+================================================
+
+('$', '1', '', 'million')		one million dollar 
+('$', '3', '', 'million')		three million dollars 
+('$', '1', '', 'billion')		one billion dollar 
+('$', '100', '5', 'million')		one hundred point five million dollars 
+('$', '1,497', '', '')		one thousand four hundred ninety seven dollars 
+('$', '103', '5', 'million')		one hundred three point five million dollars 
+
+================================================
+
+
+================================================
+
+('$', '17', '99', '')		seventeen dollars and ninety nine cents 
+('$', '17', '99', '')		seventeen dollars and ninety nine cents 
+('$', '277', '18', '')		two hundred seventy seven dollars and eighteen cents 
+('$', '355', '13', '')		three hundred fifty five dollars and thirteen cents 
+('$', '59', '', '')		fifty nine dollars 
+('$', '450', '', '')		four hundred fifty dollars 
+('$', '65', '', '')		sixty five dollars 
+('$', '280', '', '')		two hundred eighty dollars 
+('$', '60', '', '')		sixty dollars 
+('$', '895', '', '')		eight hundred ninety five dollars 
+('$', '527', '57', '')		five hundred twenty seven dollars and fifty seven cents 
+
+================================================
+
+
+================================================
+
+('$', '10', '', '')		ten dollars 
+('$', '150', '', '')		one hundred fifty dollars 
+
+================================================
+
+
+================================================
+
+
+================================================
+
+('$', '15', '', 'million')		fifteen million dollars 
+('$', '3', '8', 'million')		three point eight million dollars 
+('$', '5', '5', 'million')		five point five million dollars 
+('$', '2', '5', 'million')		two point five million dollars 
+('$', '3', '5', 'million')		three point five million dollars 
+('$', '700,000', '', '')		seven hundred thousand dollars 
+('$', '1', '', 'million')		one million dollar 
+('$', '600,000', '', '')		six hundred thousand dollars 
+('$', '800,000', '', '')		eight hundred thousand dollars 
+('$', '600,000', '', '')		six hundred thousand dollars 
+('$', '800,000', '', '')		eight hundred thousand dollars 
+('$', '500,000', '', '')		five hundred thousand dollars 
+('$', '700,000', '', '')		seven hundred thousand dollars 
+('$', '200,000', '', '')		two hundred thousand dollars 
+('$', '300,000', '', '')		three hundred thousand dollars 
+('$', '150,000', '', '')		one hundred fifty thousand dollars 
+('$', '250,000', '', '')		two hundred fifty thousand dollars 
+('$', '100,000', '', '')		one hundred thousand dollars 
+('$', '150,000', '', '')		one hundred fifty thousand dollars 
+('$', '10,500', '', '')		ten thousand five hundred dollars 
+('$', '15,000', '', '')		fifteen thousand dollars 
+
+================================================
+
+('$', '1', '1', 'billion')		one point one billion dollar 
+
+================================================
+
+('$', '1,200', '', '')		one thousand two hundred dollars 
+('$', '120', '', '')		one hundred twenty dollars 
+('$', '20', '', '')		twenty dollars 
+('$', '60', '', '')		sixty dollars 
+('$', '200', '', '')		two hundred dollars 
+('$', '70', '', '')		seventy dollars 
+('$', '120', '', '')		one hundred twenty dollars 
+
+================================================
+
+('$', '4', '', 'million')		four million dollars 
+('$', '3', '2', 'billion')		three point two billion dollars 
+('$', '2', '1', 'billion')		two point one billion dollars 
+('$', '3', '50', '')		three dollars and fifty cents 
+
+================================================
+
+('$', '150', '', '')		one hundred fifty dollars 
+('$', '850', '', '')		eight hundred fifty dollars 
+('$', '100', '', '')		one hundred dollars 
+('$', '17', '', 'million')		seventeen million dollars 
+('$', '8', '', 'million')		eight million dollars 
+('$', '90', '', '')		ninety dollars 
+('$', '45', '', '')		forty five dollars 
+('$', '195', '', '')		one hundred ninety five dollars 
+('$', '140', '', '')		one hundred forty dollars 
+('$', '1,545', '', '')		one thousand five hundred forty five dollars 
+('$', '3,090', '', '')		three thousand ninety dollars 
+('$', '5,200', '', '')		five thousand two hundred dollars 
+
+================================================
+
+
+================================================
+
+
+================================================
+
+('$', '35', '', '')		thirty five dollars 
+
+================================================
+
+
+================================================
+
+('$', '5', '4', 'billion')		five point four billion dollars 
+
+================================================
+
+('$', '2', '4', 'million')		two point four million dollars 
+('$', '95,000', '', '')		ninety five thousand dollars 
+('$', '180,000', '', '')		one hundred eighty thousand dollars 
+
+================================================
+
+('$', '30,000', '', '')		thirty thousand dollars 
+('$', '5,000', '', '')		five thousand dollars 
+('$', '1,000', '', '')		one thousand dollars 
+('$', '1,500', '', '')		one thousand five hundred dollars 
+('$', '600', '', '')		six hundred dollars 
+('$', '900', '', '')		nine hundred dollars 
+('$', '2,000', '', '')		two thousand dollars 
+('$', '3,000', '', '')		three thousand dollars 
+('$', '300', '', '')		three hundred dollars 
+('$', '400', '', '')		four hundred dollars 
+('$', '2,000', '', '')		two thousand dollars 
+('$', '3,000', '', '')		three thousand dollars 
+('$', '500', '', '')		five hundred dollars 
+('$', '800', '', '')		eight hundred dollars 
+
+================================================
+
+
+================================================
+
+('$', '81', '', '')		eighty one dollars 
+('$', '21', '78', '')		twenty one dollars and seventy eight cents 
+
+================================================
+
+
+================================================
+
+('$', '4', '3', 'million')		four point three million dollars 
+('$', '5', '495', 'million')		five point four nine five million dollars 
+('$', '2', '795', 'million')		two point seven nine five million dollars 
+('$', '950,000', '', '')		nine hundred fifty thousand dollars 
+('$', '1', '115', 'million')		one point one one five million dollar 
+
+================================================
+
+('€', '330', '', 'million')		three hundred thirty million euros 
+('$', '75', '', '')		seventy five dollars 
+('$', '95', '', '')		ninety five dollars 
+('$', '40', '', '')		forty dollars 
+('$', '18', '', '')		eighteen dollars 
+('$', '40', '', '')		forty dollars 
+('$', '14', '', '')		fourteen dollars 
+('$', '40', '', '')		forty dollars 
+('$', '50', '', '')		fifty dollars 
+
+================================================
+
+
+================================================
+
+('$', '5', '4', '')		five point four dollars 
+('$', '4', '6', '')		four point six dollars 
+('$', '12', '50', '')		twelve dollars and fifty cents 
+
+================================================
+
+('$', '10', '', '')		ten dollars 
+('$', '40', '', '')		forty dollars 
+
+================================================
+
+
+================================================
+
+('$', '75', '', '')		seventy five dollars 
+('$', '42', '', '')		forty two dollars 
+('$', '275', '', '')		two hundred seventy five dollars 
+('$', '820', '', '')		eight hundred twenty dollars 
+('$', '95', '', '')		ninety five dollars 
+('$', '880', '', '')		eight hundred eighty dollars 
+('$', '168', '', '')		one hundred sixty eight dollars 
+('$', '62', '', '')		sixty two dollars 
+('$', '325', '', '')		three hundred twenty five dollars 
+
+================================================
+
+('$', '9', '4', 'billion')		nine point four billion dollars 
+('$', '3', '', 'billion')		three billion dollars 
+('$', '6,737', '', '')		six thousand seven hundred thirty seven dollars 
+
+================================================
+
+('$', '5,000', '', '')		five thousand dollars 
+('$', '500,000', '', '')		five hundred thousand dollars 
+('$', '500,000', '', '')		five hundred thousand dollars 
+('$', '20,000', '', '')		twenty thousand dollars 
+('$', '90,000', '', '')		ninety thousand dollars 
+('$', '150,000', '', '')		one hundred fifty thousand dollars 
+('$', '250,000', '', '')		two hundred fifty thousand dollars 
+('$', '100,000', '', '')		one hundred thousand dollars 
+('$', '100,000', '', '')		one hundred thousand dollars 
+('$', '15,000', '', '')		fifteen thousand dollars 
+('$', '300,000', '', '')		three hundred thousand dollars 
+
+================================================
+
+('$', '100,000', '', '')		one hundred thousand dollars 
+('$', '607', '9', 'million')		six hundred seven point nine million dollars 
+('$', '681', '8', 'million')		six hundred eighty one point eight million dollars 
+('$', '237', '3', 'million')		two hundred thirty seven point three million dollars 
+('$', '276', '6', 'million')		two hundred seventy six point six million dollars 
+('$', '10', '', 'million')		ten million dollars 
+('$', '1', '', 'million')		one million dollar 
+('$', '1,000', '', '')		one thousand dollars 
+
+================================================
+
+
+================================================
+
+('$', '2', '2', 'billion')		two point two billion dollars 
+('$', '100', '', 'million')		one hundred million dollars 
+
+================================================
+
+('$', '20', '', '')		twenty dollars 
+('$', '1', '', '')		one dollar 
+
+================================================
+
+
+================================================
+
+('$', '2', '7', 'billion')		two point seven billion dollars 
+('$', '1', '5', 'billion')		one point five billion dollar 
+
+================================================
+
+('$', '66', '9', 'million')		sixty six point nine million dollars 
+('$', '64', '4', 'million')		sixty four point four million dollars 
+('$', '11', '4', 'million')		eleven point four million dollars 
+('$', '10', '', 'million')		ten million dollars 
+('$', '4', '7', 'million')		four point seven million dollars 
+('$', '4', '', 'million')		four million dollars 
+('$', '4', '', 'million')		four million dollars 
+('$', '6', '', 'million')		six million dollars 
+('$', '4', '', 'million')		four million dollars 
+('$', '908,000', '', '')		nine hundred eight thousand dollars 
+('$', '3', '5', 'million')		three point five million dollars 
+('$', '4', '5', 'million')		four point five million dollars 
+('$', '4', '', 'million')		four million dollars 
+('$', '629', '1', 'million')		six hundred twenty nine point one million dollars 
+('$', '100', '', 'million')		one hundred million dollars 
+('$', '2', '4', 'million')		two point four million dollars 
+('$', '2', '', 'million')		two million dollars 
+('$', '3', '', 'million')		three million dollars 
+('$', '800,000', '', '')		eight hundred thousand dollars 
+('$', '1', '2', 'million')		one point two million dollar 
+
+================================================
+
+('$', '3', '', '')		three dollars 
+('$', '2', '2', '')		two point two dollars 
+('$', '3', '7', '')		three point seven dollars 
+
+================================================
+
+('$', '20', '', '')		twenty dollars 
+('$', '20', '', '')		twenty dollars 
+('$', '25', '', '')		twenty five dollars 
+('$', '30', '', '')		thirty dollars 
+('$', '20', '', '')		twenty dollars 
+('$', '20', '', '')		twenty dollars 
+('€', '40,000', '', '')		forty thousand euros 
+('$', '125', '', '')		one hundred twenty five dollars 
+('$', '22', '', '')		twenty two dollars 
+('$', '25', '', '')		twenty five dollars 
+('$', '171,470', '', '')		one hundred seventy one thousand four hundred seventy dollars 
+
+================================================
+
+('$', '726', '7', 'million')		seven hundred twenty six point seven million dollars 
+
+================================================
+
+
+================================================
+
+
+================================================
+
+
+================================================
+
+('€', '1,500', '', '')		one thousand five hundred euros 
+('$', '1,650', '', '')		one thousand six hundred fifty dollars 
+
+================================================
+
+('$', '18', '', 'billion')		eighteen billion dollars 
+('$', '3', '5', 'trillion')		three point five trillion dollars 
