@@ -1,13 +1,15 @@
 import pandas as pd
 import random
 import numpy
-
+# This program randomly select 200 negative samples and 100 positive samples in
+# this large corpus。
 df = pd.read_csv("pair&average.csv",sep='\t')
 
 condition1 = df['average_score']>0.9
 condition2 = df['pair_score']>0.9
 condition3 = df['first_token'] == '$'
 condition4 = df['first_token'] != '$'
+
 positive = df[condition1 & condition2 & condition3]
 negative = df[condition1 & condition2 & condition4]
 
