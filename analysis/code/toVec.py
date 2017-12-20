@@ -6,7 +6,6 @@ from random import randint
 import pandas as pd
 
 
-
 symbols = ['$','£','€','¥','fr']
 numbers = ['1.00','100','200.34','600,000']
 scales = ['hundred','thousand','million','bn','tn','']
@@ -79,14 +78,14 @@ def group_score(model,fgram1,fgram2,method = "pair"):
     return mean(scores)
 
 
-def evaluate(model,fgram):
+def evaluate(model,fgram,method = 'pair'):
     i = randint(0,len(currency_samples)-1)
-    score = group_score(model,fgram,currency_samples[i])
+    score = group_score(model,fgram,currency_samples[i],method)
     return score
 
 
-def get_scores(model,fgrams):
-    score_vec = [evaluate(model,fgram) for fgram in fgrams]
+def get_scores(model,fgrams,method='pair'):
+    score_vec = [evaluate(model,fgram,method) for fgram in fgrams]
     return score_vec
 
 
@@ -96,8 +95,8 @@ if __name__ == "__main__":
     tokens = tokenize(news)
     model = train(tokens)
     fgrams = group_tokens(news)
-    scores = get_scores(model,fgrams)
-    f_s_dict = {'group_tokens':fgrams,'score':scores}
-    print(scores)
+    pair_scores = get_scores(model,fgrams)
+    average_scores = get_scores(model,fgrams,'average')
+    f_s_dict = {'group_tokens':fgrams,'pair_score':pair_scores,'average_score':average_scores,'first_token':[item[0] for item in fgrams]}
     df = pd.DataFrame(data=f_s_dict)
-    df.to_csv("result2.csv", sep='\t', encoding='utf-8')
+    df.to_csv("pair&average.csv", sep='\t', encoding='utf-8',index = False)
