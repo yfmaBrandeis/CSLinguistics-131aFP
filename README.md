@@ -1,4 +1,6 @@
 # **LING-131a Final Project: Text Normalization**
+
+## Project Introduction
 Presentation: [Google Slides](https://docs.google.com/a/brandeis.edu/presentation/d/10JmGl_2cYg02tKstsWhFI9X8zjrWj92UZ5JEaJiyMOc/edit?usp=sharing)
 
 Project write-up:
@@ -13,8 +15,8 @@ Project write-up:
     ├── text_normalization      # regular expression and text normalization code
     └── README.md
 
-See README.md in each folder for instruction on how to run the code
+## Usage Instructions
+Read _README.md_ in each folder for instruction on how to run the code
 
-[decision_tree/README.md](./decision_tree/README.md)
-
-[text_normalization/README.md](./text_normalization/README.md)
+- [./decision_tree/README.md](./decision_tree/README.md)
+- [./text_normalization/README.md](./text_normalization/README.md)
