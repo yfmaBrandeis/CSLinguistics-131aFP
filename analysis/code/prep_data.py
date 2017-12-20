@@ -4,7 +4,7 @@ import numpy
 
 df = pd.read_csv("pair&average.csv",sep='\t')
 
-condition1 = df['average_score']>0.8
+condition1 = df['average_score']>0.9
 condition2 = df['pair_score']>0.9
 condition3 = df['first_token'] == '$'
 condition4 = df['first_token'] != '$'
