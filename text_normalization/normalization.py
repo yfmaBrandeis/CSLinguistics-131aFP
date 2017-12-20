@@ -4,7 +4,7 @@ from num2word import digit2word
 from num2word import num2word
 
 
-class Normalizer:
+class CurrencyNormalizer:
 
     def __init__(self):
         self.abbreviationDict = defaultdict(list)
@@ -57,40 +57,47 @@ class Normalizer:
     """"normalize a tokenized currency input into english words
         currency tuple: (symbol/abbr, int, decimal, scale)"""
     def normalize_currency(self, input):
-        currency_token = input.group(1).lower()
-        num = input.group(2)
-        decimal = input.group(3)
-        scale = input.group(4)
+
+        try:
+            input = input.groups('')
+        except AttributeError:
+            pass
+
+        currency = input[0]
+        num = input[1]
+        decimal = input[2]
+        scale = input[3]
         res = []
 
         # append non-decimal number and currency word
         res.extend([self.normalize_number(num),
-                    self.get_currency_word(currency_token, num == '1')])
+                    self.get_currency_word(currency, num == '1')])
 
         # append scale if exist
-        if scale is not None:
-            if decimal is not None:
+        if scale != '':
+            if decimal != '':
                 res[len(res) - 1: len(res) - 1] = ['point', self.normalize_decimal(decimal)]
             res[len(res) - 1: len(res) - 1] = [self.get_scale_word(scale)]
 
         # append decimal number and currency word(if only 2 decimal)
         # append the "cents" equivalent currency word if the number has two
         # decimal place and no scale
-        elif decimal is not None:
+        elif decimal != '':
             if len(decimal) == 2 and decimal != '00':
                 cent_number = self.normalize_number(decimal)
                 res.extend(['and', cent_number,
-                            self.get_currency_word(currency_token, cent_number == 'one', True)])
+                            self.get_currency_word(currency, cent_number == 'one', True)])
             else:
                 res[len(res) - 1: len(res) - 1] = ['point', self.normalize_decimal(decimal)]
-        return ' '.join(res) + ' '
+        res.append('')
+        return ' '.join(res)
 
     """get the currency's english word. If is_single is true return singular 
         form (ex: dollar). Otherwise return plural form (ex: dollars).
     """
     def get_currency_word(self, currency_token, is_single, has_cent=False):
         # currency_token is abbreviation
-        if currency_token in self.abbreviationDict:
+        if currency_token.lower() in self.abbreviationDict:
             if not has_cent:
                 return self.abbreviationDict.get(currency_token)[0][0] if is_single else\
                        self.abbreviationDict.get(currency_token)[1][0]
@@ -98,7 +105,7 @@ class Normalizer:
                 return self.abbreviationDict.get(currency_token)[0][1] if is_single else\
                        self.abbreviationDict.get(currency_token)[1][1]
         # currency_token is symbol
-        elif currency_token in self.symbolDict:
+        elif currency_token.lower() in self.symbolDict:
             if not has_cent:
                 return self.symbolDict.get(currency_token)[0][0] if is_single else\
                        self.symbolDict.get(currency_token)[1][0]

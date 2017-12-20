@@ -46,14 +46,4 @@ digits = ['zero', 'one', 'two', 'three', 'four', 'five', 'six', 'seven',
 
 if __name__ == '__main__':
 
-    print(num2word('00'))
-    print(num2word('65'))
-    print(num2word('500'))
-    print(num2word('531'))
-    print(num2word('1500'))
-    print(num2word('100000'))
-    print(num2word('110510'))
-    print(num2word('10000'))
-    print(num2word('100100000'))
-    print(num2word('100000000000'))
-    print(digit2word('530'))
+    pass
