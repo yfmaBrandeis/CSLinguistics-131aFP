@@ -11,3 +11,4 @@ Many speech and language applications, including text-to-speech synthesis (TTS) 
 However, one of the biggest challenges when developing a TTS or ASR system for a new language is to develop and test the grammar for all these rules, a task that requires quite a bit of linguistic sophistication and native speaker intuition.
 
 ## Pipeline
+Tokenization -> Labeling -> Normalizing
